@@ -1,0 +1,15 @@
+schema_version = "1"
+source_id = "plugin-repository"
+display_name = "Plugin Repository"
+publisher_fingerprint = "2759AA7148568ECCB03B76301D82124B440F612D"
+source_serial = 12
+
+[[plugins]]
+bundle_id = "notification-broadcaster"
+folder_hash = "45cab9e7fea686efa420a9a3d603c2504a76a98be043d1dc65a937033a461c4b"
+release_ref = "main"
+
+[[plugins]]
+bundle_id = "scheduled-payments"
+folder_hash = "31a3285562728248e97b1ae0edfde26449cfc63ae7814068ce19efb74b5c7de0"
+release_ref = "main"

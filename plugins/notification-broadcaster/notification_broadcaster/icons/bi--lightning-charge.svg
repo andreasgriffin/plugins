@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="bi--lightning-charge.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="37.69763"
+     inkscape:cx="4.7217822"
+     inkscape:cy="8.8732368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 10.467039,1.9807622 a 0.3794277,0.3794277 0 0 1 0.17226,0.4401361 L 9.2726005,6.8617202 H 11.794277 A 0.3794277,0.3794277 0 0 1 12.0705,7.5014353 L 5.9996571,13.951706 A 0.3794277,0.3794277 0 0 1 5.3607009,13.579867 L 6.7273995,9.1382864 H 4.205723 A 0.3794277,0.3794277 0 0 1 3.9294996,8.4985713 l 6.0708434,-6.450271 a 0.3794277,0.3794277 0 0 1 0.466696,-0.068297 z M 5.0837187,8.379431 H 7.2411446 A 0.3794277,0.3794277 0 0 1 7.6038775,8.8704104 L 6.5657633,12.242005 10.915522,7.6205756 H 8.7588554 A 0.3794277,0.3794277 0 0 1 8.3961225,7.1295961 L 9.4342367,3.7580016 Z"
+     id="path2"
+     style="stroke-width:0.758855" />
+</svg>

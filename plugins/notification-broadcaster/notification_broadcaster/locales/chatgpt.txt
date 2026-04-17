@@ -1,0 +1,3982 @@
+tr_TR
+
+Bağdaştırıcı araması başarısız oldu: {details}
+Bağdaştırıcı testi başarısız oldu: {details}
+Bağdaştırıcı ayrıntıları kontrol ediliyor...
+Bağdaştırıcıyı Sil
+Alıcı Yapılandırması
+Ayarları Sıfırla
+Bağdaştırıcı testi çalıştırılıyor...
+Ayarları Kaydet
+Kaydet ve Test Et
+Ayarlar kaydedildi.
+Kaydedilmemiş ayarlar sıfırlandı.
+CalDAV Bağdaştırıcısı
+CalDAV uç nokta URL'si gereklidir.
+CalDAV testi bir etkinlik yüklemedi. Uç noktayı ve kimlik bilgilerini kontrol edin.
+CalDAV testi başarısız oldu: {details}
+CalDAV testi başarılı oldu. Etkinlik {start} UTC'de başlıyor. Etkinlik URL'si: {url}
+Takvim teslim kuralları
+Hangi mesaj türlerinin takvim girdileri oluşturacağını, hassas ayrıntıların gizlenip gizlenmeyeceğini ve teslimattan önceki en yüksek rastgele gecikmeyi seçin.
+Uç Nokta URL'si
+Notification Broadcaster CalDAV Testi
+Parola
+CalDAV test etkinliği gönderiliyor...
+Yapılandırılan takvim uç noktası aşağıdaki teslim kurallarını kullanır.
+Bu bir CalDAV bağlantı testi etkinliğidir.
+Mevcut bir CalDAV takviminin tam URL'sini kullanın. Nextcloud için: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Kullanıcı adı
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> gibi mevcut bir takvim URL'si kullanın
+Bir seferde bir alıcı ekleyin ve onun mesaj türlerini, hassas veri işleme ayarlarını ve en yüksek rastgele gizlilik gecikmesini tanımlayın.
+En az bir alıcı e-postası gereklidir.
+Bu alıcının hangi mesaj türlerini alacağını, hassas ayrıntıların gizlenip gizlenmeyeceğini ve teslimattan önceki en yüksek rastgele gecikmeyi seçin.
+Giden bildirim e-postaları için kullanılacak bir SMTP hesabı yapılandırın.
+Bağlantı güvenliği
+Sil
+E-posta
+E-posta Bağdaştırıcısı
+E-posta testi teslim edilmedi. SMTP ayarlarını ve alıcı adreslerini kontrol edin.
+E-posta testi başarısız oldu: {details}
+E-posta testi {recipients} için başarılı oldu.
+Yok
+Notification Broadcaster E-posta Testi
+Burada yalnızca doğrudan SMTP sunucusu yapılandırması desteklenir. Gmail, Outlook ve benzeri sağlayıcı tarafından yönetilen e-posta entegrasyonları desteklenmez.
+Alıcı teslim kuralları
+Alıcı e-postası gereklidir.
+SMTP ana bilgisayarı
+SMTP ana bilgisayarı, port ve gönderen adresi gereklidir.
+SMTP parolası
+SMTP portu
+SMTP kullanıcı adı
+SSL/TLS
+STARTTLS
+Gönderen adresi
+E-posta test bildirimi gönderiliyor...
+Bu bir e-posta bağlantı testi bildirimidir.
+[recipient@example.com](mailto:recipient@example.com)
+Bir seferde bir alıcı npub ekleyin ve onun mesaj türlerini, hassas veri işleme ayarlarını ve en yüksek rastgele gizlilik gecikmesini tanımlayın.
+En az bir alıcı npub gereklidir.
+Bu alıcının hangi mesaj türlerini alacağını, hassas ayrıntıların gizlenip gizlenmeyeceğini ve teslimattan önceki en yüksek rastgele gecikmeyi seçin.
+NIP-17 şifreli doğrudan mesajları için gönderen nsec ve röleleri yapılandırın.
+Sil
+nsec'i gizle
+Geçersiz alıcı npub.
+NIP-17 testi teslim edilmedi. Gönderen nsec'i, röleleri ve alıcı npub'larını kontrol edin.
+NIP-17 testi başarısız oldu: {details}
+NIP-17 testi {recipients} için başarılı oldu.
+Nostr DM Bağdaştırıcısı
+Notification Broadcaster NIP-17 Testi
+Npub
+Alıcı teslim kuralları
+Alıcı npub
+Alıcı npub gereklidir.
+Röleler
+Gönderen nsec
+Gönderen nsec ve en az bir röle gereklidir.
+NIP-17 test bildirimi gönderiliyor...
+nsec'i göster
+Bu bir NIP-17 bağlantı testi bildirimidir.
+npub1...
+nsec1...
+Bağdaştırıcı Ekle
+Cüzdan bildirimlerini e-posta, Telegram, NIP-17, CalDAV ve genel webhook'lar gibi bağdaştırıcılara yayınlayın.
+CalDAV Bağdaştırıcısı
+Bir bağdaştırıcı türü seçin, ekleyin, ardından aşağıdaki teslim ayarlarını yapılandırın. Ayrı hedeflere ihtiyacınız varsa aynı türden birden fazla bağdaştırıcı ekleyebilirsiniz.
+Yapılandırılmış Bağdaştırıcılar
+CalDAV takviminizde hatırlatma etkinlikleri oluşturun.
+Ayarları düzenle
+E-posta Bağdaştırıcısı
+Genel Webhook'lar
+Ayarları gizle
+Bu bildirim için hazır bir bağdaştırıcı yok.
+Henüz yapılandırılmış bağdaştırıcı yok. İlk hedefinizi oluşturmak için yukarıdan bir bağdaştırıcı türü seçin.
+Nostr DM Bağdaştırıcısı
+Notification Broadcaster
+Notification Broadcaster Testi
+Bildirim başarısız oldu: {details}
+Bildirim {adapters} aracılığıyla gönderildi.
+Bildirim {adapters} aracılığıyla gönderildi. Başarısız olanlar: {details}
+Geçmiş Yayınlar
+Son Yayınlar
+Yapılandırılmış npub'lara şifreli Nostr doğrudan mesajları gönderin.
+Bir Telegram bot sohbetine bildirim gönderin ve bot/sohbet kimliklerini doğrudan keşfedin.
+Seçilebilir yük biçimleriyle webhook URL'lerine bildirim gönderin (Genel JSON, Slack uyumlu, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Test bildirimi gönder
+Cüzdan bildirimlerini yapılandırılmış e-posta alıcılarına gönderin.
+Bildirim yayınlamadan önce abonelik erişimi gereklidir.
+{adapter} kontrol edilmeden önce abonelik erişimi gereklidir.
+Bildirim göndermeden önce abonelik erişimi gereklidir.
+{adapter} test edilmeden önce abonelik erişimi gereklidir.
+Telegram Bağdaştırıcısı
+Test
+Bu, Notification Broadcaster eklentisinden bir test bildirimidir.
+{title} #{number}
+Bağdaştırıcılar
+Temizle
+Etkinlik
+Saat
+Başlık
+Devre dışı
+Hassas ayrıntıları gizle
+Hayır
+Bildirim türleri
+Gizlilik gecikmesi
+Zamanlanmış ödemeler
+Cüzdan tx
+Uyarı
+Evet
+s
+1. Botu @BotFather ile oluşturun. 2. Kullanmak istediğiniz sohbetten botla bir sohbet açın ve /start gönderin. 3. Son bot konuşmalarını almak için Sohbetleri Algıla'ya tıklayın. 4. Algılanan bir sohbet seçin ve bir test mesajı gönderin.
+123456789:AA...
+API temel URL'si
+Bot tokeni
+Sohbet teslim kuralları
+Telegram botu ve son sohbetler kontrol ediliyor...
+Bu Telegram sohbetinin hangi mesaj türlerini alacağını, hassas ayrıntıların gizlenip gizlenmeyeceğini ve teslimattan önceki en yüksek rastgele gecikmeyi seçin.
+@BotFather ile bir bot oluşturun, ona en az bir mesaj gönderin, ardından doğrudan getMe/getUpdates çağrısı yapıp son sohbet kimliklerini listelemek için aşağıdaki yardımcı işlemi kullanın. Uygulama proxy yapılandırması otomatik olarak yeniden kullanılır.
+Sohbetleri Algıla
+Algılanan sohbetler
+Henüz Telegram sohbeti algılanmadı. Botunuza /start gönderin, Sohbetleri Algıla'ya tıklayın, ardından bir sohbet seçin.
+Henüz son sohbet kimliği bulunmadı. Önce botunuza bir mesaj gönderin, sonra tekrar deneyin.
+Notification Broadcaster Telegram Testi
+Sohbet {chat_id} kaydedildi (yenilemek için algılamayı çalıştırın)
+Algılanan bir sohbet seçin
+Botunuza /start gönderin, ardından Sohbetleri Algıla'ya tıklayın
+Telegram test bildirimi gönderiliyor...
+Telegram Bağdaştırıcısı
+Telegram bot tokeni gereklidir.
+Telegram botu: {bot}. Son sohbetler: {chats}
+Telegram araması başarısız oldu: {details}
+Telegram testi teslim edilmedi. Bot tokenini ve algılanan sohbet seçimini kontrol edin.
+Telegram testi başarısız oldu: {details}
+Telegram testi {chat_id} sohbet kimliği için başarılı oldu.
+Bu bir Telegram bağlantı testi bildirimidir.
+Son bot konuşmalarını almak için Sohbetleri Algıla'yı kullanın, ardından bildirimler için bir sohbet seçin.
+Bu webhook'un hangi mesaj türlerini alacağını, hassas ayrıntıların gizlenip gizlenmeyeceğini ve teslimattan önceki en yüksek rastgele gecikmeyi seçin.
+Discord
+Uç Nokta URL'si
+Genel JSON (Zapier, n8n, Make, özel uygulamalar)
+Genel Webhook'lar
+Google Chat
+Gotify
+Mesaj Biçimi
+Microsoft Teams
+Notification Broadcaster Webhook Testi
+Bir webhook URL'si yapıştırın, ardından eşleşen yük biçimini seçin. Örnekler: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify veya herhangi bir özel otomasyon aracı. Yerelde demo için: poetry run python -m notification_broadcaster.webhook_demo_server ardından [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) kullanın
+Webhook test bildirimi gönderiliyor...
+Slack uyumlu (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Yapılandırılan webhook uç noktası aşağıdaki teslim kurallarını kullanır.
+Bu, genel bir webhook bağlantı testi bildirimidir.
+Webhook teslim kuralları
+Webhook uç nokta URL'si gereklidir.
+Webhook testi teslim edilmedi. Uç nokta URL'sini kontrol edin.
+Webhook testi başarısız oldu: {details}
+Webhook testi başarılı oldu.
+ntfy / ntfy.sh
+Trezor'da gösterilen 6 haneli eşleştirme kodunu girin:
+PIN'i Trezor tuş takımı düzenini kullanarak girin (7 8 9 / 4 5 6 / 1 2 3):
+Trezor'u Eşleştir
+Trezor'un Kilidini Aç
+
+fr_FR
+
+Échec de la recherche de l’adaptateur : {details}
+Échec du test de l’adaptateur : {details}
+Vérification des détails de l’adaptateur...
+Supprimer l’adaptateur
+Configuration du destinataire
+Réinitialiser les paramètres
+Exécution du test de l’adaptateur...
+Enregistrer les paramètres
+Enregistrer et tester
+Paramètres enregistrés.
+Les paramètres non enregistrés ont été réinitialisés.
+Adaptateur CalDAV
+L’URL du point de terminaison CalDAV est requise.
+Le test CalDAV n’a pas téléversé d’événement. Vérifiez le point de terminaison et les identifiants.
+Échec du test CalDAV : {details}
+Test CalDAV réussi. L’événement commence à {start} UTC. URL de l’événement : {url}
+Règles de distribution du calendrier
+Choisissez quels types de messages créent des entrées de calendrier, si les détails sensibles sont masqués, et le délai aléatoire maximal avant distribution.
+URL du point de terminaison
+Test CalDAV de Notification Broadcaster
+Mot de passe
+Envoi de l’événement de test CalDAV...
+Le point de terminaison de calendrier configuré utilise les règles de distribution ci-dessous.
+Ceci est un événement de test de connectivité CalDAV.
+Utilisez l’URL complète d’un calendrier CalDAV existant. Pour Nextcloud : [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nom d’utilisateur
+{details} Utilisez une URL de calendrier existante comme [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Ajoutez un destinataire à la fois et définissez ses types de messages, la gestion des données sensibles et le délai aléatoire maximal de confidentialité.
+Au moins une adresse e-mail de destinataire est requise.
+Choisissez quels types de messages ce destinataire reçoit, si les détails sensibles sont masqués, et le délai aléatoire maximal avant distribution.
+Configurez un compte SMTP utilisé pour les e-mails de notification sortants.
+Sécurité de la connexion
+Supprimer
+E-mail
+Adaptateur e-mail
+Le test e-mail n’a pas été distribué. Vérifiez les paramètres SMTP et les adresses des destinataires.
+Échec du test e-mail : {details}
+Test e-mail réussi pour {recipients}.
+Aucun
+Test e-mail de Notification Broadcaster
+Seule la configuration directe d’un serveur SMTP est prise en charge ici. Les intégrations e-mail gérées par le fournisseur comme Gmail, Outlook et similaires ne sont pas prises en charge.
+Règles de distribution du destinataire
+L’adresse e-mail du destinataire est requise.
+Hôte SMTP
+L’hôte SMTP, le port et l’adresse de l’expéditeur sont requis.
+Mot de passe SMTP
+Port SMTP
+Nom d’utilisateur SMTP
+SSL/TLS
+STARTTLS
+Adresse de l’expéditeur
+Envoi de la notification de test par e-mail...
+Ceci est une notification de test de connectivité e-mail.
+[recipient@example.com](mailto:recipient@example.com)
+Ajoutez un npub de destinataire à la fois et définissez ses types de messages, la gestion des données sensibles et le délai aléatoire maximal de confidentialité.
+Au moins un npub de destinataire est requis.
+Choisissez quels types de messages ce destinataire reçoit, si les détails sensibles sont masqués, et le délai aléatoire maximal avant distribution.
+Configurez le nsec de l’expéditeur et les relais pour les messages directs chiffrés NIP-17.
+Supprimer
+Masquer le nsec
+Npub de destinataire invalide.
+Le test NIP-17 n’a pas été distribué. Vérifiez le nsec de l’expéditeur, les relais et les npubs des destinataires.
+Échec du test NIP-17 : {details}
+Test NIP-17 réussi pour {recipients}.
+Adaptateur DM Nostr
+Test NIP-17 de Notification Broadcaster
+Npub
+Règles de distribution du destinataire
+Npub du destinataire
+Le npub du destinataire est requis.
+Relais
+Nsec de l’expéditeur
+Le nsec de l’expéditeur et au moins un relais sont requis.
+Envoi de la notification de test NIP-17...
+Afficher le nsec
+Ceci est une notification de test de connectivité NIP-17.
+npub1...
+nsec1...
+Ajouter un adaptateur
+Diffusez les notifications du portefeuille vers des adaptateurs tels que l’e-mail, Telegram, NIP-17, CalDAV et des webhooks génériques.
+Adaptateur CalDAV
+Choisissez un type d’adaptateur, ajoutez-le, puis configurez ses paramètres de distribution ci-dessous. Vous pouvez ajouter plusieurs adaptateurs du même type si vous avez besoin de destinations distinctes.
+Adaptateurs configurés
+Créez des événements de rappel dans votre calendrier CalDAV.
+Modifier les paramètres
+Adaptateur e-mail
+Webhooks génériques
+Masquer les paramètres
+Aucun adaptateur n’est prêt pour cette notification.
+Aucun adaptateur n’est encore configuré. Choisissez un type d’adaptateur ci-dessus pour créer votre première destination.
+Adaptateur DM Nostr
+Notification Broadcaster
+Test de Notification Broadcaster
+Échec de la notification : {details}
+Notification envoyée via {adapters}.
+Notification envoyée via {adapters}. Échecs : {details}
+Diffusions passées
+Diffusions récentes
+Envoyez des messages directs Nostr chiffrés aux npubs configurés.
+Envoyez des notifications à un chat de bot Telegram et découvrez directement les identifiants du bot/chat.
+Envoyez des notifications à des URL de webhook avec des formats de charge utiles sélectionnables (JSON générique, compatible Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Envoyer une notification de test
+Envoyez les notifications du portefeuille aux destinataires e-mail configurés.
+Un accès par abonnement est requis avant de diffuser des notifications.
+Un accès par abonnement est requis avant de vérifier {adapter}.
+Un accès par abonnement est requis avant d’envoyer des notifications.
+Un accès par abonnement est requis avant de tester {adapter}.
+Adaptateur Telegram
+Test
+Ceci est une notification de test du plugin Notification Broadcaster.
+{title} n°{number}
+Adaptateurs
+Effacer
+Événement
+Heure
+Titre
+Désactivé
+Masquer les détails sensibles
+Non
+Types de notifications
+Délai de confidentialité
+Paiements programmés
+Tx portefeuille
+Avertissement
+Oui
+s
+1. Créez le bot avec @BotFather. 2. Ouvrez un chat avec le bot et envoyez /start depuis le chat que vous voulez utiliser. 3. Cliquez sur Détecter les chats pour récupérer les conversations récentes du bot. 4. Choisissez un chat détecté et envoyez un message de test.
+123456789:AA...
+URL de base de l’API
+Jeton du bot
+Règles de distribution du chat
+Vérification du bot Telegram et des chats récents...
+Choisissez quels types de messages ce chat Telegram reçoit, si les détails sensibles sont masqués, et le délai aléatoire maximal avant distribution.
+Créez un bot avec @BotFather, envoyez-lui au moins un message, puis utilisez l’action d’aide ci-dessous pour appeler directement getMe/getUpdates et lister les identifiants de chat récents. La configuration proxy de l’application est réutilisée automatiquement.
+Détecter les chats
+Chats détectés
+Aucun chat Telegram détecté pour le moment. Envoyez /start à votre bot, cliquez sur Détecter les chats, puis choisissez un chat.
+Aucun identifiant de chat récent trouvé pour le moment. Envoyez d’abord un message à votre bot, puis réessayez.
+Test Telegram de Notification Broadcaster
+Chat {chat_id} enregistré (relancez la détection pour actualiser)
+Sélectionner un chat détecté
+Envoyez /start à votre bot, puis cliquez sur Détecter les chats
+Envoi de la notification de test Telegram...
+Adaptateur Telegram
+Le jeton du bot Telegram est requis.
+Bot Telegram : {bot}. Chats récents : {chats}
+Échec de la recherche Telegram : {details}
+Le test Telegram n’a pas été distribué. Vérifiez le jeton du bot et la sélection du chat détecté.
+Échec du test Telegram : {details}
+Test Telegram réussi pour l’identifiant de chat {chat_id}.
+Ceci est une notification de test de connectivité Telegram.
+Utilisez Détecter les chats pour récupérer les conversations récentes du bot, puis choisissez un chat pour les notifications.
+Choisissez quels types de messages ce webhook reçoit, si les détails sensibles sont masqués, et le délai aléatoire maximal avant distribution.
+Discord
+URL du point de terminaison
+JSON générique (Zapier, n8n, Make, applications personnalisées)
+Webhooks génériques
+Google Chat
+Gotify
+Format du message
+Microsoft Teams
+Test Webhook de Notification Broadcaster
+Collez une URL de webhook, puis choisissez le format de charge utile correspondant. Exemples : Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, API Bot Telegram, ntfy, Gotify, ou tout outil d’automatisation personnalisé. Démo locale avec : poetry run python -m notification_broadcaster.webhook_demo_server puis utilisez [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Envoi de la notification de test webhook...
+Compatible Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+API Bot Telegram
+Le point de terminaison webhook configuré utilise les règles de distribution ci-dessous.
+Ceci est une notification de test de connectivité webhook générique.
+Règles de distribution du webhook
+L’URL du point de terminaison webhook est requise.
+Le test webhook n’a pas été distribué. Vérifiez l’URL du point de terminaison.
+Échec du test webhook : {details}
+Test webhook réussi.
+ntfy / ntfy.sh
+Saisissez le code d’appairage à 6 chiffres affiché sur le Trezor :
+Saisissez le PIN en utilisant la disposition du clavier Trezor (7 8 9 / 4 5 6 / 1 2 3) :
+Associer le Trezor
+Déverrouiller le Trezor
+
+id_ID
+
+Pencarian adaptor gagal: {details}
+Uji adaptor gagal: {details}
+Memeriksa detail adaptor...
+Hapus Adaptor
+Konfigurasi Penerima
+Reset Pengaturan
+Menjalankan uji adaptor...
+Simpan Pengaturan
+Simpan dan Uji
+Pengaturan disimpan.
+Pengaturan yang belum disimpan telah direset.
+Adaptor CalDAV
+URL endpoint CalDAV wajib diisi.
+Uji CalDAV tidak mengunggah acara. Periksa endpoint dan kredensial.
+Uji CalDAV gagal: {details}
+Uji CalDAV berhasil. Acara dimulai pada {start} UTC. URL acara: {url}
+Aturan pengiriman kalender
+Pilih jenis pesan mana yang membuat entri kalender, apakah detail sensitif disembunyikan, dan penundaan acak maksimum sebelum pengiriman.
+URL Endpoint
+Uji CalDAV Notification Broadcaster
+Kata sandi
+Mengirim acara uji CalDAV...
+Endpoint kalender yang dikonfigurasi menggunakan aturan pengiriman di bawah ini.
+Ini adalah acara uji konektivitas CalDAV.
+Gunakan URL lengkap dari kalender CalDAV yang sudah ada. Untuk Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nama pengguna
+{details} Gunakan URL kalender yang sudah ada seperti [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Tambahkan satu penerima setiap kali dan tentukan jenis pesan, penanganan data sensitif, serta penundaan privasi acak maksimum.
+Setidaknya satu email penerima wajib diisi.
+Pilih jenis pesan mana yang diterima penerima ini, apakah detail sensitif disembunyikan, dan penundaan acak maksimum sebelum pengiriman.
+Konfigurasikan akun SMTP yang digunakan untuk email notifikasi keluar.
+Keamanan koneksi
+Hapus
+Email
+Adaptor Email
+Uji email tidak terkirim. Periksa pengaturan SMTP dan alamat penerima.
+Uji email gagal: {details}
+Uji email berhasil untuk {recipients}.
+Tidak ada
+Uji Email Notification Broadcaster
+Hanya konfigurasi server SMTP langsung yang didukung di sini. Integrasi email yang dikelola penyedia seperti Gmail, Outlook, dan sejenisnya tidak didukung.
+Aturan pengiriman penerima
+Email penerima wajib diisi.
+Host SMTP
+Host SMTP, port, dan alamat pengirim wajib diisi.
+Kata sandi SMTP
+Port SMTP
+Nama pengguna SMTP
+SSL/TLS
+STARTTLS
+Alamat pengirim
+Mengirim notifikasi uji email...
+Ini adalah notifikasi uji konektivitas email.
+[recipient@example.com](mailto:recipient@example.com)
+Tambahkan satu npub penerima setiap kali dan tentukan jenis pesan, penanganan data sensitif, serta penundaan privasi acak maksimum.
+Setidaknya satu npub penerima wajib diisi.
+Pilih jenis pesan mana yang diterima penerima ini, apakah detail sensitif disembunyikan, dan penundaan acak maksimum sebelum pengiriman.
+Konfigurasikan nsec pengirim dan relay untuk pesan langsung terenkripsi NIP-17.
+Hapus
+Sembunyikan nsec
+npub penerima tidak valid.
+Uji NIP-17 tidak terkirim. Periksa nsec pengirim, relay, dan npub penerima.
+Uji NIP-17 gagal: {details}
+Uji NIP-17 berhasil untuk {recipients}.
+Adaptor DM Nostr
+Uji NIP-17 Notification Broadcaster
+Npub
+Aturan pengiriman penerima
+npub penerima
+npub penerima wajib diisi.
+Relay
+nsec pengirim
+nsec pengirim dan setidaknya satu relay wajib diisi.
+Mengirim notifikasi uji NIP-17...
+Tampilkan nsec
+Ini adalah notifikasi uji konektivitas NIP-17.
+npub1...
+nsec1...
+Tambah Adaptor
+Siarkan notifikasi dompet ke adaptor seperti email, Telegram, NIP-17, CalDAV, dan webhook generik.
+Adaptor CalDAV
+Pilih jenis adaptor, tambahkan, lalu konfigurasikan pengaturan pengirimannya di bawah ini. Anda dapat menambahkan beberapa adaptor dengan jenis yang sama jika memerlukan tujuan terpisah.
+Adaptor yang Dikonfigurasi
+Buat acara pengingat di kalender CalDAV Anda.
+Edit pengaturan
+Adaptor Email
+Webhook Generik
+Sembunyikan pengaturan
+Tidak ada adaptor yang siap untuk notifikasi ini.
+Belum ada adaptor yang dikonfigurasi. Pilih jenis adaptor di atas untuk membuat tujuan pertama Anda.
+Adaptor DM Nostr
+Notification Broadcaster
+Uji Notification Broadcaster
+Notifikasi gagal: {details}
+Notifikasi dikirim melalui {adapters}.
+Notifikasi dikirim melalui {adapters}. Kegagalan: {details}
+Siaran Sebelumnya
+Siaran Terbaru
+Kirim pesan langsung Nostr terenkripsi ke npub yang dikonfigurasi.
+Kirim notifikasi ke chat bot Telegram dan temukan ID bot/chat secara langsung.
+Kirim notifikasi ke URL webhook dengan format payload yang dapat dipilih (JSON Generik, kompatibel Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Kirim notifikasi uji
+Kirim notifikasi dompet ke penerima email yang dikonfigurasi.
+Akses langganan diperlukan sebelum menyiarkan notifikasi.
+Akses langganan diperlukan sebelum memeriksa {adapter}.
+Akses langganan diperlukan sebelum mengirim notifikasi.
+Akses langganan diperlukan sebelum menguji {adapter}.
+Adaptor Telegram
+Uji
+Ini adalah notifikasi uji dari plugin Notification Broadcaster.
+{title} #{number}
+Adaptor
+Bersihkan
+Acara
+Waktu
+Judul
+Dinonaktifkan
+Sembunyikan detail sensitif
+Tidak
+Jenis notifikasi
+Penundaan privasi
+Pembayaran terjadwal
+Tx dompet
+Peringatan
+Ya
+s
+1. Buat bot dengan @BotFather. 2. Buka chat dengan bot dan kirim /start dari chat yang ingin Anda gunakan. 3. Klik Deteksi Chat untuk mengambil percakapan bot terbaru. 4. Pilih satu chat yang terdeteksi dan kirim pesan uji.
+123456789:AA...
+URL dasar API
+Token bot
+Aturan pengiriman chat
+Memeriksa bot Telegram dan chat terbaru...
+Pilih jenis pesan mana yang diterima chat Telegram ini, apakah detail sensitif disembunyikan, dan penundaan acak maksimum sebelum pengiriman.
+Buat bot dengan @BotFather, kirim setidaknya satu pesan kepadanya, lalu gunakan tindakan bantuan di bawah ini untuk memanggil getMe/getUpdates secara langsung dan menampilkan ID chat terbaru. Konfigurasi proxy aplikasi digunakan ulang secara otomatis.
+Deteksi Chat
+Chat terdeteksi
+Belum ada chat Telegram yang terdeteksi. Kirim /start ke bot Anda, klik Deteksi Chat, lalu pilih chat.
+Belum ada ID chat terbaru yang ditemukan. Kirim pesan ke bot Anda terlebih dahulu, lalu coba lagi.
+Uji Telegram Notification Broadcaster
+Chat {chat_id} disimpan (jalankan deteksi untuk menyegarkan)
+Pilih chat yang terdeteksi
+Kirim /start ke bot Anda, lalu klik Deteksi Chat
+Mengirim notifikasi uji Telegram...
+Adaptor Telegram
+Token bot Telegram wajib diisi.
+Bot Telegram: {bot}. Chat terbaru: {chats}
+Pencarian Telegram gagal: {details}
+Uji Telegram tidak terkirim. Periksa token bot dan pilihan chat yang terdeteksi.
+Uji Telegram gagal: {details}
+Uji Telegram berhasil untuk ID chat {chat_id}.
+Ini adalah notifikasi uji konektivitas Telegram.
+Gunakan Deteksi Chat untuk mengambil percakapan bot terbaru, lalu pilih satu chat untuk notifikasi.
+Pilih jenis pesan mana yang diterima webhook ini, apakah detail sensitif disembunyikan, dan penundaan acak maksimum sebelum pengiriman.
+Discord
+URL Endpoint
+JSON Generik (Zapier, n8n, Make, aplikasi kustom)
+Webhook Generik
+Google Chat
+Gotify
+Format Pesan
+Microsoft Teams
+Uji Webhook Notification Broadcaster
+Tempel URL webhook, lalu pilih format payload yang sesuai. Contoh: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify, atau alat otomasi kustom apa pun. Demo lokal dengan: poetry run python -m notification_broadcaster.webhook_demo_server lalu gunakan [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Mengirim notifikasi uji webhook...
+Kompatibel Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Endpoint webhook yang dikonfigurasi menggunakan aturan pengiriman di bawah ini.
+Ini adalah notifikasi uji konektivitas webhook generik.
+Aturan pengiriman webhook
+URL endpoint webhook wajib diisi.
+Uji webhook tidak terkirim. Periksa URL endpoint.
+Uji webhook gagal: {details}
+Uji webhook berhasil.
+ntfy / ntfy.sh
+Masukkan kode pairing 6 digit yang ditampilkan di Trezor:
+Masukkan PIN menggunakan tata letak keypad Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Pasangkan Trezor
+Buka kunci Trezor
+
+ko_KR
+
+어댑터 조회 실패: {details}
+어댑터 테스트 실패: {details}
+어댑터 세부 정보 확인 중...
+어댑터 삭제
+수신자 구성
+설정 재설정
+어댑터 테스트 실행 중...
+설정 저장
+저장 후 테스트
+설정이 저장되었습니다.
+저장되지 않은 설정이 재설정되었습니다.
+CalDAV 어댑터
+CalDAV 엔드포인트 URL이 필요합니다.
+CalDAV 테스트에서 이벤트를 업로드하지 못했습니다. 엔드포인트와 자격 증명을 확인하세요.
+CalDAV 테스트 실패: {details}
+CalDAV 테스트 성공. 이벤트는 {start} UTC에 시작합니다. 이벤트 URL: {url}
+캘린더 전달 규칙
+어떤 메시지 유형이 캘린더 항목을 생성하는지, 민감한 세부 정보 숨김 여부, 전달 전 최대 무작위 지연 시간을 선택하세요.
+엔드포인트 URL
+Notification Broadcaster CalDAV 테스트
+비밀번호
+CalDAV 테스트 이벤트 전송 중...
+구성된 캘린더 엔드포인트는 아래 전달 규칙을 사용합니다.
+이것은 CalDAV 연결 테스트 이벤트입니다.
+기존 CalDAV 캘린더의 전체 URL을 사용하세요. Nextcloud의 경우: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+사용자 이름
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> 같은 기존 캘린더 URL을 사용하세요
+한 번에 수신자 한 명씩 추가하고 해당 메시지 유형, 민감한 데이터 처리, 최대 무작위 개인정보 지연 시간을 정의하세요.
+최소 한 개의 수신자 이메일이 필요합니다.
+이 수신자가 받을 메시지 유형, 민감한 세부 정보 숨김 여부, 전달 전 최대 무작위 지연 시간을 선택하세요.
+발신 알림 이메일에 사용할 SMTP 계정을 구성하세요.
+연결 보안
+삭제
+이메일
+이메일 어댑터
+이메일 테스트가 전달되지 않았습니다. SMTP 설정과 수신자 주소를 확인하세요.
+이메일 테스트 실패: {details}
+이메일 테스트가 {recipients}에 대해 성공했습니다.
+없음
+Notification Broadcaster 이메일 테스트
+여기서는 직접 SMTP 서버 구성만 지원됩니다. Gmail, Outlook 및 유사한 공급자 관리형 이메일 통합은 지원되지 않습니다.
+수신자 전달 규칙
+수신자 이메일이 필요합니다.
+SMTP 호스트
+SMTP 호스트, 포트 및 발신자 주소가 필요합니다.
+SMTP 비밀번호
+SMTP 포트
+SMTP 사용자 이름
+SSL/TLS
+STARTTLS
+발신자 주소
+이메일 테스트 알림 전송 중...
+이것은 이메일 연결 테스트 알림입니다.
+[recipient@example.com](mailto:recipient@example.com)
+한 번에 수신자 npub 하나씩 추가하고 해당 메시지 유형, 민감한 데이터 처리, 최대 무작위 개인정보 지연 시간을 정의하세요.
+최소 한 개의 수신자 npub가 필요합니다.
+이 수신자가 받을 메시지 유형, 민감한 세부 정보 숨김 여부, 전달 전 최대 무작위 지연 시간을 선택하세요.
+NIP-17 암호화 다이렉트 메시지용 발신자 nsec 및 릴레이를 구성하세요.
+삭제
+nsec 숨기기
+잘못된 수신자 npub입니다.
+NIP-17 테스트가 전달되지 않았습니다. 발신자 nsec, 릴레이 및 수신자 npub를 확인하세요.
+NIP-17 테스트 실패: {details}
+NIP-17 테스트가 {recipients}에 대해 성공했습니다.
+Nostr DM 어댑터
+Notification Broadcaster NIP-17 테스트
+Npub
+수신자 전달 규칙
+수신자 npub
+수신자 npub가 필요합니다.
+릴레이
+발신자 nsec
+발신자 nsec와 최소 한 개의 릴레이가 필요합니다.
+NIP-17 테스트 알림 전송 중...
+nsec 표시
+이것은 NIP-17 연결 테스트 알림입니다.
+npub1...
+nsec1...
+어댑터 추가
+지갑 알림을 이메일, Telegram, NIP-17, CalDAV, 일반 웹훅 등의 어댑터로 브로드캐스트합니다.
+CalDAV 어댑터
+어댑터 유형을 선택해 추가한 다음 아래에서 전달 설정을 구성하세요. 별도의 대상이 필요하면 같은 유형의 어댑터를 여러 개 추가할 수 있습니다.
+구성된 어댑터
+CalDAV 캘린더에 리마인더 이벤트를 만드세요.
+설정 편집
+이메일 어댑터
+일반 웹훅
+설정 숨기기
+이 알림에 사용할 준비가 된 어댑터가 없습니다.
+아직 구성된 어댑터가 없습니다. 첫 번째 대상을 만들려면 위에서 어댑터 유형을 선택하세요.
+Nostr DM 어댑터
+Notification Broadcaster
+Notification Broadcaster 테스트
+알림 실패: {details}
+알림이 {adapters}를 통해 전송되었습니다.
+알림이 {adapters}를 통해 전송되었습니다. 실패: {details}
+이전 브로드캐스트
+최근 브로드캐스트
+구성된 npub로 암호화된 Nostr 다이렉트 메시지를 보냅니다.
+Telegram 봇 채팅으로 알림을 보내고 봇/채팅 ID를 직접 찾습니다.
+선택 가능한 페이로드 형식(일반 JSON, Slack 호환, Discord, Google Chat, Teams, Telegram, ntfy, Gotify)으로 웹훅 URL에 알림을 보냅니다.
+테스트 알림 보내기
+지갑 알림을 구성된 이메일 수신자에게 보냅니다.
+알림을 브로드캐스트하기 전에 구독 액세스가 필요합니다.
+{adapter}를 확인하기 전에 구독 액세스가 필요합니다.
+알림을 보내기 전에 구독 액세스가 필요합니다.
+{adapter}를 테스트하기 전에 구독 액세스가 필요합니다.
+Telegram 어댑터
+테스트
+이것은 Notification Broadcaster 플러그인의 테스트 알림입니다.
+{title} #{number}
+어댑터
+지우기
+이벤트
+시간
+제목
+비활성화됨
+민감한 세부 정보 숨기기
+아니요
+알림 유형
+개인정보 지연
+예약된 결제
+지갑 tx
+경고
+예
+s
+1. @BotFather로 봇을 만드세요. 2. 사용할 채팅에서 봇과 채팅을 열고 /start를 보내세요. 3. 최근 봇 대화를 가져오려면 채팅 감지를 클릭하세요. 4. 감지된 채팅 하나를 선택하고 테스트 메시지를 보내세요.
+123456789:AA...
+API 기본 URL
+봇 토큰
+채팅 전달 규칙
+Telegram 봇과 최근 채팅 확인 중...
+이 Telegram 채팅이 받을 메시지 유형, 민감한 세부 정보 숨김 여부, 전달 전 최대 무작위 지연 시간을 선택하세요.
+@BotFather로 봇을 만들고 최소 한 개의 메시지를 보낸 다음, 아래 도우미 작업을 사용해 getMe/getUpdates를 직접 호출하고 최근 채팅 ID를 나열하세요. 앱 프록시 구성은 자동으로 재사용됩니다.
+채팅 감지
+감지된 채팅
+아직 Telegram 채팅이 감지되지 않았습니다. 봇에 /start를 보낸 뒤 채팅 감지를 클릭하고 채팅을 선택하세요.
+아직 최근 채팅 ID를 찾지 못했습니다. 먼저 봇에 메시지를 보낸 다음 다시 시도하세요.
+Notification Broadcaster Telegram 테스트
+채팅 {chat_id} 저장됨(새로 고치려면 감지를 다시 실행하세요)
+감지된 채팅 선택
+봇에 /start를 보낸 뒤 채팅 감지를 클릭하세요
+Telegram 테스트 알림 전송 중...
+Telegram 어댑터
+Telegram 봇 토큰이 필요합니다.
+Telegram 봇: {bot}. 최근 채팅: {chats}
+Telegram 조회 실패: {details}
+Telegram 테스트가 전달되지 않았습니다. 봇 토큰과 감지된 채팅 선택을 확인하세요.
+Telegram 테스트 실패: {details}
+Telegram 테스트가 채팅 ID {chat_id}에 대해 성공했습니다.
+이것은 Telegram 연결 테스트 알림입니다.
+채팅 감지를 사용해 최근 봇 대화를 가져온 다음 알림용 채팅 하나를 선택하세요.
+이 웹훅이 받을 메시지 유형, 민감한 세부 정보 숨김 여부, 전달 전 최대 무작위 지연 시간을 선택하세요.
+Discord
+엔드포인트 URL
+일반 JSON (Zapier, n8n, Make, 사용자 지정 앱)
+일반 웹훅
+Google Chat
+Gotify
+메시지 형식
+Microsoft Teams
+Notification Broadcaster 웹훅 테스트
+웹훅 URL을 붙여넣은 다음 일치하는 페이로드 형식을 선택하세요. 예: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify 또는 기타 사용자 지정 자동화 도구. 로컬 데모: poetry run python -m notification_broadcaster.webhook_demo_server 실행 후 [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) 사용
+웹훅 테스트 알림 전송 중...
+Slack 호환 (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+구성된 웹훅 엔드포인트는 아래 전달 규칙을 사용합니다.
+이것은 일반 웹훅 연결 테스트 알림입니다.
+웹훅 전달 규칙
+웹훅 엔드포인트 URL이 필요합니다.
+웹훅 테스트가 전달되지 않았습니다. 엔드포인트 URL을 확인하세요.
+웹훅 테스트 실패: {details}
+웹훅 테스트 성공.
+ntfy / ntfy.sh
+Trezor에 표시된 6자리 페어링 코드를 입력하세요:
+Trezor 키패드 배열을 사용해 PIN을 입력하세요 (7 8 9 / 4 5 6 / 1 2 3):
+Trezor 페어링
+Trezor 잠금 해제
+
+pt_BR
+
+Falha na busca do adaptador: {details}
+Falha no teste do adaptador: {details}
+Verificando detalhes do adaptador...
+Excluir adaptador
+Configuração do destinatário
+Redefinir configurações
+Executando teste do adaptador...
+Salvar configurações
+Salvar e testar
+Configurações salvas.
+As configurações não salvas foram redefinidas.
+Adaptador CalDAV
+A URL do endpoint CalDAV é obrigatória.
+O teste do CalDAV não enviou um evento. Verifique o endpoint e as credenciais.
+Falha no teste do CalDAV: {details}
+Teste do CalDAV bem-sucedido. O evento começa em {start} UTC. URL do evento: {url}
+Regras de entrega do calendário
+Escolha quais tipos de mensagem criam entradas no calendário, se detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+URL do endpoint
+Teste CalDAV do Notification Broadcaster
+Senha
+Enviando evento de teste do CalDAV...
+O endpoint de calendário configurado usa as regras de entrega abaixo.
+Este é um evento de teste de conectividade CalDAV.
+Use a URL completa de um calendário CalDAV existente. Para Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nome de usuário
+{details} Use uma URL de calendário existente como [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Adicione um destinatário por vez e defina seus tipos de mensagem, tratamento de dados sensíveis e atraso aleatório máximo de privacidade.
+Pelo menos um e-mail de destinatário é obrigatório.
+Escolha quais tipos de mensagem este destinatário recebe, se detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Configure uma conta SMTP usada para e-mails de notificação enviados.
+Segurança da conexão
+Excluir
+E-mail
+Adaptador de e-mail
+O teste de e-mail não foi entregue. Verifique as configurações de SMTP e os endereços dos destinatários.
+Falha no teste de e-mail: {details}
+Teste de e-mail bem-sucedido para {recipients}.
+Nenhum
+Teste de e-mail do Notification Broadcaster
+Aqui só há suporte para configuração direta de servidor SMTP. Integrações de e-mail gerenciadas pelo provedor, como Gmail, Outlook e semelhantes, não são suportadas.
+Regras de entrega do destinatário
+O e-mail do destinatário é obrigatório.
+Host SMTP
+Host SMTP, porta e endereço do remetente são obrigatórios.
+Senha SMTP
+Porta SMTP
+Nome de usuário SMTP
+SSL/TLS
+STARTTLS
+Endereço do remetente
+Enviando notificação de teste por e-mail...
+Esta é uma notificação de teste de conectividade por e-mail.
+[recipient@example.com](mailto:recipient@example.com)
+Adicione um npub de destinatário por vez e defina seus tipos de mensagem, tratamento de dados sensíveis e atraso aleatório máximo de privacidade.
+Pelo menos um npub de destinatário é obrigatório.
+Escolha quais tipos de mensagem este destinatário recebe, se detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Configure o nsec do remetente e os relays para mensagens diretas criptografadas NIP-17.
+Excluir
+Ocultar nsec
+npub de destinatário inválido.
+O teste NIP-17 não foi entregue. Verifique o nsec do remetente, os relays e os npubs dos destinatários.
+Falha no teste NIP-17: {details}
+Teste NIP-17 bem-sucedido para {recipients}.
+Adaptador de DM Nostr
+Teste NIP-17 do Notification Broadcaster
+Npub
+Regras de entrega do destinatário
+npub do destinatário
+O npub do destinatário é obrigatório.
+Relays
+nsec do remetente
+O nsec do remetente e pelo menos um relay são obrigatórios.
+Enviando notificação de teste NIP-17...
+Mostrar nsec
+Esta é uma notificação de teste de conectividade NIP-17.
+npub1...
+nsec1...
+Adicionar adaptador
+Transmita notificações da carteira para adaptadores como e-mail, Telegram, NIP-17, CalDAV e webhooks genéricos.
+Adaptador CalDAV
+Escolha um tipo de adaptador, adicione-o e depois configure suas definições de entrega abaixo. Você pode adicionar vários adaptadores do mesmo tipo se precisar de destinos separados.
+Adaptadores configurados
+Crie eventos de lembrete no seu calendário CalDAV.
+Editar configurações
+Adaptador de e-mail
+Webhooks genéricos
+Ocultar configurações
+Nenhum adaptador está pronto para esta notificação.
+Nenhum adaptador configurado ainda. Escolha um tipo de adaptador acima para criar seu primeiro destino.
+Adaptador de DM Nostr
+Notification Broadcaster
+Teste do Notification Broadcaster
+Falha na notificação: {details}
+Notificação enviada via {adapters}.
+Notificação enviada via {adapters}. Falhas: {details}
+Transmissões anteriores
+Transmissões recentes
+Envie mensagens diretas Nostr criptografadas para os npubs configurados.
+Envie notificações para um chat de bot do Telegram e descubra IDs de bot/chat diretamente.
+Envie notificações para URLs de webhook com formatos de payload selecionáveis (JSON genérico, compatível com Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Enviar notificação de teste
+Envie notificações da carteira para destinatários de e-mail configurados.
+É necessário acesso de assinatura antes de transmitir notificações.
+É necessário acesso de assinatura antes de verificar {adapter}.
+É necessário acesso de assinatura antes de enviar notificações.
+É necessário acesso de assinatura antes de testar {adapter}.
+Adaptador Telegram
+Teste
+Esta é uma notificação de teste do plugin Notification Broadcaster.
+{title} nº {number}
+Adaptadores
+Limpar
+Evento
+Hora
+Título
+Desativado
+Ocultar detalhes sensíveis
+Não
+Tipos de notificação
+Atraso de privacidade
+Pagamentos agendados
+tx da carteira
+Aviso
+Sim
+s
+1. Crie o bot com @BotFather. 2. Abra um chat com o bot e envie /start a partir do chat que você quer usar. 3. Clique em Detectar chats para buscar conversas recentes do bot. 4. Escolha um chat detectado e envie uma mensagem de teste.
+123456789:AA...
+URL base da API
+Token do bot
+Regras de entrega do chat
+Verificando o bot do Telegram e os chats recentes...
+Escolha quais tipos de mensagem este chat do Telegram recebe, se detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Crie um bot com @BotFather, envie pelo menos uma mensagem para ele e depois use a ação auxiliar abaixo para chamar getMe/getUpdates diretamente e listar IDs de chats recentes. A configuração de proxy do app é reutilizada automaticamente.
+Detectar chats
+Chats detectados
+Nenhum chat do Telegram detectado ainda. Envie /start para seu bot, clique em Detectar chats e depois escolha um chat.
+Nenhum ID de chat recente encontrado ainda. Envie uma mensagem para seu bot primeiro e depois tente novamente.
+Teste do Notification Broadcaster para Telegram
+Chat {chat_id} salvo (execute a detecção para atualizar)
+Selecionar um chat detectado
+Envie /start para seu bot e depois clique em Detectar chats
+Enviando notificação de teste do Telegram...
+Adaptador Telegram
+O token do bot do Telegram é obrigatório.
+Bot do Telegram: {bot}. Chats recentes: {chats}
+Falha na busca do Telegram: {details}
+O teste do Telegram não foi entregue. Verifique o token do bot e a seleção do chat detectado.
+Falha no teste do Telegram: {details}
+Teste do Telegram bem-sucedido para o ID de chat {chat_id}.
+Esta é uma notificação de teste de conectividade do Telegram.
+Use Detectar chats para buscar conversas recentes do bot e depois escolha um chat para notificações.
+Escolha quais tipos de mensagem este webhook recebe, se detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Discord
+URL do endpoint
+JSON genérico (Zapier, n8n, Make, apps personalizadas)
+Webhooks genéricos
+Google Chat
+Gotify
+Formato da mensagem
+Microsoft Teams
+Teste de webhook do Notification Broadcaster
+Cole uma URL de webhook e depois escolha o formato de payload correspondente. Exemplos: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify ou qualquer ferramenta de automação personalizada. Demonstração local com: poetry run python -m notification_broadcaster.webhook_demo_server e depois use [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Enviando notificação de teste do webhook...
+Compatível com Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+O endpoint de webhook configurado usa as regras de entrega abaixo.
+Esta é uma notificação de teste de conectividade de webhook genérico.
+Regras de entrega do webhook
+A URL do endpoint do webhook é obrigatória.
+O teste do webhook não foi entregue. Verifique a URL do endpoint.
+Falha no teste do webhook: {details}
+Teste do webhook bem-sucedido.
+ntfy / ntfy.sh
+Digite o código de pareamento de 6 dígitos mostrado no Trezor:
+Digite o PIN usando o layout do teclado do Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Parear Trezor
+Desbloquear Trezor
+
+ru_RU
+
+Не удалось выполнить поиск адаптера: {details}
+Сбой теста адаптера: {details}
+Проверка сведений об адаптере...
+Удалить адаптер
+Настройка получателя
+Сбросить настройки
+Запуск теста адаптера...
+Сохранить настройки
+Сохранить и протестировать
+Настройки сохранены.
+Несохранённые настройки были сброшены.
+Адаптер CalDAV
+Требуется URL конечной точки CalDAV.
+Тест CalDAV не загрузил событие. Проверьте конечную точку и учётные данные.
+Сбой теста CalDAV: {details}
+Тест CalDAV прошёл успешно. Событие начинается в {start} UTC. URL события: {url}
+Правила доставки календаря
+Выберите, какие типы сообщений создают записи в календаре, скрывать ли конфиденциальные сведения и какова максимальная случайная задержка перед доставкой.
+URL конечной точки
+Тест CalDAV Notification Broadcaster
+Пароль
+Отправка тестового события CalDAV...
+Настроенная конечная точка календаря использует приведённые ниже правила доставки.
+Это тестовое событие проверки подключения CalDAV.
+Используйте полный URL существующего календаря CalDAV. Для Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Имя пользователя
+{details} Используйте URL существующего календаря, например [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Добавляйте по одному получателю и задавайте для него типы сообщений, обработку конфиденциальных данных и максимальную случайную задержку приватности.
+Требуется как минимум один адрес электронной почты получателя.
+Выберите, какие типы сообщений получает этот получатель, скрывать ли конфиденциальные сведения и какова максимальная случайная задержка перед доставкой.
+Настройте учётную запись SMTP для исходящих уведомлений по электронной почте.
+Безопасность соединения
+Удалить
+Электронная почта
+Адаптер электронной почты
+Тест электронной почты не был доставлен. Проверьте настройки SMTP и адреса получателей.
+Сбой теста электронной почты: {details}
+Тест электронной почты успешно выполнен для {recipients}.
+Нет
+Тест электронной почты Notification Broadcaster
+Здесь поддерживается только прямая настройка SMTP-сервера. Интеграции электронной почты, управляемые провайдером, такие как Gmail, Outlook и подобные, не поддерживаются.
+Правила доставки получателя
+Требуется адрес электронной почты получателя.
+SMTP-хост
+Требуются SMTP-хост, порт и адрес отправителя.
+Пароль SMTP
+Порт SMTP
+Имя пользователя SMTP
+SSL/TLS
+STARTTLS
+Адрес отправителя
+Отправка тестового уведомления по электронной почте...
+Это тестовое уведомление проверки подключения электронной почты.
+[recipient@example.com](mailto:recipient@example.com)
+Добавляйте по одному npub получателя и задавайте для него типы сообщений, обработку конфиденциальных данных и максимальную случайную задержку приватности.
+Требуется как минимум один npub получателя.
+Выберите, какие типы сообщений получает этот получатель, скрывать ли конфиденциальные сведения и какова максимальная случайная задержка перед доставкой.
+Настройте nsec отправителя и реле для зашифрованных личных сообщений NIP-17.
+Удалить
+Скрыть nsec
+Недопустимый npub получателя.
+Тест NIP-17 не был доставлен. Проверьте nsec отправителя, реле и npub получателей.
+Сбой теста NIP-17: {details}
+Тест NIP-17 успешно выполнен для {recipients}.
+Адаптер Nostr DM
+Тест NIP-17 Notification Broadcaster
+Npub
+Правила доставки получателя
+Npub получателя
+Требуется npub получателя.
+Реле
+Nsec отправителя
+Требуются nsec отправителя и как минимум одно реле.
+Отправка тестового уведомления NIP-17...
+Показать nsec
+Это тестовое уведомление проверки подключения NIP-17.
+npub1...
+nsec1...
+Добавить адаптер
+Транслируйте уведомления кошелька в адаптеры, такие как электронная почта, Telegram, NIP-17, CalDAV и универсальные webhook.
+Адаптер CalDAV
+Выберите тип адаптера, добавьте его, а затем настройте его параметры доставки ниже. Вы можете добавить несколько адаптеров одного типа, если вам нужны отдельные назначения.
+Настроенные адаптеры
+Создавайте события-напоминания в своём календаре CalDAV.
+Изменить настройки
+Адаптер электронной почты
+Универсальные webhook
+Скрыть настройки
+Нет готового адаптера для этого уведомления.
+Адаптеры ещё не настроены. Выберите тип адаптера выше, чтобы создать первое назначение.
+Адаптер Nostr DM
+Notification Broadcaster
+Тест Notification Broadcaster
+Сбой уведомления: {details}
+Уведомление отправлено через {adapters}.
+Уведомление отправлено через {adapters}. Сбои: {details}
+Прошлые рассылки
+Недавние рассылки
+Отправляйте зашифрованные личные сообщения Nostr на настроенные npub.
+Отправляйте уведомления в чат Telegram-бота и напрямую определяйте идентификаторы бота/чата.
+Отправляйте уведомления на URL webhook с выбираемыми форматами полезной нагрузки (универсальный JSON, совместимый со Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Отправить тестовое уведомление
+Отправляйте уведомления кошелька настроенным получателям электронной почты.
+Перед трансляцией уведомлений требуется доступ по подписке.
+Перед проверкой {adapter} требуется доступ по подписке.
+Перед отправкой уведомлений требуется доступ по подписке.
+Перед тестированием {adapter} требуется доступ по подписке.
+Адаптер Telegram
+Тест
+Это тестовое уведомление от плагина Notification Broadcaster.
+{title} №{number}
+Адаптеры
+Очистить
+Событие
+Время
+Заголовок
+Отключено
+Скрыть конфиденциальные сведения
+Нет
+Типы уведомлений
+Задержка приватности
+Запланированные платежи
+Tx кошелька
+Предупреждение
+Да
+s
+1. Создайте бота через @BotFather. 2. Откройте чат с ботом и отправьте /start из чата, который хотите использовать. 3. Нажмите «Обнаружить чаты», чтобы получить недавние разговоры бота. 4. Выберите один обнаруженный чат и отправьте тестовое сообщение.
+123456789:AA...
+Базовый URL API
+Токен бота
+Правила доставки чата
+Проверка Telegram-бота и недавних чатов...
+Выберите, какие типы сообщений получает этот чат Telegram, скрывать ли конфиденциальные сведения и какова максимальная случайная задержка перед доставкой.
+Создайте бота через @BotFather, отправьте ему хотя бы одно сообщение, затем используйте вспомогательное действие ниже, чтобы напрямую вызвать getMe/getUpdates и вывести список недавних идентификаторов чатов. Конфигурация прокси приложения используется автоматически.
+Обнаружить чаты
+Обнаруженные чаты
+Чаты Telegram пока не обнаружены. Отправьте /start своему боту, нажмите «Обнаружить чаты», затем выберите чат.
+Недавние идентификаторы чатов пока не найдены. Сначала отправьте сообщение своему боту, затем повторите попытку.
+Тест Telegram Notification Broadcaster
+Чат {chat_id} сохранён (запустите обнаружение для обновления)
+Выбрать обнаруженный чат
+Отправьте /start своему боту, затем нажмите «Обнаружить чаты»
+Отправка тестового уведомления Telegram...
+Адаптер Telegram
+Требуется токен Telegram-бота.
+Telegram-бот: {bot}. Недавние чаты: {chats}
+Не удалось выполнить поиск Telegram: {details}
+Тест Telegram не был доставлен. Проверьте токен бота и выбор обнаруженного чата.
+Сбой теста Telegram: {details}
+Тест Telegram успешно выполнен для chat ID {chat_id}.
+Это тестовое уведомление проверки подключения Telegram.
+Используйте «Обнаружить чаты», чтобы получить недавние разговоры бота, затем выберите один чат для уведомлений.
+Выберите, какие типы сообщений получает этот webhook, скрывать ли конфиденциальные сведения и какова максимальная случайная задержка перед доставкой.
+Discord
+URL конечной точки
+Универсальный JSON (Zapier, n8n, Make, пользовательские приложения)
+Универсальные webhook
+Google Chat
+Gotify
+Формат сообщения
+Microsoft Teams
+Тест webhook Notification Broadcaster
+Вставьте URL webhook, затем выберите соответствующий формат полезной нагрузки. Примеры: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify или любой пользовательский инструмент автоматизации. Локальная демонстрация: poetry run python -m notification_broadcaster.webhook_demo_server затем используйте [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Отправка тестового уведомления webhook...
+Совместимо со Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Настроенная конечная точка webhook использует приведённые ниже правила доставки.
+Это тестовое уведомление проверки подключения универсального webhook.
+Правила доставки webhook
+Требуется URL конечной точки webhook.
+Тест webhook не был доставлен. Проверьте URL конечной точки.
+Сбой теста webhook: {details}
+Тест webhook прошёл успешно.
+ntfy / ntfy.sh
+Введите 6-значный код сопряжения, показанный на Trezor:
+Введите PIN с использованием раскладки клавиатуры Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Сопрячь Trezor
+Разблокировать Trezor
+
+vi_VN
+
+Tra cứu bộ điều hợp thất bại: {details}
+Kiểm tra bộ điều hợp thất bại: {details}
+Đang kiểm tra chi tiết bộ điều hợp...
+Xóa bộ điều hợp
+Cấu hình người nhận
+Đặt lại cài đặt
+Đang chạy kiểm tra bộ điều hợp...
+Lưu cài đặt
+Lưu và kiểm tra
+Đã lưu cài đặt.
+Các cài đặt chưa lưu đã được đặt lại.
+Bộ điều hợp CalDAV
+Yêu cầu URL đầu cuối CalDAV.
+Kiểm tra CalDAV không tải lên sự kiện. Hãy kiểm tra đầu cuối và thông tin xác thực.
+Kiểm tra CalDAV thất bại: {details}
+Kiểm tra CalDAV thành công. Sự kiện bắt đầu lúc {start} UTC. URL sự kiện: {url}
+Quy tắc gửi lịch
+Chọn loại thông báo nào tạo mục lịch, có ẩn chi tiết nhạy cảm hay không, và độ trễ ngẫu nhiên tối đa trước khi gửi.
+URL đầu cuối
+Kiểm tra CalDAV của Notification Broadcaster
+Mật khẩu
+Đang gửi sự kiện kiểm tra CalDAV...
+Đầu cuối lịch đã cấu hình sử dụng các quy tắc gửi bên dưới.
+Đây là sự kiện kiểm tra kết nối CalDAV.
+Sử dụng URL đầy đủ của một lịch CalDAV hiện có. Đối với Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Tên người dùng
+{details} Hãy dùng URL lịch hiện có như [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Thêm từng người nhận một và xác định loại thông báo, cách xử lý dữ liệu nhạy cảm, và độ trễ quyền riêng tư ngẫu nhiên tối đa.
+Yêu cầu ít nhất một email người nhận.
+Chọn loại thông báo mà người nhận này nhận được, có ẩn chi tiết nhạy cảm hay không, và độ trễ ngẫu nhiên tối đa trước khi gửi.
+Cấu hình một tài khoản SMTP dùng cho email thông báo gửi đi.
+Bảo mật kết nối
+Xóa
+Email
+Bộ điều hợp Email
+Kiểm tra email không được gửi đi. Hãy kiểm tra cài đặt SMTP và địa chỉ người nhận.
+Kiểm tra email thất bại: {details}
+Kiểm tra email thành công cho {recipients}.
+Không có
+Kiểm tra Email của Notification Broadcaster
+Chỉ hỗ trợ cấu hình máy chủ SMTP trực tiếp tại đây. Không hỗ trợ các tích hợp email do nhà cung cấp quản lý như Gmail, Outlook và các dịch vụ tương tự.
+Quy tắc gửi người nhận
+Yêu cầu email người nhận.
+Máy chủ SMTP
+Yêu cầu máy chủ SMTP, cổng và địa chỉ người gửi.
+Mật khẩu SMTP
+Cổng SMTP
+Tên người dùng SMTP
+SSL/TLS
+STARTTLS
+Địa chỉ người gửi
+Đang gửi thông báo kiểm tra email...
+Đây là thông báo kiểm tra kết nối email.
+[recipient@example.com](mailto:recipient@example.com)
+Thêm từng npub người nhận một và xác định loại thông báo, cách xử lý dữ liệu nhạy cảm, và độ trễ quyền riêng tư ngẫu nhiên tối đa.
+Yêu cầu ít nhất một npub người nhận.
+Chọn loại thông báo mà người nhận này nhận được, có ẩn chi tiết nhạy cảm hay không, và độ trễ ngẫu nhiên tối đa trước khi gửi.
+Cấu hình nsec người gửi và relay cho tin nhắn trực tiếp mã hóa NIP-17.
+Xóa
+Ẩn nsec
+npub người nhận không hợp lệ.
+Kiểm tra NIP-17 không được gửi đi. Hãy kiểm tra nsec người gửi, relay và npub người nhận.
+Kiểm tra NIP-17 thất bại: {details}
+Kiểm tra NIP-17 thành công cho {recipients}.
+Bộ điều hợp Nostr DM
+Kiểm tra NIP-17 của Notification Broadcaster
+Npub
+Quy tắc gửi người nhận
+npub người nhận
+Yêu cầu npub người nhận.
+Relay
+nsec người gửi
+Yêu cầu nsec người gửi và ít nhất một relay.
+Đang gửi thông báo kiểm tra NIP-17...
+Hiện nsec
+Đây là thông báo kiểm tra kết nối NIP-17.
+npub1...
+nsec1...
+Thêm bộ điều hợp
+Phát thông báo ví tới các bộ điều hợp như email, Telegram, NIP-17, CalDAV và webhook chung.
+Bộ điều hợp CalDAV
+Chọn một loại bộ điều hợp, thêm nó, sau đó cấu hình cài đặt gửi của nó bên dưới. Bạn có thể thêm nhiều bộ điều hợp cùng loại nếu cần các đích riêng biệt.
+Các bộ điều hợp đã cấu hình
+Tạo sự kiện nhắc nhở trong lịch CalDAV của bạn.
+Chỉnh sửa cài đặt
+Bộ điều hợp Email
+Webhook chung
+Ẩn cài đặt
+Không có bộ điều hợp nào sẵn sàng cho thông báo này.
+Chưa có bộ điều hợp nào được cấu hình. Hãy chọn một loại bộ điều hợp ở trên để tạo đích đầu tiên của bạn.
+Bộ điều hợp Nostr DM
+Notification Broadcaster
+Kiểm tra Notification Broadcaster
+Thông báo thất bại: {details}
+Thông báo đã được gửi qua {adapters}.
+Thông báo đã được gửi qua {adapters}. Thất bại: {details}
+Các lần phát trước
+Các lần phát gần đây
+Gửi tin nhắn trực tiếp Nostr được mã hóa tới các npub đã cấu hình.
+Gửi thông báo đến một cuộc trò chuyện bot Telegram và trực tiếp khám phá ID bot/chat.
+Gửi thông báo đến các URL webhook với định dạng payload có thể chọn (JSON chung, tương thích Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Gửi thông báo kiểm tra
+Gửi thông báo ví đến các người nhận email đã cấu hình.
+Cần có quyền truy cập đăng ký trước khi phát thông báo.
+Cần có quyền truy cập đăng ký trước khi kiểm tra {adapter}.
+Cần có quyền truy cập đăng ký trước khi gửi thông báo.
+Cần có quyền truy cập đăng ký trước khi thử {adapter}.
+Bộ điều hợp Telegram
+Kiểm tra
+Đây là thông báo kiểm tra từ plugin Notification Broadcaster.
+{title} #{number}
+Bộ điều hợp
+Xóa
+Sự kiện
+Thời gian
+Tiêu đề
+Đã tắt
+Ẩn chi tiết nhạy cảm
+Không
+Loại thông báo
+Độ trễ riêng tư
+Thanh toán đã lên lịch
+tx ví
+Cảnh báo
+Có
+s
+1. Tạo bot bằng @BotFather. 2. Mở một cuộc trò chuyện với bot và gửi /start từ cuộc trò chuyện bạn muốn dùng. 3. Nhấp Phát hiện cuộc trò chuyện để lấy các cuộc hội thoại bot gần đây. 4. Chọn một cuộc trò chuyện đã phát hiện và gửi tin nhắn kiểm tra.
+123456789:AA...
+URL cơ sở API
+Mã thông báo bot
+Quy tắc gửi cuộc trò chuyện
+Đang kiểm tra bot Telegram và các cuộc trò chuyện gần đây...
+Chọn loại thông báo mà cuộc trò chuyện Telegram này nhận được, có ẩn chi tiết nhạy cảm hay không, và độ trễ ngẫu nhiên tối đa trước khi gửi.
+Tạo bot bằng @BotFather, gửi cho bot ít nhất một tin nhắn, rồi dùng hành động trợ giúp bên dưới để gọi trực tiếp getMe/getUpdates và liệt kê các ID cuộc trò chuyện gần đây. Cấu hình proxy của ứng dụng được tự động dùng lại.
+Phát hiện cuộc trò chuyện
+Các cuộc trò chuyện đã phát hiện
+Chưa phát hiện được cuộc trò chuyện Telegram nào. Hãy gửi /start cho bot của bạn, nhấp Phát hiện cuộc trò chuyện, rồi chọn một cuộc trò chuyện.
+Chưa tìm thấy ID cuộc trò chuyện gần đây nào. Trước tiên hãy gửi tin nhắn cho bot của bạn, rồi thử lại.
+Kiểm tra Telegram của Notification Broadcaster
+Đã lưu cuộc trò chuyện {chat_id} (chạy phát hiện để làm mới)
+Chọn một cuộc trò chuyện đã phát hiện
+Gửi /start cho bot của bạn, rồi nhấp Phát hiện cuộc trò chuyện
+Đang gửi thông báo kiểm tra Telegram...
+Bộ điều hợp Telegram
+Yêu cầu mã thông báo bot Telegram.
+Bot Telegram: {bot}. Các cuộc trò chuyện gần đây: {chats}
+Tra cứu Telegram thất bại: {details}
+Kiểm tra Telegram không được gửi đi. Hãy kiểm tra mã thông báo bot và lựa chọn cuộc trò chuyện đã phát hiện.
+Kiểm tra Telegram thất bại: {details}
+Kiểm tra Telegram thành công cho ID cuộc trò chuyện {chat_id}.
+Đây là thông báo kiểm tra kết nối Telegram.
+Dùng Phát hiện cuộc trò chuyện để lấy các cuộc hội thoại bot gần đây, rồi chọn một cuộc trò chuyện cho thông báo.
+Chọn loại thông báo mà webhook này nhận được, có ẩn chi tiết nhạy cảm hay không, và độ trễ ngẫu nhiên tối đa trước khi gửi.
+Discord
+URL đầu cuối
+JSON chung (Zapier, n8n, Make, ứng dụng tùy chỉnh)
+Webhook chung
+Google Chat
+Gotify
+Định dạng thông báo
+Microsoft Teams
+Kiểm tra Webhook của Notification Broadcaster
+Dán URL webhook, rồi chọn định dạng payload phù hợp. Ví dụ: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify hoặc bất kỳ công cụ tự động hóa tùy chỉnh nào. Demo cục bộ với: poetry run python -m notification_broadcaster.webhook_demo_server rồi dùng [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Đang gửi thông báo kiểm tra webhook...
+Tương thích Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Đầu cuối webhook đã cấu hình sử dụng các quy tắc gửi bên dưới.
+Đây là thông báo kiểm tra kết nối webhook chung.
+Quy tắc gửi webhook
+Yêu cầu URL đầu cuối webhook.
+Kiểm tra webhook không được gửi đi. Hãy kiểm tra URL đầu cuối.
+Kiểm tra webhook thất bại: {details}
+Kiểm tra webhook thành công.
+ntfy / ntfy.sh
+Nhập mã ghép đôi 6 chữ số hiển thị trên Trezor:
+Nhập mã PIN bằng bố cục bàn phím Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Ghép đôi Trezor
+Mở khóa Trezor
+
+ca_ES
+
+La cerca de l’adaptador ha fallat: {details}
+La prova de l’adaptador ha fallat: {details}
+S’estan comprovant els detalls de l’adaptador...
+Suprimeix l’adaptador
+Configuració del destinatari
+Restableix la configuració
+S’està executant la prova de l’adaptador...
+Desa la configuració
+Desa i prova
+S’ha desat la configuració.
+La configuració no desada s’ha restablert.
+Adaptador CalDAV
+Cal l’URL del punt final de CalDAV.
+La prova de CalDAV no ha pujat cap esdeveniment. Comprova el punt final i les credencials.
+La prova de CalDAV ha fallat: {details}
+La prova de CalDAV ha estat correcta. L’esdeveniment comença a {start} UTC. URL de l’esdeveniment: {url}
+Regles de lliurament del calendari
+Tria quins tipus de missatge creen entrades al calendari, si s’oculten els detalls sensibles i el retard aleatori màxim abans del lliurament.
+URL del punt final
+Prova CalDAV de Notification Broadcaster
+Contrasenya
+S’està enviant l’esdeveniment de prova de CalDAV...
+El punt final de calendari configurat fa servir les regles de lliurament següents.
+Això és un esdeveniment de prova de connectivitat de CalDAV.
+Fes servir l’URL completa d’un calendari CalDAV existent. Per a Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nom d’usuari
+{details} Fes servir una URL de calendari existent com ara [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Afegeix un destinatari cada vegada i defineix-ne els tipus de missatge, la gestió de dades sensibles i el retard aleatori màxim de privadesa.
+Cal almenys un correu electrònic de destinatari.
+Tria quins tipus de missatge rep aquest destinatari, si s’oculten els detalls sensibles i el retard aleatori màxim abans del lliurament.
+Configura un compte SMTP que s’utilitzarà per als correus electrònics de notificació sortints.
+Seguretat de la connexió
+Suprimeix
+Correu electrònic
+Adaptador de correu electrònic
+La prova de correu electrònic no s’ha lliurat. Comprova la configuració SMTP i les adreces dels destinataris.
+La prova de correu electrònic ha fallat: {details}
+La prova de correu electrònic ha estat correcta per a {recipients}.
+Cap
+Prova de correu electrònic de Notification Broadcaster
+Aquí només s’admet la configuració directa del servidor SMTP. No s’admeten integracions de correu electrònic gestionades pel proveïdor, com ara Gmail, Outlook i similars.
+Regles de lliurament del destinatari
+Cal el correu electrònic del destinatari.
+Amfitrió SMTP
+Calen l’amfitrió SMTP, el port i l’adreça del remitent.
+Contrasenya SMTP
+Port SMTP
+Nom d’usuari SMTP
+SSL/TLS
+STARTTLS
+Adreça del remitent
+S’està enviant la notificació de prova per correu electrònic...
+Això és una notificació de prova de connectivitat de correu electrònic.
+[recipient@example.com](mailto:recipient@example.com)
+Afegeix un npub de destinatari cada vegada i defineix-ne els tipus de missatge, la gestió de dades sensibles i el retard aleatori màxim de privadesa.
+Cal almenys un npub de destinatari.
+Tria quins tipus de missatge rep aquest destinatari, si s’oculten els detalls sensibles i el retard aleatori màxim abans del lliurament.
+Configura el nsec del remitent i els relays per als missatges directes xifrats NIP-17.
+Suprimeix
+Amaga nsec
+npub de destinatari no vàlid.
+La prova NIP-17 no s’ha lliurat. Comprova el nsec del remitent, els relays i els npubs dels destinataris.
+La prova NIP-17 ha fallat: {details}
+La prova NIP-17 ha estat correcta per a {recipients}.
+Adaptador Nostr DM
+Prova NIP-17 de Notification Broadcaster
+Npub
+Regles de lliurament del destinatari
+npub del destinatari
+Cal el npub del destinatari.
+Relays
+nsec del remitent
+Calen el nsec del remitent i almenys un relay.
+S’està enviant la notificació de prova NIP-17...
+Mostra nsec
+Això és una notificació de prova de connectivitat NIP-17.
+npub1...
+nsec1...
+Afegeix un adaptador
+Difon les notificacions del moneder a adaptadors com ara correu electrònic, Telegram, NIP-17, CalDAV i webhooks genèrics.
+Adaptador CalDAV
+Tria un tipus d’adaptador, afegeix-lo i després configura’n els paràmetres de lliurament a continuació. Pots afegir diversos adaptadors del mateix tipus si necessites destinacions separades.
+Adaptadors configurats
+Crea esdeveniments de recordatori al teu calendari CalDAV.
+Edita la configuració
+Adaptador de correu electrònic
+Webhooks genèrics
+Amaga la configuració
+No hi ha cap adaptador llest per a aquesta notificació.
+Encara no hi ha cap adaptador configurat. Tria un tipus d’adaptador a dalt per crear la teva primera destinació.
+Adaptador Nostr DM
+Notification Broadcaster
+Prova de Notification Broadcaster
+La notificació ha fallat: {details}
+Notificació enviada mitjançant {adapters}.
+Notificació enviada mitjançant {adapters}. Errors: {details}
+Difusions passades
+Difusions recents
+Envia missatges directes Nostr xifrats als npubs configurats.
+Envia notificacions a un xat de bot de Telegram i descobreix directament els identificadors de bot/xat.
+Envia notificacions a URL de webhook amb formats de càrrega útil seleccionables (JSON genèric, compatible amb Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Envia una notificació de prova
+Envia notificacions del moneder als destinataris de correu electrònic configurats.
+Cal accés de subscripció abans de difondre notificacions.
+Cal accés de subscripció abans de comprovar {adapter}.
+Cal accés de subscripció abans d’enviar notificacions.
+Cal accés de subscripció abans de provar {adapter}.
+Adaptador Telegram
+Prova
+Això és una notificació de prova del connector Notification Broadcaster.
+{title} #{number}
+Adaptadors
+Neteja
+Esdeveniment
+Hora
+Títol
+Desactivat
+Amaga els detalls sensibles
+No
+Tipus de notificació
+Retard de privadesa
+Pagaments programats
+tx del moneder
+Avís
+Sí
+s
+1. Crea el bot amb @BotFather. 2. Obre un xat amb el bot i envia /start des del xat que vols fer servir. 3. Fes clic a Detecta els xats per obtenir les converses recents del bot. 4. Tria un xat detectat i envia un missatge de prova.
+123456789:AA...
+URL base de l’API
+Testimoni del bot
+Regles de lliurament del xat
+S’estan comprovant el bot de Telegram i els xats recents...
+Tria quins tipus de missatge rep aquest xat de Telegram, si s’oculten els detalls sensibles i el retard aleatori màxim abans del lliurament.
+Crea un bot amb @BotFather, envia-li almenys un missatge i després fes servir l’acció auxiliar de sota per cridar directament getMe/getUpdates i llistar els identificadors de xat recents. La configuració del proxy de l’aplicació es reutilitza automàticament.
+Detecta els xats
+Xats detectats
+Encara no s’ha detectat cap xat de Telegram. Envia /start al teu bot, fes clic a Detecta els xats i després tria un xat.
+Encara no s’ha trobat cap identificador de xat recent. Envia primer un missatge al teu bot i després torna-ho a provar.
+Prova de Telegram de Notification Broadcaster
+S’ha desat el xat {chat_id} (executa la detecció per actualitzar)
+Selecciona un xat detectat
+Envia /start al teu bot i després fes clic a Detecta els xats
+S’està enviant la notificació de prova de Telegram...
+Adaptador Telegram
+Cal el testimoni del bot de Telegram.
+Bot de Telegram: {bot}. Xats recents: {chats}
+La cerca de Telegram ha fallat: {details}
+La prova de Telegram no s’ha lliurat. Comprova el testimoni del bot i la selecció del xat detectat.
+La prova de Telegram ha fallat: {details}
+La prova de Telegram ha estat correcta per a l’identificador de xat {chat_id}.
+Això és una notificació de prova de connectivitat de Telegram.
+Fes servir Detecta els xats per obtenir les converses recents del bot i després tria un xat per a les notificacions.
+Tria quins tipus de missatge rep aquest webhook, si s’oculten els detalls sensibles i el retard aleatori màxim abans del lliurament.
+Discord
+URL del punt final
+JSON genèric (Zapier, n8n, Make, aplicacions personalitzades)
+Webhooks genèrics
+Google Chat
+Gotify
+Format del missatge
+Microsoft Teams
+Prova de webhook de Notification Broadcaster
+Enganxa un URL de webhook i després tria el format de càrrega útil corresponent. Exemples: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify o qualsevol eina d’automatització personalitzada. Demostració local amb: poetry run python -m notification_broadcaster.webhook_demo_server i després fes servir [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+S’està enviant la notificació de prova de webhook...
+Compatible amb Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+El punt final de webhook configurat fa servir les regles de lliurament següents.
+Això és una notificació de prova de connectivitat de webhook genèric.
+Regles de lliurament del webhook
+Cal l’URL del punt final del webhook.
+La prova de webhook no s’ha lliurat. Comprova l’URL del punt final.
+La prova de webhook ha fallat: {details}
+La prova de webhook ha estat correcta.
+ntfy / ntfy.sh
+Introdueix el codi d’aparellament de 6 dígits que es mostra al Trezor:
+Introdueix el PIN utilitzant la disposició del teclat del Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Aparella el Trezor
+Desbloqueja el Trezor
+
+ar_AE
+
+فشل البحث عن المحوّل: {details}
+فشل اختبار المحوّل: {details}
+جارٍ التحقق من تفاصيل المحوّل...
+حذف المحوّل
+إعداد المستلم
+إعادة تعيين الإعدادات
+جارٍ تشغيل اختبار المحوّل...
+حفظ الإعدادات
+حفظ واختبار
+تم حفظ الإعدادات.
+تمت إعادة تعيين الإعدادات غير المحفوظة.
+محوّل CalDAV
+مطلوب عنوان URL لنقطة نهاية CalDAV.
+لم يقم اختبار CalDAV برفع حدث. تحقق من نقطة النهاية وبيانات الاعتماد.
+فشل اختبار CalDAV: {details}
+نجح اختبار CalDAV. يبدأ الحدث في {start} UTC. عنوان URL للحدث: {url}
+قواعد تسليم التقويم
+اختر أنواع الرسائل التي تُنشئ إدخالات تقويم، وما إذا كانت التفاصيل الحساسة مخفية، وأقصى تأخير عشوائي قبل التسليم.
+عنوان URL لنقطة النهاية
+اختبار CalDAV لـ Notification Broadcaster
+كلمة المرور
+جارٍ إرسال حدث اختبار CalDAV...
+تستخدم نقطة نهاية التقويم المُهيأة قواعد التسليم أدناه.
+هذا حدث اختبار اتصال CalDAV.
+استخدم عنوان URL الكامل لتقويم CalDAV موجود. بالنسبة إلى Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+اسم المستخدم
+{details} استخدم عنوان URL لتقويم موجود مثل [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+أضف مستلماً واحداً في كل مرة وحدد أنواع رسائله، وآلية التعامل مع البيانات الحساسة، وأقصى تأخير عشوائي للخصوصية.
+يلزم وجود بريد إلكتروني واحد على الأقل للمستلم.
+اختر أنواع الرسائل التي يتلقاها هذا المستلم، وما إذا كانت التفاصيل الحساسة مخفية، وأقصى تأخير عشوائي قبل التسليم.
+قم بتهيئة حساب SMTP يُستخدم لرسائل البريد الإلكتروني الخاصة بالإشعارات الصادرة.
+أمان الاتصال
+حذف
+البريد الإلكتروني
+محوّل البريد الإلكتروني
+لم يتم تسليم اختبار البريد الإلكتروني. تحقق من إعدادات SMTP وعناوين المستلمين.
+فشل اختبار البريد الإلكتروني: {details}
+نجح اختبار البريد الإلكتروني لـ {recipients}.
+لا شيء
+اختبار البريد الإلكتروني لـ Notification Broadcaster
+هنا يتم دعم إعداد خادم SMTP المباشر فقط. لا يتم دعم تكاملات البريد الإلكتروني المُدارة من مزود الخدمة مثل Gmail وOutlook وما شابه ذلك.
+قواعد تسليم المستلم
+مطلوب بريد إلكتروني للمستلم.
+مضيف SMTP
+مطلوب مضيف SMTP والمنفذ وعنوان المرسل.
+كلمة مرور SMTP
+منفذ SMTP
+اسم مستخدم SMTP
+SSL/TLS
+STARTTLS
+عنوان المرسل
+جارٍ إرسال إشعار اختبار البريد الإلكتروني...
+هذا إشعار اختبار اتصال البريد الإلكتروني.
+[recipient@example.com](mailto:recipient@example.com)
+أضف npub مستلماً واحداً في كل مرة وحدد أنواع رسائله، وآلية التعامل مع البيانات الحساسة، وأقصى تأخير عشوائي للخصوصية.
+يلزم وجود npub واحد على الأقل للمستلم.
+اختر أنواع الرسائل التي يتلقاها هذا المستلم، وما إذا كانت التفاصيل الحساسة مخفية، وأقصى تأخير عشوائي قبل التسليم.
+قم بتهيئة nsec الخاص بالمرسل والمرحلّات لرسائل NIP-17 المباشرة المشفرة.
+حذف
+إخفاء nsec
+npub المستلم غير صالح.
+لم يتم تسليم اختبار NIP-17. تحقق من nsec الخاص بالمرسل والمرحلّات وnpub الخاصة بالمستلمين.
+فشل اختبار NIP-17: {details}
+نجح اختبار NIP-17 لـ {recipients}.
+محوّل Nostr DM
+اختبار NIP-17 لـ Notification Broadcaster
+Npub
+قواعد تسليم المستلم
+npub المستلم
+مطلوب npub المستلم.
+المرحلّات
+nsec المرسل
+مطلوب nsec المرسل ومرحل واحد على الأقل.
+جارٍ إرسال إشعار اختبار NIP-17...
+إظهار nsec
+هذا إشعار اختبار اتصال NIP-17.
+npub1...
+nsec1...
+إضافة محوّل
+بث إشعارات المحفظة إلى محوّلات مثل البريد الإلكتروني وTelegram وNIP-17 وCalDAV وwebhooks العامة.
+محوّل CalDAV
+اختر نوع محوّل وأضفه، ثم قم بتهيئة إعدادات التسليم الخاصة به أدناه. يمكنك إضافة عدة محوّلات من النوع نفسه إذا كنت بحاجة إلى وجهات منفصلة.
+المحوّلات المُهيأة
+أنشئ أحداث تذكير في تقويم CalDAV الخاص بك.
+تعديل الإعدادات
+محوّل البريد الإلكتروني
+Webhooks عامة
+إخفاء الإعدادات
+لا يوجد أي محوّل جاهز لهذا الإشعار.
+لم يتم إعداد أي محوّلات بعد. اختر نوع محوّل أعلاه لإنشاء وجهتك الأولى.
+محوّل Nostr DM
+Notification Broadcaster
+اختبار Notification Broadcaster
+فشل الإشعار: {details}
+تم إرسال الإشعار عبر {adapters}.
+تم إرسال الإشعار عبر {adapters}. الإخفاقات: {details}
+عمليات البث السابقة
+عمليات البث الأخيرة
+أرسل رسائل Nostr مباشرة مشفرة إلى npubs المُهيأة.
+أرسل إشعارات إلى دردشة بوت Telegram واكتشف معرّفات البوت/الدردشة مباشرة.
+أرسل إشعارات إلى عناوين URL الخاصة بـ webhook مع تنسيقات حمولة قابلة للاختيار (JSON عام، متوافق مع Slack، Discord، Google Chat، Teams، Telegram، ntfy، Gotify).
+إرسال إشعار اختبار
+أرسل إشعارات المحفظة إلى مستلمي البريد الإلكتروني المُهيأين.
+يلزم الوصول عبر الاشتراك قبل بث الإشعارات.
+يلزم الوصول عبر الاشتراك قبل التحقق من {adapter}.
+يلزم الوصول عبر الاشتراك قبل إرسال الإشعارات.
+يلزم الوصول عبر الاشتراك قبل اختبار {adapter}.
+محوّل Telegram
+اختبار
+هذا إشعار اختبار من إضافة Notification Broadcaster.
+{title} #{number}
+المحوّلات
+مسح
+الحدث
+الوقت
+العنوان
+معطل
+إخفاء التفاصيل الحساسة
+لا
+أنواع الإشعارات
+تأخير الخصوصية
+المدفوعات المجدولة
+معاملة المحفظة
+تحذير
+نعم
+s
+1. أنشئ البوت باستخدام @BotFather. 2. افتح دردشة مع البوت وأرسل /start من الدردشة التي تريد استخدامها. 3. انقر على اكتشاف الدردشات لجلب محادثات البوت الأخيرة. 4. اختر إحدى الدردشات المكتشفة وأرسل رسالة اختبار.
+123456789:AA...
+عنوان URL الأساسي لـ API
+رمز البوت
+قواعد تسليم الدردشة
+جارٍ التحقق من بوت Telegram والدردشات الأخيرة...
+اختر أنواع الرسائل التي تتلقاها دردشة Telegram هذه، وما إذا كانت التفاصيل الحساسة مخفية، وأقصى تأخير عشوائي قبل التسليم.
+أنشئ بوتاً باستخدام @BotFather، وأرسل إليه رسالة واحدة على الأقل، ثم استخدم الإجراء المساعد أدناه لاستدعاء getMe/getUpdates مباشرة وسرد معرّفات الدردشة الأخيرة. تتم إعادة استخدام إعداد proxy الخاص بالتطبيق تلقائياً.
+اكتشاف الدردشات
+الدردشات المكتشفة
+لم يتم اكتشاف أي دردشة Telegram بعد. أرسل /start إلى البوت الخاص بك، وانقر على اكتشاف الدردشات، ثم اختر دردشة.
+لم يتم العثور على أي معرّفات دردشة حديثة بعد. أرسل رسالة إلى البوت أولاً، ثم أعد المحاولة.
+اختبار Telegram لـ Notification Broadcaster
+تم حفظ الدردشة {chat_id} (شغّل الاكتشاف للتحديث)
+اختر دردشة مكتشفة
+أرسل /start إلى البوت الخاص بك، ثم انقر على اكتشاف الدردشات
+جارٍ إرسال إشعار اختبار Telegram...
+محوّل Telegram
+مطلوب رمز بوت Telegram.
+بوت Telegram: {bot}. الدردشات الأخيرة: {chats}
+فشل البحث في Telegram: {details}
+لم يتم تسليم اختبار Telegram. تحقق من رمز البوت واختيار الدردشة المكتشفة.
+فشل اختبار Telegram: {details}
+نجح اختبار Telegram لمعرّف الدردشة {chat_id}.
+هذا إشعار اختبار اتصال Telegram.
+استخدم اكتشاف الدردشات لجلب محادثات البوت الأخيرة، ثم اختر دردشة واحدة للإشعارات.
+اختر أنواع الرسائل التي يتلقاها هذا الـ webhook، وما إذا كانت التفاصيل الحساسة مخفية، وأقصى تأخير عشوائي قبل التسليم.
+Discord
+عنوان URL لنقطة النهاية
+JSON عام (Zapier وn8n وMake والتطبيقات المخصصة)
+Webhooks عامة
+Google Chat
+Gotify
+تنسيق الرسالة
+Microsoft Teams
+اختبار Webhook لـ Notification Broadcaster
+الصق عنوان URL لـ webhook، ثم اختر تنسيق الحمولة المطابق. أمثلة: Slack وMattermost وRocket.Chat وDiscord وGoogle Chat وMicrosoft Teams وTelegram Bot API وntfy وGotify أو أي أداة أتمتة مخصصة. للتجربة محلياً: poetry run python -m notification_broadcaster.webhook_demo_server ثم استخدم [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+جارٍ إرسال إشعار اختبار webhook...
+متوافق مع Slack (Slack وMattermost وRocket.Chat وFlock وZoho Cliq)
+Telegram Bot API
+تستخدم نقطة نهاية webhook المُهيأة قواعد التسليم أدناه.
+هذا إشعار اختبار اتصال webhook عام.
+قواعد تسليم webhook
+مطلوب عنوان URL لنقطة نهاية webhook.
+لم يتم تسليم اختبار webhook. تحقق من عنوان URL لنقطة النهاية.
+فشل اختبار webhook: {details}
+نجح اختبار webhook.
+ntfy / ntfy.sh
+أدخل رمز الاقتران المكوّن من 6 أرقام الظاهر على Trezor:
+أدخل PIN باستخدام تخطيط لوحة مفاتيح Trezor ‏(7 8 9 / 4 5 6 / 1 2 3):
+إقران Trezor
+إلغاء قفل Trezor
+
+th_TH
+
+การค้นหาอะแดปเตอร์ล้มเหลว: {details}
+การทดสอบอะแดปเตอร์ล้มเหลว: {details}
+กำลังตรวจสอบรายละเอียดอะแดปเตอร์...
+ลบอะแดปเตอร์
+การกำหนดค่าผู้รับ
+รีเซ็ตการตั้งค่า
+กำลังรันทดสอบอะแดปเตอร์...
+บันทึกการตั้งค่า
+บันทึกและทดสอบ
+บันทึกการตั้งค่าแล้ว
+รีเซ็ตการตั้งค่าที่ยังไม่ได้บันทึกแล้ว
+อะแดปเตอร์ CalDAV
+จำเป็นต้องมี URL ปลายทาง CalDAV
+การทดสอบ CalDAV ไม่ได้อัปโหลดกิจกรรม ตรวจสอบปลายทางและข้อมูลรับรอง
+การทดสอบ CalDAV ล้มเหลว: {details}
+การทดสอบ CalDAV สำเร็จ กิจกรรมเริ่มต้นที่ {start} UTC URL กิจกรรม: {url}
+กฎการส่งปฏิทิน
+เลือกว่าข้อความประเภทใดจะสร้างรายการปฏิทิน จะซ่อนรายละเอียดที่ละเอียดอ่อนหรือไม่ และความล่าช้าแบบสุ่มสูงสุดก่อนการส่ง
+URL ปลายทาง
+การทดสอบ CalDAV ของ Notification Broadcaster
+รหัสผ่าน
+กำลังส่งกิจกรรมทดสอบ CalDAV...
+ปลายทางปฏิทินที่กำหนดค่าไว้ใช้กฎการส่งด้านล่าง
+นี่คือกิจกรรมทดสอบการเชื่อมต่อ CalDAV
+ใช้ URL แบบเต็มของปฏิทิน CalDAV ที่มีอยู่ สำหรับ Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+ชื่อผู้ใช้
+{details} ใช้ URL ปฏิทินที่มีอยู่ เช่น [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+เพิ่มผู้รับทีละคนและกำหนดประเภทข้อความ การจัดการข้อมูลละเอียดอ่อน และความล่าช้าความเป็นส่วนตัวแบบสุ่มสูงสุด
+ต้องมีอีเมลผู้รับอย่างน้อยหนึ่งรายการ
+เลือกว่าผู้รับรายนี้จะได้รับข้อความประเภทใด จะซ่อนรายละเอียดที่ละเอียดอ่อนหรือไม่ และความล่าช้าแบบสุ่มสูงสุดก่อนการส่ง
+กำหนดค่าบัญชี SMTP ที่ใช้สำหรับอีเมลแจ้งเตือนขาออก
+ความปลอดภัยของการเชื่อมต่อ
+ลบ
+อีเมล
+อะแดปเตอร์อีเมล
+การทดสอบอีเมลไม่ถูกส่งถึง ตรวจสอบการตั้งค่า SMTP และที่อยู่อีเมลของผู้รับ
+การทดสอบอีเมลล้มเหลว: {details}
+การทดสอบอีเมลสำเร็จสำหรับ {recipients}
+ไม่มี
+การทดสอบอีเมลของ Notification Broadcaster
+รองรับเฉพาะการกำหนดค่าเซิร์ฟเวอร์ SMTP โดยตรงที่นี่เท่านั้น ไม่รองรับการผสานรวมอีเมลที่ผู้ให้บริการจัดการ เช่น Gmail, Outlook และที่คล้ายกัน
+กฎการส่งของผู้รับ
+จำเป็นต้องมีอีเมลผู้รับ
+โฮสต์ SMTP
+จำเป็นต้องมีโฮสต์ SMTP พอร์ต และที่อยู่ผู้ส่ง
+รหัสผ่าน SMTP
+พอร์ต SMTP
+ชื่อผู้ใช้ SMTP
+SSL/TLS
+STARTTLS
+ที่อยู่ผู้ส่ง
+กำลังส่งการแจ้งเตือนทดสอบอีเมล...
+นี่คือการแจ้งเตือนทดสอบการเชื่อมต่ออีเมล
+[recipient@example.com](mailto:recipient@example.com)
+เพิ่ม npub ของผู้รับทีละรายการและกำหนดประเภทข้อความ การจัดการข้อมูลละเอียดอ่อน และความล่าช้าความเป็นส่วนตัวแบบสุ่มสูงสุด
+ต้องมี npub ของผู้รับอย่างน้อยหนึ่งรายการ
+เลือกว่าผู้รับรายนี้จะได้รับข้อความประเภทใด จะซ่อนรายละเอียดที่ละเอียดอ่อนหรือไม่ และความล่าช้าแบบสุ่มสูงสุดก่อนการส่ง
+กำหนดค่า nsec ของผู้ส่งและรีเลย์สำหรับข้อความตรงที่เข้ารหัสแบบ NIP-17
+ลบ
+ซ่อน nsec
+npub ของผู้รับไม่ถูกต้อง
+การทดสอบ NIP-17 ไม่ถูกส่งถึง ตรวจสอบ nsec ของผู้ส่ง รีเลย์ และ npub ของผู้รับ
+การทดสอบ NIP-17 ล้มเหลว: {details}
+การทดสอบ NIP-17 สำเร็จสำหรับ {recipients}
+อะแดปเตอร์ Nostr DM
+การทดสอบ NIP-17 ของ Notification Broadcaster
+Npub
+กฎการส่งของผู้รับ
+npub ของผู้รับ
+จำเป็นต้องมี npub ของผู้รับ
+รีเลย์
+nsec ของผู้ส่ง
+จำเป็นต้องมี nsec ของผู้ส่งและรีเลย์อย่างน้อยหนึ่งรายการ
+กำลังส่งการแจ้งเตือนทดสอบ NIP-17...
+แสดง nsec
+นี่คือการแจ้งเตือนทดสอบการเชื่อมต่อ NIP-17
+npub1...
+nsec1...
+เพิ่มอะแดปเตอร์
+กระจายการแจ้งเตือนกระเป๋าเงินไปยังอะแดปเตอร์ต่าง ๆ เช่น อีเมล Telegram NIP-17 CalDAV และเว็บฮุกทั่วไป
+อะแดปเตอร์ CalDAV
+เลือกประเภทอะแดปเตอร์ เพิ่มอะแดปเตอร์นั้น แล้วกำหนดค่าการส่งด้านล่าง คุณสามารถเพิ่มอะแดปเตอร์ประเภทเดียวกันหลายตัวได้หากต้องการปลายทางแยกกัน
+อะแดปเตอร์ที่กำหนดค่าไว้
+สร้างกิจกรรมเตือนความจำในปฏิทิน CalDAV ของคุณ
+แก้ไขการตั้งค่า
+อะแดปเตอร์อีเมล
+เว็บฮุกทั่วไป
+ซ่อนการตั้งค่า
+ไม่มีอะแดปเตอร์ใดพร้อมสำหรับการแจ้งเตือนนี้
+ยังไม่มีการกำหนดค่าอะแดปเตอร์ เลือกประเภทอะแดปเตอร์ด้านบนเพื่อสร้างปลายทางแรกของคุณ
+อะแดปเตอร์ Nostr DM
+Notification Broadcaster
+การทดสอบ Notification Broadcaster
+การแจ้งเตือนล้มเหลว: {details}
+ส่งการแจ้งเตือนผ่าน {adapters} แล้ว
+ส่งการแจ้งเตือนผ่าน {adapters} แล้ว ความล้มเหลว: {details}
+การกระจายก่อนหน้า
+การกระจายล่าสุด
+ส่งข้อความตรง Nostr ที่เข้ารหัสไปยัง npub ที่กำหนดค่าไว้
+ส่งการแจ้งเตือนไปยังแชตบอต Telegram และค้นหา ID บอต/แชตได้โดยตรง
+ส่งการแจ้งเตือนไปยัง URL เว็บฮุกพร้อมรูปแบบเพย์โหลดที่เลือกได้ (JSON ทั่วไป, รองรับ Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify)
+ส่งการแจ้งเตือนทดสอบ
+ส่งการแจ้งเตือนกระเป๋าเงินไปยังผู้รับอีเมลที่กำหนดค่าไว้
+ต้องมีสิทธิ์การสมัครสมาชิกก่อนกระจายการแจ้งเตือน
+ต้องมีสิทธิ์การสมัครสมาชิกก่อนตรวจสอบ {adapter}
+ต้องมีสิทธิ์การสมัครสมาชิกก่อนส่งการแจ้งเตือน
+ต้องมีสิทธิ์การสมัครสมาชิกก่อนทดสอบ {adapter}
+อะแดปเตอร์ Telegram
+ทดสอบ
+นี่คือการแจ้งเตือนทดสอบจากปลั๊กอิน Notification Broadcaster
+{title} #{number}
+อะแดปเตอร์
+ล้าง
+กิจกรรม
+เวลา
+ชื่อเรื่อง
+ปิดใช้งาน
+ซ่อนรายละเอียดที่ละเอียดอ่อน
+ไม่
+ประเภทการแจ้งเตือน
+ความล่าช้าด้านความเป็นส่วนตัว
+การชำระเงินตามกำหนด
+ธุรกรรมกระเป๋าเงิน
+คำเตือน
+ใช่
+s
+1. สร้างบอตด้วย @BotFather 2. เปิดแชตกับบอตและส่ง /start จากแชตที่คุณต้องการใช้ 3. คลิกตรวจหาแชตเพื่อดึงบทสนทนาบอตล่าสุด 4. เลือกแชตที่ตรวจพบหนึ่งรายการแล้วส่งข้อความทดสอบ
+123456789:AA...
+URL พื้นฐานของ API
+โทเค็นบอต
+กฎการส่งของแชต
+กำลังตรวจสอบบอต Telegram และแชตล่าสุด...
+เลือกว่าข้อความประเภทใดที่แชต Telegram นี้จะได้รับ จะซ่อนรายละเอียดที่ละเอียดอ่อนหรือไม่ และความล่าช้าแบบสุ่มสูงสุดก่อนการส่ง
+สร้างบอตด้วย @BotFather ส่งข้อความถึงบอตอย่างน้อยหนึ่งข้อความ จากนั้นใช้การทำงานช่วยเหลือด้านล่างเพื่อเรียก getMe/getUpdates โดยตรงและแสดงรายการ ID แชตล่าสุด การกำหนดค่าพร็อกซีของแอปจะถูกนำกลับมาใช้โดยอัตโนมัติ
+ตรวจหาแชต
+แชตที่ตรวจพบ
+ยังไม่พบแชต Telegram ส่ง /start ไปยังบอตของคุณ คลิกตรวจหาแชต แล้วเลือกแชต
+ยังไม่พบ ID แชตล่าสุด ส่งข้อความถึงบอตของคุณก่อน แล้วลองอีกครั้ง
+การทดสอบ Telegram ของ Notification Broadcaster
+บันทึกแชต {chat_id} แล้ว (เรียกใช้การตรวจหาอีกครั้งเพื่อรีเฟรช)
+เลือกแชตที่ตรวจพบ
+ส่ง /start ไปยังบอตของคุณ แล้วคลิกตรวจหาแชต
+กำลังส่งการแจ้งเตือนทดสอบ Telegram...
+อะแดปเตอร์ Telegram
+จำเป็นต้องมีโทเค็นบอต Telegram
+บอต Telegram: {bot} แชตล่าสุด: {chats}
+การค้นหา Telegram ล้มเหลว: {details}
+การทดสอบ Telegram ไม่ถูกส่งถึง ตรวจสอบโทเค็นบอตและการเลือกแชตที่ตรวจพบ
+การทดสอบ Telegram ล้มเหลว: {details}
+การทดสอบ Telegram สำเร็จสำหรับ ID แชต {chat_id}
+นี่คือการแจ้งเตือนทดสอบการเชื่อมต่อ Telegram
+ใช้ตรวจหาแชตเพื่อดึงบทสนทนาบอตล่าสุด จากนั้นเลือกหนึ่งแชตสำหรับการแจ้งเตือน
+เลือกว่าข้อความประเภทใดที่เว็บฮุกนี้จะได้รับ จะซ่อนรายละเอียดที่ละเอียดอ่อนหรือไม่ และความล่าช้าแบบสุ่มสูงสุดก่อนการส่ง
+Discord
+URL ปลายทาง
+JSON ทั่วไป (Zapier, n8n, Make, แอปแบบกำหนดเอง)
+เว็บฮุกทั่วไป
+Google Chat
+Gotify
+รูปแบบข้อความ
+Microsoft Teams
+การทดสอบ Webhook ของ Notification Broadcaster
+วาง URL เว็บฮุก แล้วเลือกรูปแบบเพย์โหลดที่ตรงกัน ตัวอย่าง: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify หรือเครื่องมืออัตโนมัติแบบกำหนดเองใด ๆ ทดสอบในเครื่องด้วย: poetry run python -m notification_broadcaster.webhook_demo_server แล้วใช้ [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+กำลังส่งการแจ้งเตือนทดสอบเว็บฮุก...
+รองรับ Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+ปลายทางเว็บฮุกที่กำหนดค่าไว้ใช้กฎการส่งด้านล่าง
+นี่คือการแจ้งเตือนทดสอบการเชื่อมต่อเว็บฮุกทั่วไป
+กฎการส่งเว็บฮุก
+จำเป็นต้องมี URL ปลายทางเว็บฮุก
+การทดสอบเว็บฮุกไม่ถูกส่งถึง ตรวจสอบ URL ปลายทาง
+การทดสอบเว็บฮุกล้มเหลว: {details}
+การทดสอบเว็บฮุกสำเร็จ
+ntfy / ntfy.sh
+ป้อนรหัสจับคู่ 6 หลักที่แสดงบน Trezor:
+ป้อน PIN โดยใช้ผังปุ่มกดของ Trezor (7 8 9 / 4 5 6 / 1 2 3):
+จับคู่ Trezor
+ปลดล็อก Trezor
+
+zh_CN
+
+适配器查找失败：{details}
+适配器测试失败：{details}
+正在检查适配器详细信息...
+删除适配器
+收件人配置
+重置设置
+正在运行适配器测试...
+保存设置
+保存并测试
+设置已保存。
+未保存的设置已重置。
+CalDAV 适配器
+需要 CalDAV 端点 URL。
+CalDAV 测试未上传事件。请检查端点和凭据。
+CalDAV 测试失败：{details}
+CalDAV 测试成功。事件开始时间为 {start} UTC。事件 URL：{url}
+日历传递规则
+选择哪些消息类型会创建日历条目、是否隐藏敏感详细信息，以及传递前的最大随机延迟。
+端点 URL
+Notification Broadcaster CalDAV 测试
+密码
+正在发送 CalDAV 测试事件...
+已配置的日历端点使用以下传递规则。
+这是一个 CalDAV 连接测试事件。
+请使用现有 CalDAV 日历的完整 URL。对于 Nextcloud：[https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+用户名
+{details} 请使用现有日历 URL，例如 [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+一次添加一个收件人，并定义其消息类型、敏感数据处理方式以及最大随机隐私延迟。
+至少需要一个收件人电子邮件地址。
+选择此收件人接收哪些消息类型、是否隐藏敏感详细信息，以及传递前的最大随机延迟。
+配置一个用于发送通知邮件的 SMTP 账户。
+连接安全性
+删除
+电子邮件
+电子邮件适配器
+电子邮件测试未送达。请检查 SMTP 设置和收件人地址。
+电子邮件测试失败：{details}
+电子邮件测试已成功发送给 {recipients}。
+无
+Notification Broadcaster 电子邮件测试
+此处仅支持直接 SMTP 服务器配置。不支持 Gmail、Outlook 及类似由提供商管理的电子邮件集成。
+收件人传递规则
+需要收件人电子邮件地址。
+SMTP 主机
+需要 SMTP 主机、端口和发件人地址。
+SMTP 密码
+SMTP 端口
+SMTP 用户名
+SSL/TLS
+STARTTLS
+发件人地址
+正在发送电子邮件测试通知...
+这是一条电子邮件连接测试通知。
+[recipient@example.com](mailto:recipient@example.com)
+一次添加一个收件人 npub，并定义其消息类型、敏感数据处理方式以及最大随机隐私延迟。
+至少需要一个收件人 npub。
+选择此收件人接收哪些消息类型、是否隐藏敏感详细信息，以及传递前的最大随机延迟。
+配置用于 NIP-17 加密私信的发件人 nsec 和中继。
+删除
+隐藏 nsec
+收件人 npub 无效。
+NIP-17 测试未送达。请检查发件人 nsec、中继和收件人 npub。
+NIP-17 测试失败：{details}
+NIP-17 测试已成功发送给 {recipients}。
+Nostr 私信适配器
+Notification Broadcaster NIP-17 测试
+Npub
+收件人传递规则
+收件人 npub
+需要收件人 npub。
+中继
+发件人 nsec
+需要发件人 nsec 和至少一个中继。
+正在发送 NIP-17 测试通知...
+显示 nsec
+这是一条 NIP-17 连接测试通知。
+npub1...
+nsec1...
+添加适配器
+将钱包通知广播到电子邮件、Telegram、NIP-17、CalDAV 和通用 webhook 等适配器。
+CalDAV 适配器
+选择一种适配器类型，添加后在下方配置其传递设置。如果需要不同的目的地，可以添加多个相同类型的适配器。
+已配置的适配器
+在你的 CalDAV 日历中创建提醒事件。
+编辑设置
+电子邮件适配器
+通用 Webhook
+隐藏设置
+没有适配器可用于此通知。
+尚未配置任何适配器。请从上方选择一种适配器类型以创建你的第一个目标。
+Nostr 私信适配器
+Notification Broadcaster
+Notification Broadcaster 测试
+通知失败：{details}
+通知已通过 {adapters} 发送。
+通知已通过 {adapters} 发送。失败项：{details}
+历史广播
+最近广播
+向已配置的 npub 发送加密的 Nostr 私信。
+向 Telegram 机器人聊天发送通知，并直接发现机器人/聊天 ID。
+向 webhook URL 发送通知，并可选择负载格式（通用 JSON、Slack 兼容、Discord、Google Chat、Teams、Telegram、ntfy、Gotify）。
+发送测试通知
+将钱包通知发送到已配置的电子邮件收件人。
+广播通知前需要订阅访问权限。
+检查 {adapter} 前需要订阅访问权限。
+发送通知前需要订阅访问权限。
+测试 {adapter} 前需要订阅访问权限。
+Telegram 适配器
+测试
+这是一条来自 Notification Broadcaster 插件的测试通知。
+{title} #{number}
+适配器
+清除
+事件
+时间
+标题
+已禁用
+隐藏敏感详细信息
+否
+通知类型
+隐私延迟
+计划付款
+钱包 tx
+警告
+是
+s
+1. 使用 @BotFather 创建机器人。2. 打开与机器人的聊天，并从你要使用的聊天中发送 /start。3. 点击“检测聊天”以获取最近的机器人对话。4. 选择一个检测到的聊天并发送测试消息。
+123456789:AA...
+API 基础 URL
+机器人令牌
+聊天传递规则
+正在检查 Telegram 机器人和最近聊天...
+选择此 Telegram 聊天接收哪些消息类型、是否隐藏敏感详细信息，以及传递前的最大随机延迟。
+使用 @BotFather 创建一个机器人，至少向其发送一条消息，然后使用下面的辅助操作直接调用 getMe/getUpdates 并列出最近的聊天 ID。应用代理配置会自动复用。
+检测聊天
+已检测到的聊天
+尚未检测到任何 Telegram 聊天。请向你的机器人发送 /start，点击“检测聊天”，然后选择一个聊天。
+尚未找到最近的聊天 ID。请先向你的机器人发送一条消息，然后重试。
+Notification Broadcaster Telegram 测试
+已保存聊天 {chat_id}（重新检测以刷新）
+选择一个检测到的聊天
+向你的机器人发送 /start，然后点击“检测聊天”
+正在发送 Telegram 测试通知...
+Telegram 适配器
+需要 Telegram 机器人令牌。
+Telegram 机器人：{bot}。最近聊天：{chats}
+Telegram 查找失败：{details}
+Telegram 测试未送达。请检查机器人令牌和检测到的聊天选择。
+Telegram 测试失败：{details}
+Telegram 测试已成功发送到聊天 ID {chat_id}。
+这是一条 Telegram 连接测试通知。
+使用“检测聊天”获取最近的机器人对话，然后选择一个聊天用于通知。
+选择此 webhook 接收哪些消息类型、是否隐藏敏感详细信息，以及传递前的最大随机延迟。
+Discord
+端点 URL
+通用 JSON（Zapier、n8n、Make、自定义应用）
+通用 Webhook
+Google Chat
+Gotify
+消息格式
+Microsoft Teams
+Notification Broadcaster Webhook 测试
+粘贴一个 webhook URL，然后选择匹配的负载格式。示例：Slack、Mattermost、Rocket.Chat、Discord、Google Chat、Microsoft Teams、Telegram Bot API、ntfy、Gotify，或任何自定义自动化工具。本地演示：poetry run python -m notification_broadcaster.webhook_demo_server，然后使用 [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+正在发送 webhook 测试通知...
+Slack 兼容（Slack、Mattermost、Rocket.Chat、Flock、Zoho Cliq）
+Telegram Bot API
+已配置的 webhook 端点使用以下传递规则。
+这是一条通用 webhook 连接测试通知。
+Webhook 传递规则
+需要 webhook 端点 URL。
+Webhook 测试未送达。请检查端点 URL。
+Webhook 测试失败：{details}
+Webhook 测试成功。
+ntfy / ntfy.sh
+输入 Trezor 上显示的 6 位配对代码：
+按照 Trezor 键盘布局输入 PIN（7 8 9 / 4 5 6 / 1 2 3）：
+配对 Trezor
+解锁 Trezor
+
+hi_IN
+
+एडैप्टर लुकअप विफल हुआ: {details}
+एडैप्टर परीक्षण विफल हुआ: {details}
+एडैप्टर विवरण जाँचे जा रहे हैं...
+एडैप्टर हटाएँ
+प्राप्तकर्ता कॉन्फ़िगरेशन
+सेटिंग्स रीसेट करें
+एडैप्टर परीक्षण चलाया जा रहा है...
+सेटिंग्स सहेजें
+सहेजें और परीक्षण करें
+सेटिंग्स सहेजी गईं।
+असहेजी गई सेटिंग्स रीसेट कर दी गईं।
+CalDAV एडैप्टर
+CalDAV एंडपॉइंट URL आवश्यक है।
+CalDAV परीक्षण ने कोई ईवेंट अपलोड नहीं किया। एंडपॉइंट और क्रेडेंशियल जाँचें।
+CalDAV परीक्षण विफल हुआ: {details}
+CalDAV परीक्षण सफल हुआ। ईवेंट {start} UTC पर शुरू होता है। ईवेंट URL: {url}
+कैलेंडर डिलीवरी नियम
+चुनें कि कौन से संदेश प्रकार कैलेंडर प्रविष्टियाँ बनाते हैं, क्या संवेदनशील विवरण छिपाए जाते हैं, और डिलीवरी से पहले अधिकतम यादृच्छिक विलंब कितना हो।
+एंडपॉइंट URL
+Notification Broadcaster CalDAV परीक्षण
+पासवर्ड
+CalDAV परीक्षण ईवेंट भेजा जा रहा है...
+कॉन्फ़िगर किया गया कैलेंडर एंडपॉइंट नीचे दिए गए डिलीवरी नियमों का उपयोग करता है।
+यह एक CalDAV कनेक्टिविटी परीक्षण ईवेंट है।
+मौजूदा CalDAV कैलेंडर का पूरा URL उपयोग करें। Nextcloud के लिए: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+उपयोगकर्ता नाम
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> जैसा कोई मौजूदा कैलेंडर URL उपयोग करें
+एक बार में एक प्राप्तकर्ता जोड़ें और उसके संदेश प्रकार, संवेदनशील-डेटा प्रबंधन, और अधिकतम यादृच्छिक गोपनीयता विलंब निर्धारित करें।
+कम से कम एक प्राप्तकर्ता ईमेल आवश्यक है।
+चुनें कि यह प्राप्तकर्ता कौन से संदेश प्रकार प्राप्त करता है, क्या संवेदनशील विवरण छिपाए जाते हैं, और डिलीवरी से पहले अधिकतम यादृच्छिक विलंब कितना हो।
+आउटगोइंग सूचना ईमेल के लिए उपयोग किया जाने वाला SMTP खाता कॉन्फ़िगर करें।
+कनेक्शन सुरक्षा
+हटाएँ
+ईमेल
+ईमेल एडैप्टर
+ईमेल परीक्षण डिलीवर नहीं हुआ। SMTP सेटिंग्स और प्राप्तकर्ता पते जाँचें।
+ईमेल परीक्षण विफल हुआ: {details}
+ईमेल परीक्षण {recipients} के लिए सफल हुआ।
+कोई नहीं
+Notification Broadcaster ईमेल परीक्षण
+यहाँ केवल प्रत्यक्ष SMTP सर्वर कॉन्फ़िगरेशन समर्थित है। Gmail, Outlook और इसी तरह के प्रदाता-प्रबंधित ईमेल इंटीग्रेशन समर्थित नहीं हैं।
+प्राप्तकर्ता डिलीवरी नियम
+प्राप्तकर्ता ईमेल आवश्यक है।
+SMTP होस्ट
+SMTP होस्ट, पोर्ट और प्रेषक पता आवश्यक हैं।
+SMTP पासवर्ड
+SMTP पोर्ट
+SMTP उपयोगकर्ता नाम
+SSL/TLS
+STARTTLS
+प्रेषक पता
+ईमेल परीक्षण सूचना भेजी जा रही है...
+यह एक ईमेल कनेक्टिविटी परीक्षण सूचना है।
+[recipient@example.com](mailto:recipient@example.com)
+एक बार में एक प्राप्तकर्ता npub जोड़ें और उसके संदेश प्रकार, संवेदनशील-डेटा प्रबंधन, और अधिकतम यादृच्छिक गोपनीयता विलंब निर्धारित करें।
+कम से कम एक प्राप्तकर्ता npub आवश्यक है।
+चुनें कि यह प्राप्तकर्ता कौन से संदेश प्रकार प्राप्त करता है, क्या संवेदनशील विवरण छिपाए जाते हैं, और डिलीवरी से पहले अधिकतम यादृच्छिक विलंब कितना हो।
+NIP-17 एन्क्रिप्टेड डायरेक्ट मैसेज के लिए प्रेषक nsec और रिले कॉन्फ़िगर करें।
+हटाएँ
+nsec छिपाएँ
+अमान्य प्राप्तकर्ता npub।
+NIP-17 परीक्षण डिलीवर नहीं हुआ। प्रेषक nsec, रिले और प्राप्तकर्ता npub जाँचें।
+NIP-17 परीक्षण विफल हुआ: {details}
+NIP-17 परीक्षण {recipients} के लिए सफल हुआ।
+Nostr DM एडैप्टर
+Notification Broadcaster NIP-17 परीक्षण
+Npub
+प्राप्तकर्ता डिलीवरी नियम
+प्राप्तकर्ता npub
+प्राप्तकर्ता npub आवश्यक है।
+रिले
+प्रेषक nsec
+प्रेषक nsec और कम से कम एक रिले आवश्यक हैं।
+NIP-17 परीक्षण सूचना भेजी जा रही है...
+nsec दिखाएँ
+यह एक NIP-17 कनेक्टिविटी परीक्षण सूचना है।
+npub1...
+nsec1...
+एडैप्टर जोड़ें
+वॉलेट सूचनाओं को ईमेल, Telegram, NIP-17, CalDAV और सामान्य webhook जैसे एडैप्टरों पर प्रसारित करें।
+CalDAV एडैप्टर
+एक एडैप्टर प्रकार चुनें, उसे जोड़ें, फिर नीचे उसकी डिलीवरी सेटिंग्स कॉन्फ़िगर करें। यदि आपको अलग-अलग गंतव्य चाहिए, तो आप उसी प्रकार के कई एडैप्टर जोड़ सकते हैं।
+कॉन्फ़िगर किए गए एडैप्टर
+अपने CalDAV कैलेंडर में रिमाइंडर ईवेंट बनाएँ।
+सेटिंग्स संपादित करें
+ईमेल एडैप्टर
+सामान्य Webhook
+सेटिंग्स छिपाएँ
+इस सूचना के लिए कोई एडैप्टर तैयार नहीं है।
+अभी तक कोई एडैप्टर कॉन्फ़िगर नहीं किया गया है। अपना पहला गंतव्य बनाने के लिए ऊपर से एक एडैप्टर प्रकार चुनें।
+Nostr DM एडैप्टर
+Notification Broadcaster
+Notification Broadcaster परीक्षण
+सूचना विफल हुई: {details}
+सूचना {adapters} के माध्यम से भेजी गई।
+सूचना {adapters} के माध्यम से भेजी गई। विफलताएँ: {details}
+पिछले प्रसारण
+हाल के प्रसारण
+कॉन्फ़िगर किए गए npub पर एन्क्रिप्टेड Nostr डायरेक्ट मैसेज भेजें।
+Telegram बॉट चैट पर सूचनाएँ भेजें और सीधे बॉट/चैट ID खोजें।
+चयन योग्य payload प्रारूपों (सामान्य JSON, Slack-संगत, Discord, Google Chat, Teams, Telegram, ntfy, Gotify) के साथ webhook URL पर सूचनाएँ भेजें।
+परीक्षण सूचना भेजें
+वॉलेट सूचनाएँ कॉन्फ़िगर किए गए ईमेल प्राप्तकर्ताओं को भेजें।
+सूचनाएँ प्रसारित करने से पहले सदस्यता एक्सेस आवश्यक है।
+{adapter} जाँचने से पहले सदस्यता एक्सेस आवश्यक है।
+सूचनाएँ भेजने से पहले सदस्यता एक्सेस आवश्यक है।
+{adapter} परीक्षण करने से पहले सदस्यता एक्सेस आवश्यक है।
+Telegram एडैप्टर
+परीक्षण
+यह Notification Broadcaster प्लगइन से एक परीक्षण सूचना है।
+{title} #{number}
+एडैप्टर
+साफ़ करें
+ईवेंट
+समय
+शीर्षक
+अक्षम
+संवेदनशील विवरण छिपाएँ
+नहीं
+सूचना प्रकार
+गोपनीयता विलंब
+अनुसूचित भुगतान
+वॉलेट tx
+चेतावनी
+हाँ
+s
+1. @BotFather के साथ बॉट बनाएँ। 2. बॉट के साथ चैट खोलें और जिस चैट का उपयोग करना चाहते हैं, उससे /start भेजें। 3. हाल की बॉट वार्तालापें प्राप्त करने के लिए Detect Chats पर क्लिक करें। 4. एक खोजी गई चैट चुनें और परीक्षण संदेश भेजें।
+123456789:AA...
+API आधार URL
+बॉट टोकन
+चैट डिलीवरी नियम
+Telegram बॉट और हाल की चैट्स जाँची जा रही हैं...
+चुनें कि यह Telegram चैट कौन से संदेश प्रकार प्राप्त करती है, क्या संवेदनशील विवरण छिपाए जाते हैं, और डिलीवरी से पहले अधिकतम यादृच्छिक विलंब कितना हो।
+@BotFather के साथ एक बॉट बनाएँ, उसे कम से कम एक संदेश भेजें, फिर नीचे दी गई सहायक क्रिया का उपयोग करके getMe/getUpdates को सीधे कॉल करें और हाल की चैट ID सूचीबद्ध करें। ऐप प्रॉक्सी कॉन्फ़िगरेशन स्वतः पुन: उपयोग किया जाता है।
+चैट्स खोजें
+खोजी गई चैट्स
+अभी तक कोई Telegram चैट नहीं मिली। अपने बॉट को /start भेजें, Detect Chats पर क्लिक करें, फिर एक चैट चुनें।
+अभी तक कोई हाल की चैट ID नहीं मिली। पहले अपने बॉट को एक संदेश भेजें, फिर पुनः प्रयास करें।
+Notification Broadcaster Telegram परीक्षण
+चैट {chat_id} सहेजी गई (रीफ़्रेश करने के लिए फिर से खोज चलाएँ)
+एक खोजी गई चैट चुनें
+अपने बॉट को /start भेजें, फिर Detect Chats पर क्लिक करें
+Telegram परीक्षण सूचना भेजी जा रही है...
+Telegram एडैप्टर
+Telegram बॉट टोकन आवश्यक है।
+Telegram बॉट: {bot}. हाल की चैट्स: {chats}
+Telegram लुकअप विफल हुआ: {details}
+Telegram परीक्षण डिलीवर नहीं हुआ। बॉट टोकन और खोजी गई चैट चयन जाँचें।
+Telegram परीक्षण विफल हुआ: {details}
+Telegram परीक्षण चैट ID {chat_id} के लिए सफल हुआ।
+यह एक Telegram कनेक्टिविटी परीक्षण सूचना है।
+हाल की बॉट वार्तालापें प्राप्त करने के लिए Detect Chats का उपयोग करें, फिर सूचनाओं के लिए एक चैट चुनें।
+चुनें कि यह webhook कौन से संदेश प्रकार प्राप्त करता है, क्या संवेदनशील विवरण छिपाए जाते हैं, और डिलीवरी से पहले अधिकतम यादृच्छिक विलंब कितना हो।
+Discord
+एंडपॉइंट URL
+सामान्य JSON (Zapier, n8n, Make, कस्टम ऐप्स)
+सामान्य Webhook
+Google Chat
+Gotify
+संदेश प्रारूप
+Microsoft Teams
+Notification Broadcaster Webhook परीक्षण
+एक webhook URL चिपकाएँ, फिर मेल खाने वाला payload प्रारूप चुनें। उदाहरण: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify, या कोई भी कस्टम ऑटोमेशन टूल। स्थानीय डेमो के लिए: poetry run python -m notification_broadcaster.webhook_demo_server फिर [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) उपयोग करें
+webhook परीक्षण सूचना भेजी जा रही है...
+Slack-संगत (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+कॉन्फ़िगर किया गया webhook एंडपॉइंट नीचे दिए गए डिलीवरी नियमों का उपयोग करता है।
+यह एक सामान्य webhook कनेक्टिविटी परीक्षण सूचना है।
+Webhook डिलीवरी नियम
+Webhook एंडपॉइंट URL आवश्यक है।
+Webhook परीक्षण डिलीवर नहीं हुआ। एंडपॉइंट URL जाँचें।
+Webhook परीक्षण विफल हुआ: {details}
+Webhook परीक्षण सफल हुआ।
+ntfy / ntfy.sh
+Trezor पर दिखाया गया 6-अंकीय pairing code दर्ज करें:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) का उपयोग करके PIN दर्ज करें:
+Trezor पेयर करें
+Trezor अनलॉक करें
+
+bn_BD
+
+অ্যাডাপ্টার অনুসন্ধান ব্যর্থ হয়েছে: {details}
+অ্যাডাপ্টার পরীক্ষা ব্যর্থ হয়েছে: {details}
+অ্যাডাপ্টারের বিস্তারিত পরীক্ষা করা হচ্ছে...
+অ্যাডাপ্টার মুছুন
+প্রাপকের কনফিগারেশন
+সেটিংস রিসেট করুন
+অ্যাডাপ্টার পরীক্ষা চালানো হচ্ছে...
+সেটিংস সংরক্ষণ করুন
+সংরক্ষণ করুন এবং পরীক্ষা করুন
+সেটিংস সংরক্ষিত হয়েছে।
+অসংরক্ষিত সেটিংস রিসেট করা হয়েছে।
+CalDAV অ্যাডাপ্টার
+CalDAV এন্ডপয়েন্ট URL প্রয়োজন।
+CalDAV পরীক্ষায় কোনো ইভেন্ট আপলোড হয়নি। এন্ডপয়েন্ট এবং ক্রেডেনশিয়াল পরীক্ষা করুন।
+CalDAV পরীক্ষা ব্যর্থ হয়েছে: {details}
+CalDAV পরীক্ষা সফল হয়েছে। ইভেন্ট {start} UTC-তে শুরু হয়। ইভেন্ট URL: {url}
+ক্যালেন্ডার ডেলিভারি নিয়ম
+কোন বার্তার ধরন ক্যালেন্ডার এন্ট্রি তৈরি করবে, সংবেদনশীল বিবরণ লুকানো হবে কি না, এবং ডেলিভারির আগে সর্বোচ্চ এলোমেলো বিলম্ব কত হবে তা বেছে নিন।
+এন্ডপয়েন্ট URL
+Notification Broadcaster CalDAV পরীক্ষা
+পাসওয়ার্ড
+CalDAV পরীক্ষার ইভেন্ট পাঠানো হচ্ছে...
+কনফিগার করা ক্যালেন্ডার এন্ডপয়েন্ট নিচের ডেলিভারি নিয়ম ব্যবহার করে।
+এটি একটি CalDAV সংযোগ পরীক্ষার ইভেন্ট।
+বিদ্যমান CalDAV ক্যালেন্ডারের সম্পূর্ণ URL ব্যবহার করুন। Nextcloud-এর জন্য: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+ব্যবহারকারীর নাম
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> এর মতো একটি বিদ্যমান ক্যালেন্ডার URL ব্যবহার করুন
+একবারে একজন করে প্রাপক যোগ করুন এবং তার বার্তার ধরন, সংবেদনশীল ডেটা ব্যবস্থাপনা, এবং সর্বোচ্চ এলোমেলো গোপনীয়তা বিলম্ব নির্ধারণ করুন।
+অন্তত একটি প্রাপকের ইমেইল প্রয়োজন।
+এই প্রাপক কোন বার্তার ধরন পাবে, সংবেদনশীল বিবরণ লুকানো হবে কি না, এবং ডেলিভারির আগে সর্বোচ্চ এলোমেলো বিলম্ব কত হবে তা বেছে নিন।
+আউটগোয়িং নোটিফিকেশন ইমেইলের জন্য ব্যবহৃত একটি SMTP অ্যাকাউন্ট কনফিগার করুন।
+সংযোগ নিরাপত্তা
+মুছুন
+ইমেইল
+ইমেইল অ্যাডাপ্টার
+ইমেইল পরীক্ষা ডেলিভার হয়নি। SMTP সেটিংস এবং প্রাপকের ঠিকানা পরীক্ষা করুন।
+ইমেইল পরীক্ষা ব্যর্থ হয়েছে: {details}
+ইমেইল পরীক্ষা {recipients}-এর জন্য সফল হয়েছে।
+কোনোটিই নয়
+Notification Broadcaster ইমেইল পরীক্ষা
+এখানে শুধুমাত্র সরাসরি SMTP সার্ভার কনফিগারেশন সমর্থিত। Gmail, Outlook এবং অনুরূপ প্রদানকারী-পরিচালিত ইমেইল ইন্টিগ্রেশন সমর্থিত নয়।
+প্রাপক ডেলিভারি নিয়ম
+প্রাপকের ইমেইল প্রয়োজন।
+SMTP হোস্ট
+SMTP হোস্ট, পোর্ট এবং প্রেরকের ঠিকানা প্রয়োজন।
+SMTP পাসওয়ার্ড
+SMTP পোর্ট
+SMTP ব্যবহারকারীর নাম
+SSL/TLS
+STARTTLS
+প্রেরকের ঠিকানা
+ইমেইল পরীক্ষার নোটিফিকেশন পাঠানো হচ্ছে...
+এটি একটি ইমেইল সংযোগ পরীক্ষার নোটিফিকেশন।
+[recipient@example.com](mailto:recipient@example.com)
+একবারে একজন করে প্রাপকের npub যোগ করুন এবং তার বার্তার ধরন, সংবেদনশীল ডেটা ব্যবস্থাপনা, এবং সর্বোচ্চ এলোমেলো গোপনীয়তা বিলম্ব নির্ধারণ করুন।
+অন্তত একটি প্রাপকের npub প্রয়োজন।
+এই প্রাপক কোন বার্তার ধরন পাবে, সংবেদনশীল বিবরণ লুকানো হবে কি না, এবং ডেলিভারির আগে সর্বোচ্চ এলোমেলো বিলম্ব কত হবে তা বেছে নিন।
+NIP-17 এনক্রিপ্টেড ডাইরেক্ট মেসেজের জন্য প্রেরকের nsec এবং রিলে কনফিগার করুন।
+মুছুন
+nsec লুকান
+অবৈধ প্রাপকের npub।
+NIP-17 পরীক্ষা ডেলিভার হয়নি। প্রেরকের nsec, রিলে এবং প্রাপকের npub পরীক্ষা করুন।
+NIP-17 পরীক্ষা ব্যর্থ হয়েছে: {details}
+NIP-17 পরীক্ষা {recipients}-এর জন্য সফল হয়েছে।
+Nostr DM অ্যাডাপ্টার
+Notification Broadcaster NIP-17 পরীক্ষা
+Npub
+প্রাপক ডেলিভারি নিয়ম
+প্রাপকের npub
+প্রাপকের npub প্রয়োজন।
+রিলে
+প্রেরকের nsec
+প্রেরকের nsec এবং অন্তত একটি রিলে প্রয়োজন।
+NIP-17 পরীক্ষার নোটিফিকেশন পাঠানো হচ্ছে...
+nsec দেখান
+এটি একটি NIP-17 সংযোগ পরীক্ষার নোটিফিকেশন।
+npub1...
+nsec1...
+অ্যাডাপ্টার যোগ করুন
+ওয়ালেট নোটিফিকেশনগুলো ইমেইল, Telegram, NIP-17, CalDAV এবং সাধারণ webhook-এর মতো অ্যাডাপ্টারে সম্প্রচার করুন।
+CalDAV অ্যাডাপ্টার
+একটি অ্যাডাপ্টারের ধরন বেছে নিন, সেটি যোগ করুন, তারপর নিচে তার ডেলিভারি সেটিংস কনফিগার করুন। আলাদা গন্তব্যের প্রয়োজন হলে একই ধরনের একাধিক অ্যাডাপ্টার যোগ করতে পারেন।
+কনফিগার করা অ্যাডাপ্টারসমূহ
+আপনার CalDAV ক্যালেন্ডারে রিমাইন্ডার ইভেন্ট তৈরি করুন।
+সেটিংস সম্পাদনা করুন
+ইমেইল অ্যাডাপ্টার
+সাধারণ Webhook
+সেটিংস লুকান
+এই নোটিফিকেশনের জন্য কোনো অ্যাডাপ্টার প্রস্তুত নেই।
+এখনও কোনো অ্যাডাপ্টার কনফিগার করা হয়নি। আপনার প্রথম গন্তব্য তৈরি করতে উপরের একটি অ্যাডাপ্টার ধরন বেছে নিন।
+Nostr DM অ্যাডাপ্টার
+Notification Broadcaster
+Notification Broadcaster পরীক্ষা
+নোটিফিকেশন ব্যর্থ হয়েছে: {details}
+নোটিফিকেশন {adapters}-এর মাধ্যমে পাঠানো হয়েছে।
+নোটিফিকেশন {adapters}-এর মাধ্যমে পাঠানো হয়েছে। ব্যর্থতা: {details}
+পূর্ববর্তী সম্প্রচার
+সাম্প্রতিক সম্প্রচার
+কনফিগার করা npub-এ এনক্রিপ্টেড Nostr ডাইরেক্ট মেসেজ পাঠান।
+Telegram বট চ্যাটে নোটিফিকেশন পাঠান এবং সরাসরি বট/চ্যাট ID আবিষ্কার করুন।
+নির্বাচনযোগ্য payload ফরম্যাটসহ webhook URL-এ নোটিফিকেশন পাঠান (সাধারণ JSON, Slack-সামঞ্জস্যপূর্ণ, Discord, Google Chat, Teams, Telegram, ntfy, Gotify)।
+পরীক্ষামূলক নোটিফিকেশন পাঠান
+কনফিগার করা ইমেইল প্রাপকদের কাছে ওয়ালেট নোটিফিকেশন পাঠান।
+নোটিফিকেশন সম্প্রচার করার আগে সাবস্ক্রিপশন অ্যাক্সেস প্রয়োজন।
+{adapter} পরীক্ষা করার আগে সাবস্ক্রিপশন অ্যাক্সেস প্রয়োজন।
+নোটিফিকেশন পাঠানোর আগে সাবস্ক্রিপশন অ্যাক্সেস প্রয়োজন।
+{adapter} টেস্ট করার আগে সাবস্ক্রিপশন অ্যাক্সেস প্রয়োজন।
+Telegram অ্যাডাপ্টার
+পরীক্ষা
+এটি Notification Broadcaster প্লাগইন থেকে একটি পরীক্ষামূলক নোটিফিকেশন।
+{title} #{number}
+অ্যাডাপ্টারসমূহ
+মুছুন
+ইভেন্ট
+সময়
+শিরোনাম
+নিষ্ক্রিয়
+সংবেদনশীল বিবরণ লুকান
+না
+নোটিফিকেশনের ধরন
+গোপনীয়তা বিলম্ব
+নির্ধারিত পেমেন্ট
+ওয়ালেট tx
+সতর্কতা
+হ্যাঁ
+s
+1. @BotFather দিয়ে বট তৈরি করুন। 2. বটের সাথে একটি চ্যাট খুলুন এবং যে চ্যাটটি ব্যবহার করতে চান সেখান থেকে /start পাঠান। 3. সাম্প্রতিক বট কথোপকথন আনতে Detect Chats-এ ক্লিক করুন। 4. একটি সনাক্ত চ্যাট বেছে নিয়ে একটি পরীক্ষামূলক বার্তা পাঠান।
+123456789:AA...
+API বেস URL
+বট টোকেন
+চ্যাট ডেলিভারি নিয়ম
+Telegram বট এবং সাম্প্রতিক চ্যাট পরীক্ষা করা হচ্ছে...
+এই Telegram চ্যাট কোন বার্তার ধরন পাবে, সংবেদনশীল বিবরণ লুকানো হবে কি না, এবং ডেলিভারির আগে সর্বোচ্চ এলোমেলো বিলম্ব কত হবে তা বেছে নিন।
+@BotFather দিয়ে একটি বট তৈরি করুন, তাকে অন্তত একটি বার্তা পাঠান, তারপর নিচের সহায়ক ক্রিয়াটি ব্যবহার করে সরাসরি getMe/getUpdates কল করুন এবং সাম্প্রতিক চ্যাট ID তালিকাভুক্ত করুন। অ্যাপের প্রক্সি কনফিগারেশন স্বয়ংক্রিয়ভাবে পুনরায় ব্যবহার করা হয়।
+চ্যাট সনাক্ত করুন
+সনাক্ত করা চ্যাটসমূহ
+এখনও কোনো Telegram চ্যাট সনাক্ত হয়নি। আপনার বটকে /start পাঠান, Detect Chats-এ ক্লিক করুন, তারপর একটি চ্যাট বেছে নিন।
+এখনও কোনো সাম্প্রতিক চ্যাট ID পাওয়া যায়নি। আগে আপনার বটকে একটি বার্তা পাঠান, তারপর আবার চেষ্টা করুন।
+Notification Broadcaster Telegram পরীক্ষা
+চ্যাট {chat_id} সংরক্ষণ করা হয়েছে (রিফ্রেশ করতে আবার সনাক্তকরণ চালান)
+একটি সনাক্ত চ্যাট বেছে নিন
+আপনার বটকে /start পাঠান, তারপর Detect Chats-এ ক্লিক করুন
+Telegram পরীক্ষার নোটিফিকেশন পাঠানো হচ্ছে...
+Telegram অ্যাডাপ্টার
+Telegram বট টোকেন প্রয়োজন।
+Telegram বট: {bot}। সাম্প্রতিক চ্যাট: {chats}
+Telegram অনুসন্ধান ব্যর্থ হয়েছে: {details}
+Telegram পরীক্ষা ডেলিভার হয়নি। বট টোকেন এবং সনাক্ত চ্যাট নির্বাচন পরীক্ষা করুন।
+Telegram পরীক্ষা ব্যর্থ হয়েছে: {details}
+Telegram পরীক্ষা চ্যাট ID {chat_id}-এর জন্য সফল হয়েছে।
+এটি একটি Telegram সংযোগ পরীক্ষার নোটিফিকেশন।
+সাম্প্রতিক বট কথোপকথন আনতে Detect Chats ব্যবহার করুন, তারপর নোটিফিকেশনের জন্য একটি চ্যাট বেছে নিন।
+এই webhook কোন বার্তার ধরন পাবে, সংবেদনশীল বিবরণ লুকানো হবে কি না, এবং ডেলিভারির আগে সর্বোচ্চ এলোমেলো বিলম্ব কত হবে তা বেছে নিন।
+Discord
+এন্ডপয়েন্ট URL
+সাধারণ JSON (Zapier, n8n, Make, কাস্টম অ্যাপ)
+সাধারণ Webhook
+Google Chat
+Gotify
+বার্তার ফরম্যাট
+Microsoft Teams
+Notification Broadcaster Webhook পরীক্ষা
+একটি webhook URL পেস্ট করুন, তারপর মিল থাকা payload ফরম্যাট বেছে নিন। উদাহরণ: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify, অথবা যেকোনো কাস্টম অটোমেশন টুল। লোকাল ডেমোর জন্য: poetry run python -m notification_broadcaster.webhook_demo_server তারপর [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) ব্যবহার করুন
+webhook পরীক্ষার নোটিফিকেশন পাঠানো হচ্ছে...
+Slack-সামঞ্জস্যপূর্ণ (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+কনফিগার করা webhook এন্ডপয়েন্ট নিচের ডেলিভারি নিয়ম ব্যবহার করে।
+এটি একটি সাধারণ webhook সংযোগ পরীক্ষার নোটিফিকেশন।
+Webhook ডেলিভারি নিয়ম
+Webhook এন্ডপয়েন্ট URL প্রয়োজন।
+Webhook পরীক্ষা ডেলিভার হয়নি। এন্ডপয়েন্ট URL পরীক্ষা করুন।
+Webhook পরীক্ষা ব্যর্থ হয়েছে: {details}
+Webhook পরীক্ষা সফল হয়েছে।
+ntfy / ntfy.sh
+Trezor-এ দেখানো 6-সংখ্যার pairing code লিখুন:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) ব্যবহার করে PIN লিখুন:
+Trezor জোড়া লাগান
+Trezor আনলক করুন
+
+it_IT
+
+Ricerca dell’adattatore non riuscita: {details}
+Test dell’adattatore non riuscito: {details}
+Controllo dei dettagli dell’adattatore in corso...
+Elimina adattatore
+Configurazione destinatario
+Reimposta impostazioni
+Esecuzione del test dell’adattatore...
+Salva impostazioni
+Salva e testa
+Impostazioni salvate.
+Le impostazioni non salvate sono state reimpostate.
+Adattatore CalDAV
+L’URL dell’endpoint CalDAV è obbligatorio.
+Il test CalDAV non ha caricato alcun evento. Controlla endpoint e credenziali.
+Test CalDAV non riuscito: {details}
+Test CalDAV riuscito. L’evento inizia alle {start} UTC. URL dell’evento: {url}
+Regole di consegna del calendario
+Scegli quali tipi di messaggi creano voci di calendario, se i dettagli sensibili vengono nascosti e il ritardo casuale massimo prima della consegna.
+URL endpoint
+Test CalDAV di Notification Broadcaster
+Password
+Invio dell’evento di test CalDAV in corso...
+L’endpoint del calendario configurato usa le regole di consegna riportate di seguito.
+Questo è un evento di test della connettività CalDAV.
+Usa l’URL completo di un calendario CalDAV esistente. Per Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nome utente
+{details} Usa un URL di calendario esistente come [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Aggiungi un destinatario alla volta e definiscine i tipi di messaggio, la gestione dei dati sensibili e il ritardo casuale massimo per la privacy.
+È richiesto almeno un indirizzo email del destinatario.
+Scegli quali tipi di messaggi riceve questo destinatario, se i dettagli sensibili vengono nascosti e il ritardo casuale massimo prima della consegna.
+Configura un account SMTP usato per le email di notifica in uscita.
+Sicurezza della connessione
+Elimina
+Email
+Adattatore email
+Il test email non è stato recapitato. Controlla le impostazioni SMTP e gli indirizzi dei destinatari.
+Test email non riuscito: {details}
+Test email riuscito per {recipients}.
+Nessuno
+Test email di Notification Broadcaster
+Qui è supportata solo la configurazione diretta del server SMTP. Le integrazioni email gestite dal provider come Gmail, Outlook e simili non sono supportate.
+Regole di consegna del destinatario
+L’email del destinatario è obbligatoria.
+Host SMTP
+Host SMTP, porta e indirizzo del mittente sono obbligatori.
+Password SMTP
+Porta SMTP
+Nome utente SMTP
+SSL/TLS
+STARTTLS
+Indirizzo del mittente
+Invio della notifica di test email in corso...
+Questa è una notifica di test della connettività email.
+[recipient@example.com](mailto:recipient@example.com)
+Aggiungi un npub destinatario alla volta e definiscine i tipi di messaggio, la gestione dei dati sensibili e il ritardo casuale massimo per la privacy.
+È richiesto almeno un npub destinatario.
+Scegli quali tipi di messaggi riceve questo destinatario, se i dettagli sensibili vengono nascosti e il ritardo casuale massimo prima della consegna.
+Configura nsec del mittente e relay per i messaggi diretti crittografati NIP-17.
+Elimina
+Nascondi nsec
+npub destinatario non valido.
+Il test NIP-17 non è stato recapitato. Controlla nsec del mittente, relay e npub dei destinatari.
+Test NIP-17 non riuscito: {details}
+Test NIP-17 riuscito per {recipients}.
+Adattatore Nostr DM
+Test NIP-17 di Notification Broadcaster
+Npub
+Regole di consegna del destinatario
+npub destinatario
+Il npub destinatario è obbligatorio.
+Relay
+nsec del mittente
+nsec del mittente e almeno un relay sono obbligatori.
+Invio della notifica di test NIP-17 in corso...
+Mostra nsec
+Questa è una notifica di test della connettività NIP-17.
+npub1...
+nsec1...
+Aggiungi adattatore
+Trasmetti le notifiche del wallet ad adattatori come email, Telegram, NIP-17, CalDAV e webhook generici.
+Adattatore CalDAV
+Scegli un tipo di adattatore, aggiungilo e poi configura le relative impostazioni di consegna qui sotto. Puoi aggiungere più adattatori dello stesso tipo se ti servono destinazioni separate.
+Adattatori configurati
+Crea eventi promemoria nel tuo calendario CalDAV.
+Modifica impostazioni
+Adattatore email
+Webhook generici
+Nascondi impostazioni
+Nessun adattatore è pronto per questa notifica.
+Nessun adattatore ancora configurato. Scegli un tipo di adattatore qui sopra per creare la tua prima destinazione.
+Adattatore Nostr DM
+Notification Broadcaster
+Test di Notification Broadcaster
+Notifica non riuscita: {details}
+Notifica inviata tramite {adapters}.
+Notifica inviata tramite {adapters}. Errori: {details}
+Trasmissioni passate
+Trasmissioni recenti
+Invia messaggi diretti Nostr crittografati agli npub configurati.
+Invia notifiche a una chat bot Telegram e rileva direttamente gli ID bot/chat.
+Invia notifiche agli URL webhook con formati payload selezionabili (JSON generico, compatibile Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Invia notifica di test
+Invia notifiche del wallet ai destinatari email configurati.
+È richiesto l’accesso in abbonamento prima di trasmettere notifiche.
+È richiesto l’accesso in abbonamento prima di controllare {adapter}.
+È richiesto l’accesso in abbonamento prima di inviare notifiche.
+È richiesto l’accesso in abbonamento prima di testare {adapter}.
+Adattatore Telegram
+Test
+Questa è una notifica di test dal plugin Notification Broadcaster.
+{title} n. {number}
+Adattatori
+Cancella
+Evento
+Ora
+Titolo
+Disabilitato
+Nascondi dettagli sensibili
+No
+Tipi di notifica
+Ritardo privacy
+Pagamenti programmati
+tx del wallet
+Avviso
+Sì
+s
+1. Crea il bot con @BotFather. 2. Apri una chat con il bot e invia /start dalla chat che vuoi usare. 3. Fai clic su Rileva chat per recuperare le conversazioni recenti del bot. 4. Scegli una chat rilevata e invia un messaggio di test.
+123456789:AA...
+URL base API
+Token del bot
+Regole di consegna della chat
+Controllo del bot Telegram e delle chat recenti in corso...
+Scegli quali tipi di messaggi riceve questa chat Telegram, se i dettagli sensibili vengono nascosti e il ritardo casuale massimo prima della consegna.
+Crea un bot con @BotFather, inviagli almeno un messaggio, poi usa l’azione di supporto qui sotto per chiamare direttamente getMe/getUpdates ed elencare gli ID chat recenti. La configurazione proxy dell’app viene riutilizzata automaticamente.
+Rileva chat
+Chat rilevate
+Nessuna chat Telegram rilevata finora. Invia /start al tuo bot, fai clic su Rileva chat e poi scegli una chat.
+Nessun ID chat recente trovato finora. Invia prima un messaggio al tuo bot, poi riprova.
+Test Telegram di Notification Broadcaster
+Chat {chat_id} salvata (esegui di nuovo il rilevamento per aggiornare)
+Seleziona una chat rilevata
+Invia /start al tuo bot, poi fai clic su Rileva chat
+Invio della notifica di test Telegram in corso...
+Adattatore Telegram
+Il token del bot Telegram è obbligatorio.
+Bot Telegram: {bot}. Chat recenti: {chats}
+Ricerca Telegram non riuscita: {details}
+Il test Telegram non è stato recapitato. Controlla il token del bot e la selezione della chat rilevata.
+Test Telegram non riuscito: {details}
+Test Telegram riuscito per l’ID chat {chat_id}.
+Questa è una notifica di test della connettività Telegram.
+Usa Rileva chat per recuperare le conversazioni recenti del bot, poi scegli una chat per le notifiche.
+Scegli quali tipi di messaggi riceve questo webhook, se i dettagli sensibili vengono nascosti e il ritardo casuale massimo prima della consegna.
+Discord
+URL endpoint
+JSON generico (Zapier, n8n, Make, app personalizzate)
+Webhook generici
+Google Chat
+Gotify
+Formato messaggio
+Microsoft Teams
+Test webhook di Notification Broadcaster
+Incolla un URL webhook, poi scegli il formato payload corrispondente. Esempi: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify o qualsiasi strumento di automazione personalizzato. Demo in locale con: poetry run python -m notification_broadcaster.webhook_demo_server quindi usa [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Invio della notifica di test webhook in corso...
+Compatibile con Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+L’endpoint webhook configurato usa le regole di consegna riportate di seguito.
+Questa è una notifica di test della connettività webhook generica.
+Regole di consegna webhook
+L’URL dell’endpoint webhook è obbligatorio.
+Il test webhook non è stato recapitato. Controlla l’URL endpoint.
+Test webhook non riuscito: {details}
+Test webhook riuscito.
+ntfy / ntfy.sh
+Inserisci il codice di associazione a 6 cifre mostrato sul Trezor:
+Inserisci il PIN usando il layout del tastierino Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Associa Trezor
+Sblocca Trezor
+
+de_DE
+
+Adapter-Suche fehlgeschlagen: {details}
+Adapter-Test fehlgeschlagen: {details}
+Adapter-Details werden geprüft...
+Adapter löschen
+Empfängerkonfiguration
+Einstellungen zurücksetzen
+Adapter-Test wird ausgeführt...
+Einstellungen speichern
+Speichern und testen
+Einstellungen gespeichert.
+Nicht gespeicherte Einstellungen wurden zurückgesetzt.
+CalDAV-Adapter
+CalDAV-Endpunkt-URL ist erforderlich.
+CalDAV-Test hat kein Ereignis hochgeladen. Prüfen Sie Endpunkt und Anmeldedaten.
+CalDAV-Test fehlgeschlagen: {details}
+CalDAV-Test erfolgreich. Das Ereignis beginnt um {start} UTC. Ereignis-URL: {url}
+Kalender-Zustellregeln
+Wählen Sie aus, welche Nachrichtentypen Kalendereinträge erstellen, ob sensible Details ausgeblendet werden und wie hoch die maximale zufällige Verzögerung vor der Zustellung ist.
+Endpunkt-URL
+Notification Broadcaster CalDAV-Test
+Passwort
+CalDAV-Testereignis wird gesendet...
+Der konfigurierte Kalender-Endpunkt verwendet die untenstehenden Zustellregeln.
+Dies ist ein CalDAV-Konnektivitätstestereignis.
+Verwenden Sie die vollständige URL eines vorhandenen CalDAV-Kalenders. Für Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Benutzername
+{details} Verwenden Sie eine vorhandene Kalender-URL wie [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Fügen Sie jeweils einen Empfänger hinzu und legen Sie dessen Nachrichtentypen, Umgang mit sensiblen Daten und maximale zufällige Datenschutzverzögerung fest.
+Mindestens eine Empfänger-E-Mail ist erforderlich.
+Wählen Sie aus, welche Nachrichtentypen dieser Empfänger erhält, ob sensible Details ausgeblendet werden und wie hoch die maximale zufällige Verzögerung vor der Zustellung ist.
+Konfigurieren Sie ein SMTP-Konto für ausgehende Benachrichtigungs-E-Mails.
+Verbindungssicherheit
+Löschen
+E-Mail
+E-Mail-Adapter
+E-Mail-Test wurde nicht zugestellt. Prüfen Sie die SMTP-Einstellungen und Empfängeradressen.
+E-Mail-Test fehlgeschlagen: {details}
+E-Mail-Test erfolgreich für {recipients}.
+Keine
+Notification Broadcaster E-Mail-Test
+Hier wird nur die direkte SMTP-Serverkonfiguration unterstützt. Von Anbietern verwaltete E-Mail-Integrationen wie Gmail, Outlook und ähnliche werden nicht unterstützt.
+Empfänger-Zustellregeln
+Empfänger-E-Mail ist erforderlich.
+SMTP-Host
+SMTP-Host, Port und Absenderadresse sind erforderlich.
+SMTP-Passwort
+SMTP-Port
+SMTP-Benutzername
+SSL/TLS
+STARTTLS
+Absenderadresse
+E-Mail-Testbenachrichtigung wird gesendet...
+Dies ist eine E-Mail-Konnektivitätstestbenachrichtigung.
+[recipient@example.com](mailto:recipient@example.com)
+Fügen Sie jeweils einen Empfänger-npub hinzu und legen Sie dessen Nachrichtentypen, Umgang mit sensiblen Daten und maximale zufällige Datenschutzverzögerung fest.
+Mindestens ein Empfänger-npub ist erforderlich.
+Wählen Sie aus, welche Nachrichtentypen dieser Empfänger erhält, ob sensible Details ausgeblendet werden und wie hoch die maximale zufällige Verzögerung vor der Zustellung ist.
+Konfigurieren Sie den Absender-nsec und die Relays für verschlüsselte NIP-17-Direktnachrichten.
+Löschen
+nsec ausblenden
+Ungültiger Empfänger-npub.
+NIP-17-Test wurde nicht zugestellt. Prüfen Sie Absender-nsec, Relays und Empfänger-npubs.
+NIP-17-Test fehlgeschlagen: {details}
+NIP-17-Test erfolgreich für {recipients}.
+Nostr-DM-Adapter
+Notification Broadcaster NIP-17-Test
+Npub
+Empfänger-Zustellregeln
+Empfänger-npub
+Empfänger-npub ist erforderlich.
+Relays
+Absender-nsec
+Absender-nsec und mindestens ein Relay sind erforderlich.
+NIP-17-Testbenachrichtigung wird gesendet...
+nsec anzeigen
+Dies ist eine NIP-17-Konnektivitätstestbenachrichtigung.
+npub1...
+nsec1...
+Adapter hinzufügen
+Senden Sie Wallet-Benachrichtigungen an Adapter wie E-Mail, Telegram, NIP-17, CalDAV und allgemeine Webhooks.
+CalDAV-Adapter
+Wählen Sie einen Adaptertyp, fügen Sie ihn hinzu und konfigurieren Sie dann unten dessen Zustellungseinstellungen. Sie können mehrere Adapter desselben Typs hinzufügen, wenn Sie getrennte Ziele benötigen.
+Konfigurierte Adapter
+Erstellen Sie Erinnerungseinträge in Ihrem CalDAV-Kalender.
+Einstellungen bearbeiten
+E-Mail-Adapter
+Allgemeine Webhooks
+Einstellungen ausblenden
+Kein Adapter ist für diese Benachrichtigung bereit.
+Noch keine Adapter konfiguriert. Wählen Sie oben einen Adaptertyp aus, um Ihr erstes Ziel zu erstellen.
+Nostr-DM-Adapter
+Notification Broadcaster
+Notification Broadcaster-Test
+Benachrichtigung fehlgeschlagen: {details}
+Benachrichtigung über {adapters} gesendet.
+Benachrichtigung über {adapters} gesendet. Fehler: {details}
+Vergangene Broadcasts
+Letzte Broadcasts
+Senden Sie verschlüsselte Nostr-Direktnachrichten an konfigurierte npubs.
+Senden Sie Benachrichtigungen an einen Telegram-Bot-Chat und ermitteln Sie Bot-/Chat-IDs direkt.
+Senden Sie Benachrichtigungen an Webhook-URLs mit auswählbaren Payload-Formaten (allgemeines JSON, Slack-kompatibel, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Testbenachrichtigung senden
+Senden Sie Wallet-Benachrichtigungen an konfigurierte E-Mail-Empfänger.
+Ein Abonnementzugang ist erforderlich, bevor Benachrichtigungen gesendet werden können.
+Ein Abonnementzugang ist erforderlich, bevor {adapter} geprüft werden kann.
+Ein Abonnementzugang ist erforderlich, bevor Benachrichtigungen gesendet werden können.
+Ein Abonnementzugang ist erforderlich, bevor {adapter} getestet werden kann.
+Telegram-Adapter
+Test
+Dies ist eine Testbenachrichtigung vom Notification Broadcaster-Plugin.
+{title} #{number}
+Adapter
+Löschen
+Ereignis
+Zeit
+Titel
+Deaktiviert
+Sensible Details ausblenden
+Nein
+Benachrichtigungstypen
+Datenschutzverzögerung
+Geplante Zahlungen
+Wallet-tx
+Warnung
+Ja
+s
+1. Erstellen Sie den Bot mit @BotFather. 2. Öffnen Sie einen Chat mit dem Bot und senden Sie /start aus dem Chat, den Sie verwenden möchten. 3. Klicken Sie auf Chats erkennen, um aktuelle Bot-Unterhaltungen abzurufen. 4. Wählen Sie einen erkannten Chat aus und senden Sie eine Testnachricht.
+123456789:AA...
+API-Basis-URL
+Bot-Token
+Chat-Zustellregeln
+Telegram-Bot und aktuelle Chats werden geprüft...
+Wählen Sie aus, welche Nachrichtentypen dieser Telegram-Chat erhält, ob sensible Details ausgeblendet werden und wie hoch die maximale zufällige Verzögerung vor der Zustellung ist.
+Erstellen Sie mit @BotFather einen Bot, senden Sie ihm mindestens eine Nachricht und verwenden Sie dann die untenstehende Hilfsaktion, um getMe/getUpdates direkt aufzurufen und aktuelle Chat-IDs aufzulisten. Die Proxy-Konfiguration der App wird automatisch wiederverwendet.
+Chats erkennen
+Erkannte Chats
+Noch kein Telegram-Chat erkannt. Senden Sie /start an Ihren Bot, klicken Sie auf Chats erkennen und wählen Sie dann einen Chat aus.
+Noch keine aktuellen Chat-IDs gefunden. Senden Sie zuerst eine Nachricht an Ihren Bot und versuchen Sie es dann erneut.
+Notification Broadcaster Telegram-Test
+Chat {chat_id} gespeichert (Erkennung erneut ausführen zum Aktualisieren)
+Erkannten Chat auswählen
+Senden Sie /start an Ihren Bot und klicken Sie dann auf Chats erkennen
+Telegram-Testbenachrichtigung wird gesendet...
+Telegram-Adapter
+Telegram-Bot-Token ist erforderlich.
+Telegram-Bot: {bot}. Aktuelle Chats: {chats}
+Telegram-Abfrage fehlgeschlagen: {details}
+Telegram-Test wurde nicht zugestellt. Prüfen Sie das Bot-Token und die Auswahl des erkannten Chats.
+Telegram-Test fehlgeschlagen: {details}
+Telegram-Test erfolgreich für Chat-ID {chat_id}.
+Dies ist eine Telegram-Konnektivitätstestbenachrichtigung.
+Verwenden Sie Chats erkennen, um aktuelle Bot-Unterhaltungen abzurufen, und wählen Sie dann einen Chat für Benachrichtigungen aus.
+Wählen Sie aus, welche Nachrichtentypen dieser Webhook erhält, ob sensible Details ausgeblendet werden und wie hoch die maximale zufällige Verzögerung vor der Zustellung ist.
+Discord
+Endpunkt-URL
+Allgemeines JSON (Zapier, n8n, Make, benutzerdefinierte Apps)
+Allgemeine Webhooks
+Google Chat
+Gotify
+Nachrichtenformat
+Microsoft Teams
+Notification Broadcaster Webhook-Test
+Fügen Sie eine Webhook-URL ein und wählen Sie dann das passende Payload-Format aus. Beispiele: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify oder jedes benutzerdefinierte Automatisierungstool. Lokale Demo mit: poetry run python -m notification_broadcaster.webhook_demo_server und dann [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) verwenden
+Webhook-Testbenachrichtigung wird gesendet...
+Slack-kompatibel (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Der konfigurierte Webhook-Endpunkt verwendet die untenstehenden Zustellregeln.
+Dies ist eine allgemeine Webhook-Konnektivitätstestbenachrichtigung.
+Webhook-Zustellregeln
+Webhook-Endpunkt-URL ist erforderlich.
+Webhook-Test wurde nicht zugestellt. Prüfen Sie die Endpunkt-URL.
+Webhook-Test fehlgeschlagen: {details}
+Webhook-Test erfolgreich.
+ntfy / ntfy.sh
+Geben Sie den 6-stelligen Kopplungscode ein, der auf dem Trezor angezeigt wird:
+Geben Sie die PIN mithilfe des Trezor-Tastenlayouts ein (7 8 9 / 4 5 6 / 1 2 3):
+Trezor koppeln
+Trezor entsperren
+
+my_MM
+
+အဒက်တာရှာဖွေမှု မအောင်မြင်ပါ: {details}
+အဒက်တာစမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+အဒက်တာအသေးစိတ်ကို စစ်ဆေးနေသည်...
+အဒက်တာဖျက်မည်
+လက်ခံသူ ဖွဲ့စည်းမှု
+ဆက်တင်များ ပြန်လည်သတ်မှတ်မည်
+အဒက်တာစမ်းသပ်မှုကို လုပ်ဆောင်နေသည်...
+ဆက်တင်များ သိမ်းမည်
+သိမ်းပြီး စမ်းသပ်မည်
+ဆက်တင်များကို သိမ်းပြီးပါပြီ။
+မသိမ်းထားသော ဆက်တင်များကို ပြန်လည်သတ်မှတ်ပြီးပါပြီ။
+CalDAV အဒက်တာ
+CalDAV endpoint URL လိုအပ်သည်။
+CalDAV စမ်းသပ်မှုတွင် event ကို upload မလုပ်ခဲ့ပါ။ endpoint နှင့် credentials ကို စစ်ဆေးပါ။
+CalDAV စမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+CalDAV စမ်းသပ်မှု အောင်မြင်ပါသည်။ Event သည် {start} UTC တွင် စတင်ပါသည်။ Event URL: {url}
+ပြက္ခဒိန် ပို့ဆောင်မှု စည်းမျဉ်းများ
+မည်သည့် message အမျိုးအစားများက calendar entry များကို ဖန်တီးမည်၊ sensitive details များကို ဖျောက်မည် မဖျောက်မည် နှင့် ပို့ဆောင်မတိုင်မီ အများဆုံး random delay ကို ရွေးချယ်ပါ။
+Endpoint URL
+Notification Broadcaster CalDAV စမ်းသပ်မှု
+စကားဝှက်
+CalDAV စမ်းသပ် event ကို ပို့နေသည်...
+ဖွဲ့စည်းထားသော calendar endpoint သည် အောက်ပါ ပို့ဆောင်မှု စည်းမျဉ်းများကို အသုံးပြုသည်။
+ဤသည်မှာ CalDAV connectivity စမ်းသပ် event ဖြစ်သည်။
+ရှိပြီးသား CalDAV calendar ၏ URL အပြည့်အစုံကို အသုံးပြုပါ။ Nextcloud အတွက်: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+အသုံးပြုသူအမည်
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> ကဲ့သို့ ရှိပြီးသား calendar URL ကို အသုံးပြုပါ
+လက်ခံသူတစ်ဦးချင်းစီကို တစ်ကြိမ်စီ ထည့်ပြီး ၎င်း၏ message types, sensitive-data handling နှင့် အများဆုံး random privacy delay ကို သတ်မှတ်ပါ။
+အနည်းဆုံး လက်ခံသူ email တစ်ခု လိုအပ်သည်။
+ဤလက်ခံသူက မည်သည့် message types များကို လက်ခံမည်၊ sensitive details များကို ဖျောက်မည် မဖျောက်မည် နှင့် ပို့ဆောင်မတိုင်မီ အများဆုံး random delay ကို ရွေးချယ်ပါ။
+အပြင်သို့ထွက်မည့် notification email များအတွက် အသုံးပြုမည့် SMTP account ကို ဖွဲ့စည်းပါ။
+ချိတ်ဆက်မှု လုံခြုံရေး
+ဖျက်မည်
+အီးမေးလ်
+Email အဒက်တာ
+Email စမ်းသပ်မှု မပို့ဆောင်နိုင်ခဲ့ပါ။ SMTP settings နှင့် recipient addresses ကို စစ်ဆေးပါ။
+Email စမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+Email စမ်းသပ်မှုသည် {recipients} အတွက် အောင်မြင်ပါသည်။
+မရှိ
+Notification Broadcaster Email စမ်းသပ်မှု
+ဤနေရာတွင် တိုက်ရိုက် SMTP server configuration ကိုသာ ပံ့ပိုးပါသည်။ Gmail, Outlook နှင့် အလားတူ provider-managed email integrations များကို မပံ့ပိုးပါ။
+လက်ခံသူ ပို့ဆောင်မှု စည်းမျဉ်းများ
+လက်ခံသူ email လိုအပ်သည်။
+SMTP host
+SMTP host, port နှင့် sender address လိုအပ်သည်။
+SMTP password
+SMTP port
+SMTP username
+SSL/TLS
+STARTTLS
+Sender address
+Email စမ်းသပ် notification ကို ပို့နေသည်...
+ဤသည်မှာ email connectivity စမ်းသပ် notification ဖြစ်သည်။
+[recipient@example.com](mailto:recipient@example.com)
+လက်ခံသူ npub တစ်ခုချင်းစီကို တစ်ကြိမ်စီ ထည့်ပြီး ၎င်း၏ message types, sensitive-data handling နှင့် အများဆုံး random privacy delay ကို သတ်မှတ်ပါ။
+အနည်းဆုံး လက်ခံသူ npub တစ်ခု လိုအပ်သည်။
+ဤလက်ခံသူက မည်သည့် message types များကို လက်ခံမည်၊ sensitive details များကို ဖျောက်မည် မဖျောက်မည် နှင့် ပို့ဆောင်မတိုင်မီ အများဆုံး random delay ကို ရွေးချယ်ပါ။
+NIP-17 encrypted direct messages များအတွက် sender nsec နှင့် relays များကို ဖွဲ့စည်းပါ။
+ဖျက်မည်
+nsec ကို ဖျောက်မည်
+လက်ခံသူ npub မမှန်ကန်ပါ။
+NIP-17 စမ်းသပ်မှု မပို့ဆောင်နိုင်ခဲ့ပါ။ sender nsec, relays နှင့် recipient npubs များကို စစ်ဆေးပါ။
+NIP-17 စမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+NIP-17 စမ်းသပ်မှုသည် {recipients} အတွက် အောင်မြင်ပါသည်။
+Nostr DM အဒက်တာ
+Notification Broadcaster NIP-17 စမ်းသပ်မှု
+Npub
+လက်ခံသူ ပို့ဆောင်မှု စည်းမျဉ်းများ
+လက်ခံသူ npub
+လက်ခံသူ npub လိုအပ်သည်။
+Relays
+Sender nsec
+Sender nsec နှင့် relay အနည်းဆုံး တစ်ခု လိုအပ်သည်။
+NIP-17 စမ်းသပ် notification ကို ပို့နေသည်...
+nsec ကို ပြမည်
+ဤသည်မှာ NIP-17 connectivity စမ်းသပ် notification ဖြစ်သည်။
+npub1...
+nsec1...
+အဒက်တာ ထည့်မည်
+Wallet notifications များကို email, Telegram, NIP-17, CalDAV နှင့် generic webhooks ကဲ့သို့သော adapters များသို့ broadcast လုပ်ပါ။
+CalDAV အဒက်တာ
+အဒက်တာအမျိုးအစားတစ်ခုကို ရွေးပြီး ထည့်ပါ၊ ထို့နောက် အောက်တွင် ၎င်း၏ ပို့ဆောင်မှု ဆက်တင်များကို ဖွဲ့စည်းပါ။ သီးခြား destination များ လိုအပ်ပါက တူညီသောအမျိုးအစားရှိ အဒက်တာများကို အများအပြား ထည့်နိုင်ပါသည်။
+ဖွဲ့စည်းထားသော အဒက်တာများ
+သင့် CalDAV calendar တွင် reminder event များ ဖန်တီးပါ။
+ဆက်တင်များ တည်းဖြတ်မည်
+Email အဒက်တာ
+Generic Webhooks
+ဆက်တင်များကို ဖျောက်မည်
+ဤ notification အတွက် အဆင်သင့်ဖြစ်သော အဒက်တာ မရှိပါ။
+ယခုထိ အဒက်တာတစ်ခုမှ မဖွဲ့စည်းရသေးပါ။ သင့်ပထမဆုံး destination ကို ဖန်တီးရန် အပေါ်မှ အဒက်တာအမျိုးအစားတစ်ခုကို ရွေးပါ။
+Nostr DM အဒက်တာ
+Notification Broadcaster
+Notification Broadcaster စမ်းသပ်မှု
+Notification မအောင်မြင်ပါ: {details}
+Notification ကို {adapters} မှတစ်ဆင့် ပို့ပြီးပါပြီ။
+Notification ကို {adapters} မှတစ်ဆင့် ပို့ပြီးပါပြီ။ မအောင်မြင်မှုများ: {details}
+ယခင် Broadcast များ
+မကြာသေးမီ Broadcast များ
+ဖွဲ့စည်းထားသော npubs များသို့ encrypted Nostr direct messages များ ပို့ပါ။
+Telegram bot chat သို့ notifications များ ပို့ပြီး bot/chat IDs များကို တိုက်ရိုက် ရှာဖွေပါ။
+ရွေးချယ်နိုင်သော payload formats များ (Generic JSON, Slack-compatible, Discord, Google Chat, Teams, Telegram, ntfy, Gotify) ဖြင့် webhook URLs များသို့ notifications များ ပို့ပါ။
+စမ်းသပ် notification ပို့မည်
+Wallet notifications များကို ဖွဲ့စည်းထားသော email recipients များသို့ ပို့ပါ။
+Notifications များကို broadcast မလုပ်မီ subscription access လိုအပ်သည်။
+{adapter} ကို စစ်ဆေးမလုပ်မီ subscription access လိုအပ်သည်။
+Notifications များကို ပို့မလုပ်မီ subscription access လိုအပ်သည်။
+{adapter} ကို စမ်းသပ်မလုပ်မီ subscription access လိုအပ်သည်။
+Telegram အဒက်တာ
+စမ်းသပ်မည်
+ဤသည်မှာ Notification Broadcaster plugin မှ စမ်းသပ် notification ဖြစ်သည်။
+{title} #{number}
+အဒက်တာများ
+ရှင်းလင်းမည်
+အဖြစ်အပျက်
+အချိန်
+ခေါင်းစဉ်
+ပိတ်ထားသည်
+Sensitive details များကို ဖျောက်မည်
+မဟုတ်ပါ
+Notification အမျိုးအစားများ
+Privacy delay
+စီစဉ်ထားသော ငွေပေးချေမှုများ
+Wallet tx
+သတိပေးချက်
+ဟုတ်သည်
+s
+1. @BotFather ဖြင့် bot ကို ဖန်တီးပါ။ 2. bot နှင့် chat တစ်ခုဖွင့်ပြီး သင်အသုံးပြုလိုသော chat မှ /start ကို ပို့ပါ။ 3. မကြာသေးမီ bot conversations များကို ရယူရန် Detect Chats ကို နှိပ်ပါ။ 4. တွေ့ရှိထားသော chat တစ်ခုကို ရွေးပြီး စမ်းသပ် message တစ်စောင် ပို့ပါ။
+123456789:AA...
+API base URL
+Bot token
+Chat ပို့ဆောင်မှု စည်းမျဉ်းများ
+Telegram bot နှင့် မကြာသေးမီ chats များကို စစ်ဆေးနေသည်...
+ဤ Telegram chat က မည်သည့် message types များကို လက်ခံမည်၊ sensitive details များကို ဖျောက်မည် မဖျောက်မည် နှင့် ပို့ဆောင်မတိုင်မီ အများဆုံး random delay ကို ရွေးချယ်ပါ။
+@BotFather ဖြင့် bot တစ်ခု ဖန်တီးပါ၊ အနည်းဆုံး message တစ်စောင် ပို့ပါ၊ ထို့နောက် အောက်ပါ helper action ကို အသုံးပြုပြီး getMe/getUpdates ကို တိုက်ရိုက်ခေါ်ကာ မကြာသေးမီ chat IDs များကို စာရင်းပြုစုပါ။ app proxy configuration ကို အလိုအလျောက် ပြန်လည်အသုံးပြုပါသည်။
+Chats ကို ရှာဖွေမည်
+တွေ့ရှိထားသော chats
+Telegram chat တစ်ခုမှ မတွေ့ရသေးပါ။ သင့် bot သို့ /start ကို ပို့ပါ၊ Detect Chats ကို နှိပ်ပါ၊ ထို့နောက် chat တစ်ခုကို ရွေးပါ။
+မကြာသေးမီ chat IDs များကို မတွေ့ရသေးပါ။ ပထမဆုံး သင့် bot သို့ message တစ်စောင် ပို့ပြီး ထပ်မံကြိုးစားပါ။
+Notification Broadcaster Telegram စမ်းသပ်မှု
+Chat {chat_id} ကို သိမ်းထားသည် (refresh လုပ်ရန် detection ကို ပြန်လုပ်ပါ)
+တွေ့ရှိထားသော chat တစ်ခုကို ရွေးပါ
+သင့် bot သို့ /start ကို ပို့ပြီးနောက် Detect Chats ကို နှိပ်ပါ
+Telegram စမ်းသပ် notification ကို ပို့နေသည်...
+Telegram အဒက်တာ
+Telegram bot token လိုအပ်သည်။
+Telegram bot: {bot}. မကြာသေးမီ chats: {chats}
+Telegram ရှာဖွေမှု မအောင်မြင်ပါ: {details}
+Telegram စမ်းသပ်မှု မပို့ဆောင်နိုင်ခဲ့ပါ။ bot token နှင့် တွေ့ရှိထားသော chat ရွေးချယ်မှုကို စစ်ဆေးပါ။
+Telegram စမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+Telegram စမ်းသပ်မှုသည် chat ID {chat_id} အတွက် အောင်မြင်ပါသည်။
+ဤသည်မှာ Telegram connectivity စမ်းသပ် notification ဖြစ်သည်။
+မကြာသေးမီ bot conversations များကို ရယူရန် Detect Chats ကို အသုံးပြုပြီး ထို့နောက် notifications အတွက် chat တစ်ခုကို ရွေးပါ။
+ဤ webhook က မည်သည့် message types များကို လက်ခံမည်၊ sensitive details များကို ဖျောက်မည် မဖျောက်မည် နှင့် ပို့ဆောင်မတိုင်မီ အများဆုံး random delay ကို ရွေးချယ်ပါ။
+Discord
+Endpoint URL
+Generic JSON (Zapier, n8n, Make, custom apps)
+Generic Webhooks
+Google Chat
+Gotify
+Message Format
+Microsoft Teams
+Notification Broadcaster Webhook စမ်းသပ်မှု
+Webhook URL တစ်ခုကို paste လုပ်ပြီးနောက် ကိုက်ညီသော payload format ကို ရွေးပါ။ ဥပမာများ: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify, သို့မဟုတ် custom automation tool မည်သည့်တစ်ခုမဆို။ Local demo အတွက်: poetry run python -m notification_broadcaster.webhook_demo_server ကို run ပြီး [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) ကို အသုံးပြုပါ
+Webhook စမ်းသပ် notification ကို ပို့နေသည်...
+Slack-compatible (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+ဖွဲ့စည်းထားသော webhook endpoint သည် အောက်ပါ ပို့ဆောင်မှု စည်းမျဉ်းများကို အသုံးပြုသည်။
+ဤသည်မှာ generic webhook connectivity စမ်းသပ် notification ဖြစ်သည်။
+Webhook ပို့ဆောင်မှု စည်းမျဉ်းများ
+Webhook endpoint URL လိုအပ်သည်။
+Webhook စမ်းသပ်မှု မပို့ဆောင်နိုင်ခဲ့ပါ။ endpoint URL ကို စစ်ဆေးပါ။
+Webhook စမ်းသပ်မှု မအောင်မြင်ပါ: {details}
+Webhook စမ်းသပ်မှု အောင်မြင်ပါသည်။
+ntfy / ntfy.sh
+Trezor ပေါ်တွင် ပြထားသော ဂဏန်း 6 လုံးပါ pairing code ကို ထည့်ပါ:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) ကို အသုံးပြုပြီး PIN ကို ထည့်ပါ:
+Trezor ကို တွဲချိတ်မည်
+Trezor ကို လော့ခ်ဖြည်မည်
+
+ja_JP
+
+アダプターの検索に失敗しました: {details}
+アダプターのテストに失敗しました: {details}
+アダプターの詳細を確認しています...
+アダプターを削除
+受信者の設定
+設定をリセット
+アダプターのテストを実行しています...
+設定を保存
+保存してテスト
+設定が保存されました。
+未保存の設定はリセットされました。
+CalDAV アダプター
+CalDAV エンドポイント URL が必要です。
+CalDAV テストでイベントをアップロードできませんでした。エンドポイントと認証情報を確認してください。
+CalDAV テストに失敗しました: {details}
+CalDAV テストに成功しました。イベントは {start} UTC に開始します。イベント URL: {url}
+カレンダー配信ルール
+どのメッセージタイプがカレンダー項目を作成するか、機密情報を非表示にするかどうか、配信前の最大ランダム遅延を選択してください。
+エンドポイント URL
+Notification Broadcaster CalDAV テスト
+パスワード
+CalDAV テストイベントを送信しています...
+設定されたカレンダーエンドポイントは以下の配信ルールを使用します。
+これは CalDAV 接続テストイベントです。
+既存の CalDAV カレンダーの完全な URL を使用してください。Nextcloud の場合: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+ユーザー名
+{details} [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> のような既存のカレンダー URL を使用してください
+受信者を 1 人ずつ追加し、そのメッセージタイプ、機密データの扱い、最大ランダムプライバシー遅延を定義してください。
+少なくとも 1 件の受信者メールアドレスが必要です。
+この受信者が受け取るメッセージタイプ、機密情報を非表示にするかどうか、配信前の最大ランダム遅延を選択してください。
+送信通知メールに使用する SMTP アカウントを設定します。
+接続のセキュリティ
+削除
+メール
+メール アダプター
+メール テストが配信されませんでした。SMTP 設定と受信者アドレスを確認してください。
+メール テストに失敗しました: {details}
+メール テストは {recipients} に対して成功しました。
+なし
+Notification Broadcaster メール テスト
+ここでは直接 SMTP サーバー設定のみ対応しています。Gmail、Outlook などのプロバイダー管理型メール連携には対応していません。
+受信者配信ルール
+受信者メールアドレスが必要です。
+SMTP ホスト
+SMTP ホスト、ポート、送信者アドレスが必要です。
+SMTP パスワード
+SMTP ポート
+SMTP ユーザー名
+SSL/TLS
+STARTTLS
+送信者アドレス
+メール テスト通知を送信しています...
+これはメール接続テスト通知です。
+[recipient@example.com](mailto:recipient@example.com)
+受信者 npub を 1 件ずつ追加し、そのメッセージタイプ、機密データの扱い、最大ランダムプライバシー遅延を定義してください。
+少なくとも 1 件の受信者 npub が必要です。
+この受信者が受け取るメッセージタイプ、機密情報を非表示にするかどうか、配信前の最大ランダム遅延を選択してください。
+NIP-17 暗号化ダイレクトメッセージ用の送信者 nsec とリレーを設定します。
+削除
+nsec を非表示
+無効な受信者 npub です。
+NIP-17 テストが配信されませんでした。送信者 nsec、リレー、受信者 npub を確認してください。
+NIP-17 テストに失敗しました: {details}
+NIP-17 テストは {recipients} に対して成功しました。
+Nostr DM アダプター
+Notification Broadcaster NIP-17 テスト
+Npub
+受信者配信ルール
+受信者 npub
+受信者 npub が必要です。
+リレー
+送信者 nsec
+送信者 nsec と少なくとも 1 つのリレーが必要です。
+NIP-17 テスト通知を送信しています...
+nsec を表示
+これは NIP-17 接続テスト通知です。
+npub1...
+nsec1...
+アダプターを追加
+ウォレット通知を、メール、Telegram、NIP-17、CalDAV、汎用 webhook などのアダプターに配信します。
+CalDAV アダプター
+アダプターの種類を選んで追加し、下でその配信設定を構成してください。別々の送信先が必要な場合は、同じ種類のアダプターを複数追加できます。
+設定済みアダプター
+CalDAV カレンダーにリマインダーイベントを作成します。
+設定を編集
+メール アダプター
+汎用 Webhook
+設定を隠す
+この通知に使用できるアダプターがありません。
+まだアダプターが設定されていません。最初の送信先を作成するには、上でアダプターの種類を選択してください。
+Nostr DM アダプター
+Notification Broadcaster
+Notification Broadcaster テスト
+通知に失敗しました: {details}
+通知は {adapters} 経由で送信されました。
+通知は {adapters} 経由で送信されました。失敗: {details}
+過去の配信
+最近の配信
+設定済みの npub に暗号化された Nostr ダイレクトメッセージを送信します。
+Telegram ボットチャットに通知を送信し、ボット/チャット ID を直接検出します。
+選択可能なペイロード形式（汎用 JSON、Slack 互換、Discord、Google Chat、Teams、Telegram、ntfy、Gotify）で webhook URL に通知を送信します。
+テスト通知を送信
+ウォレット通知を設定済みのメール受信者に送信します。
+通知を配信する前にサブスクリプションアクセスが必要です。
+{adapter} を確認する前にサブスクリプションアクセスが必要です。
+通知を送信する前にサブスクリプションアクセスが必要です。
+{adapter} をテストする前にサブスクリプションアクセスが必要です。
+Telegram アダプター
+テスト
+これは Notification Broadcaster プラグインからのテスト通知です。
+{title} #{number}
+アダプター
+クリア
+イベント
+時刻
+タイトル
+無効
+機密情報を隠す
+いいえ
+通知タイプ
+プライバシー遅延
+予定された支払い
+ウォレット tx
+警告
+はい
+s
+1. @BotFather でボットを作成します。2. ボットとのチャットを開き、使用したいチャットから /start を送信します。3. Detect Chats をクリックして最近のボット会話を取得します。4. 検出されたチャットを 1 つ選び、テストメッセージを送信します。
+123456789:AA...
+API ベース URL
+ボットトークン
+チャット配信ルール
+Telegram ボットと最近のチャットを確認しています...
+この Telegram チャットが受け取るメッセージタイプ、機密情報を非表示にするかどうか、配信前の最大ランダム遅延を選択してください。
+@BotFather でボットを作成し、少なくとも 1 件メッセージを送信してから、下の補助アクションを使用して getMe/getUpdates を直接呼び出し、最近のチャット ID を一覧表示してください。アプリのプロキシ設定は自動的に再利用されます。
+チャットを検出
+検出されたチャット
+まだ Telegram チャットが検出されていません。ボットに /start を送信し、Detect Chats をクリックしてからチャットを選択してください。
+最近のチャット ID はまだ見つかっていません。先にボットへメッセージを送信してから、再試行してください。
+Notification Broadcaster Telegram テスト
+チャット {chat_id} を保存しました（更新するには再度検出を実行してください）
+検出されたチャットを選択
+ボットに /start を送信してから Detect Chats をクリックしてください
+Telegram テスト通知を送信しています...
+Telegram アダプター
+Telegram ボットトークンが必要です。
+Telegram ボット: {bot}。最近のチャット: {chats}
+Telegram の検索に失敗しました: {details}
+Telegram テストは配信されませんでした。ボットトークンと検出されたチャットの選択を確認してください。
+Telegram テストに失敗しました: {details}
+Telegram テストはチャット ID {chat_id} に対して成功しました。
+これは Telegram 接続テスト通知です。
+Detect Chats を使用して最近のボット会話を取得し、その後通知用のチャットを 1 つ選択してください。
+この webhook が受け取るメッセージタイプ、機密情報を非表示にするかどうか、配信前の最大ランダム遅延を選択してください。
+Discord
+エンドポイント URL
+汎用 JSON（Zapier、n8n、Make、カスタムアプリ）
+汎用 Webhook
+Google Chat
+Gotify
+メッセージ形式
+Microsoft Teams
+Notification Broadcaster Webhook テスト
+webhook URL を貼り付けて、対応するペイロード形式を選択してください。例: Slack、Mattermost、Rocket.Chat、Discord、Google Chat、Microsoft Teams、Telegram Bot API、ntfy、Gotify、または任意のカスタム自動化ツール。ローカルデモ: poetry run python -m notification_broadcaster.webhook_demo_server を実行し、その後 [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) を使用
+webhook テスト通知を送信しています...
+Slack 互換（Slack、Mattermost、Rocket.Chat、Flock、Zoho Cliq）
+Telegram Bot API
+設定された webhook エンドポイントは以下の配信ルールを使用します。
+これは汎用 webhook 接続テスト通知です。
+Webhook 配信ルール
+webhook エンドポイント URL が必要です。
+webhook テストは配信されませんでした。エンドポイント URL を確認してください。
+webhook テストに失敗しました: {details}
+webhook テストに成功しました。
+ntfy / ntfy.sh
+Trezor に表示されている 6 桁のペアリングコードを入力してください:
+Trezor のキーパッド配列を使って PIN を入力してください（7 8 9 / 4 5 6 / 1 2 3）:
+Trezor をペアリング
+Trezor のロックを解除
+
+es_ES
+
+La búsqueda del adaptador falló: {details}
+La prueba del adaptador falló: {details}
+Comprobando los detalles del adaptador...
+Eliminar adaptador
+Configuración del destinatario
+Restablecer ajustes
+Ejecutando prueba del adaptador...
+Guardar ajustes
+Guardar y probar
+Ajustes guardados.
+Se restablecieron los ajustes no guardados.
+Adaptador CalDAV
+Se requiere la URL del endpoint de CalDAV.
+La prueba de CalDAV no subió ningún evento. Comprueba el endpoint y las credenciales.
+La prueba de CalDAV falló: {details}
+La prueba de CalDAV se completó correctamente. El evento comienza a las {start} UTC. URL del evento: {url}
+Reglas de entrega del calendario
+Elige qué tipos de mensajes crean entradas de calendario, si se ocultan los detalles sensibles y el retraso aleatorio máximo antes de la entrega.
+URL del endpoint
+Prueba de CalDAV de Notification Broadcaster
+Contraseña
+Enviando evento de prueba de CalDAV...
+El endpoint de calendario configurado usa las reglas de entrega de abajo.
+Este es un evento de prueba de conectividad de CalDAV.
+Usa la URL completa de un calendario CalDAV existente. Para Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nombre de usuario
+{details} Usa una URL de calendario existente como [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Añade un destinatario cada vez y define sus tipos de mensaje, el manejo de datos sensibles y el retraso aleatorio máximo de privacidad.
+Se requiere al menos un correo electrónico de destinatario.
+Elige qué tipos de mensajes recibe este destinatario, si se ocultan los detalles sensibles y el retraso aleatorio máximo antes de la entrega.
+Configura una cuenta SMTP usada para los correos electrónicos de notificación salientes.
+Seguridad de la conexión
+Eliminar
+Correo electrónico
+Adaptador de correo electrónico
+La prueba de correo electrónico no se entregó. Comprueba la configuración de SMTP y las direcciones de los destinatarios.
+La prueba de correo electrónico falló: {details}
+La prueba de correo electrónico se completó correctamente para {recipients}.
+Ninguno
+Prueba de correo electrónico de Notification Broadcaster
+Aquí solo se admite la configuración directa de servidor SMTP. No se admiten integraciones de correo electrónico gestionadas por el proveedor, como Gmail, Outlook y similares.
+Reglas de entrega del destinatario
+Se requiere el correo electrónico del destinatario.
+Host SMTP
+Se requieren el host SMTP, el puerto y la dirección del remitente.
+Contraseña SMTP
+Puerto SMTP
+Nombre de usuario SMTP
+SSL/TLS
+STARTTLS
+Dirección del remitente
+Enviando notificación de prueba por correo electrónico...
+Esta es una notificación de prueba de conectividad de correo electrónico.
+[recipient@example.com](mailto:recipient@example.com)
+Añade un npub de destinatario cada vez y define sus tipos de mensaje, el manejo de datos sensibles y el retraso aleatorio máximo de privacidad.
+Se requiere al menos un npub de destinatario.
+Elige qué tipos de mensajes recibe este destinatario, si se ocultan los detalles sensibles y el retraso aleatorio máximo antes de la entrega.
+Configura el nsec del remitente y los relés para mensajes directos cifrados NIP-17.
+Eliminar
+Ocultar nsec
+npub de destinatario no válido.
+La prueba de NIP-17 no se entregó. Comprueba el nsec del remitente, los relés y los npub de los destinatarios.
+La prueba de NIP-17 falló: {details}
+La prueba de NIP-17 se completó correctamente para {recipients}.
+Adaptador de MD de Nostr
+Prueba de NIP-17 de Notification Broadcaster
+Npub
+Reglas de entrega del destinatario
+npub del destinatario
+Se requiere el npub del destinatario.
+Relés
+nsec del remitente
+Se requieren el nsec del remitente y al menos un relé.
+Enviando notificación de prueba de NIP-17...
+Mostrar nsec
+Esta es una notificación de prueba de conectividad de NIP-17.
+npub1...
+nsec1...
+Añadir adaptador
+Difunde las notificaciones de la wallet a adaptadores como correo electrónico, Telegram, NIP-17, CalDAV y webhooks genéricos.
+Adaptador CalDAV
+Elige un tipo de adaptador, añádelo y luego configura abajo sus ajustes de entrega. Puedes añadir varios adaptadores del mismo tipo si necesitas destinos separados.
+Adaptadores configurados
+Crea eventos de recordatorio en tu calendario CalDAV.
+Editar ajustes
+Adaptador de correo electrónico
+Webhooks genéricos
+Ocultar ajustes
+No hay ningún adaptador listo para esta notificación.
+Todavía no hay adaptadores configurados. Elige arriba un tipo de adaptador para crear tu primer destino.
+Adaptador de MD de Nostr
+Notification Broadcaster
+Prueba de Notification Broadcaster
+La notificación falló: {details}
+Notificación enviada a través de {adapters}.
+Notificación enviada a través de {adapters}. Fallos: {details}
+Difusiones anteriores
+Difusiones recientes
+Envía mensajes directos de Nostr cifrados a los npub configurados.
+Envía notificaciones a un chat de bot de Telegram y descubre directamente los ID del bot/chat.
+Envía notificaciones a URL de webhook con formatos de carga seleccionables (JSON genérico, compatible con Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Enviar notificación de prueba
+Envía notificaciones de la wallet a los destinatarios de correo electrónico configurados.
+Se requiere acceso de suscripción antes de difundir notificaciones.
+Se requiere acceso de suscripción antes de comprobar {adapter}.
+Se requiere acceso de suscripción antes de enviar notificaciones.
+Se requiere acceso de suscripción antes de probar {adapter}.
+Adaptador de Telegram
+Prueba
+Esta es una notificación de prueba del plugin Notification Broadcaster.
+{title} #{number}
+Adaptadores
+Limpiar
+Evento
+Hora
+Título
+Deshabilitado
+Ocultar detalles sensibles
+No
+Tipos de notificación
+Retraso de privacidad
+Pagos programados
+tx de la wallet
+Advertencia
+Sí
+s
+1. Crea el bot con @BotFather. 2. Abre un chat con el bot y envía /start desde el chat que quieras usar. 3. Haz clic en Detectar chats para recuperar conversaciones recientes del bot. 4. Elige un chat detectado y envía un mensaje de prueba.
+123456789:AA...
+URL base de la API
+Token del bot
+Reglas de entrega del chat
+Comprobando el bot de Telegram y los chats recientes...
+Elige qué tipos de mensajes recibe este chat de Telegram, si se ocultan los detalles sensibles y el retraso aleatorio máximo antes de la entrega.
+Crea un bot con @BotFather, envíale al menos un mensaje y luego usa la acción auxiliar de abajo para llamar directamente a getMe/getUpdates y listar ID de chats recientes. La configuración del proxy de la app se reutiliza automáticamente.
+Detectar chats
+Chats detectados
+Todavía no se ha detectado ningún chat de Telegram. Envía /start a tu bot, haz clic en Detectar chats y luego elige un chat.
+Todavía no se han encontrado ID de chats recientes. Envía primero un mensaje a tu bot y luego vuelve a intentarlo.
+Prueba de Telegram de Notification Broadcaster
+Chat {chat_id} guardado (ejecuta la detección para actualizar)
+Seleccionar un chat detectado
+Envía /start a tu bot y luego haz clic en Detectar chats
+Enviando notificación de prueba de Telegram...
+Adaptador de Telegram
+Se requiere el token del bot de Telegram.
+Bot de Telegram: {bot}. Chats recientes: {chats}
+La búsqueda de Telegram falló: {details}
+La prueba de Telegram no se entregó. Comprueba el token del bot y la selección del chat detectado.
+La prueba de Telegram falló: {details}
+La prueba de Telegram se completó correctamente para el ID de chat {chat_id}.
+Esta es una notificación de prueba de conectividad de Telegram.
+Usa Detectar chats para recuperar conversaciones recientes del bot y luego elige un chat para las notificaciones.
+Elige qué tipos de mensajes recibe este webhook, si se ocultan los detalles sensibles y el retraso aleatorio máximo antes de la entrega.
+Discord
+URL del endpoint
+JSON genérico (Zapier, n8n, Make, apps personalizadas)
+Webhooks genéricos
+Google Chat
+Gotify
+Formato del mensaje
+Microsoft Teams
+Prueba de webhook de Notification Broadcaster
+Pega una URL de webhook y luego elige el formato de carga correspondiente. Ejemplos: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify o cualquier herramienta de automatización personalizada. Demuéstralo en local con: poetry run python -m notification_broadcaster.webhook_demo_server y luego usa [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Enviando notificación de prueba de webhook...
+Compatible con Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+El endpoint de webhook configurado usa las reglas de entrega de abajo.
+Esta es una notificación de prueba de conectividad de webhook genérico.
+Reglas de entrega del webhook
+Se requiere la URL del endpoint del webhook.
+La prueba de webhook no se entregó. Comprueba la URL del endpoint.
+La prueba de webhook falló: {details}
+La prueba de webhook se completó correctamente.
+ntfy / ntfy.sh
+Introduce el código de emparejamiento de 6 dígitos que se muestra en el Trezor:
+Introduce el PIN usando la disposición del teclado del Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Emparejar Trezor
+Desbloquear Trezor
+
+fa_IR
+
+جست‌وجوی آداپتر ناموفق بود: {details}
+آزمون آداپتر ناموفق بود: {details}
+در حال بررسی جزئیات آداپتر...
+حذف آداپتر
+پیکربندی گیرنده
+بازنشانی تنظیمات
+در حال اجرای آزمون آداپتر...
+ذخیره تنظیمات
+ذخیره و آزمون
+تنظیمات ذخیره شد.
+تنظیمات ذخیره‌نشده بازنشانی شدند.
+آداپتر CalDAV
+نشانی URL نقطه پایانی CalDAV الزامی است.
+آزمون CalDAV رویدادی را بارگذاری نکرد. نقطه پایانی و اعتبارنامه‌ها را بررسی کنید.
+آزمون CalDAV ناموفق بود: {details}
+آزمون CalDAV موفق بود. رویداد در {start} UTC آغاز می‌شود. نشانی URL رویداد: {url}
+قوانین تحویل تقویم
+انتخاب کنید کدام نوع پیام‌ها ورودی تقویم ایجاد می‌کنند، آیا جزئیات حساس پنهان شوند یا نه، و حداکثر تأخیر تصادفی پیش از تحویل چقدر باشد.
+نشانی URL نقطه پایانی
+آزمون CalDAV Notification Broadcaster
+گذرواژه
+در حال ارسال رویداد آزمایشی CalDAV...
+نقطه پایانی تقویم پیکربندی‌شده از قوانین تحویل زیر استفاده می‌کند.
+این یک رویداد آزمایش اتصال CalDAV است.
+از نشانی URL کامل یک تقویم CalDAV موجود استفاده کنید. برای Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+نام کاربری
+{details} از یک نشانی URL تقویم موجود مانند [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name> استفاده کنید
+هر بار یک گیرنده اضافه کنید و نوع پیام‌ها، نحوه رسیدگی به داده‌های حساس و حداکثر تأخیر تصادفی حریم خصوصی آن را تعریف کنید.
+حداقل یک ایمیل گیرنده الزامی است.
+انتخاب کنید این گیرنده کدام نوع پیام‌ها را دریافت می‌کند، آیا جزئیات حساس پنهان شوند یا نه، و حداکثر تأخیر تصادفی پیش از تحویل چقدر باشد.
+یک حساب SMTP را برای ایمیل‌های اعلان خروجی پیکربندی کنید.
+امنیت اتصال
+حذف
+ایمیل
+آداپتر ایمیل
+آزمون ایمیل تحویل داده نشد. تنظیمات SMTP و نشانی‌های گیرندگان را بررسی کنید.
+آزمون ایمیل ناموفق بود: {details}
+آزمون ایمیل برای {recipients} موفق بود.
+هیچ‌کدام
+آزمون ایمیل Notification Broadcaster
+در اینجا فقط پیکربندی مستقیم سرور SMTP پشتیبانی می‌شود. یکپارچه‌سازی‌های ایمیل مدیریت‌شده توسط ارائه‌دهنده مانند Gmail، Outlook و موارد مشابه پشتیبانی نمی‌شوند.
+قوانین تحویل گیرنده
+ایمیل گیرنده الزامی است.
+میزبان SMTP
+میزبان SMTP، پورت و نشانی فرستنده الزامی هستند.
+گذرواژه SMTP
+پورت SMTP
+نام کاربری SMTP
+SSL/TLS
+STARTTLS
+نشانی فرستنده
+در حال ارسال اعلان آزمایشی ایمیل...
+این یک اعلان آزمایش اتصال ایمیل است.
+[recipient@example.com](mailto:recipient@example.com)
+هر بار یک npub گیرنده اضافه کنید و نوع پیام‌ها، نحوه رسیدگی به داده‌های حساس و حداکثر تأخیر تصادفی حریم خصوصی آن را تعریف کنید.
+حداقل یک npub گیرنده الزامی است.
+انتخاب کنید این گیرنده کدام نوع پیام‌ها را دریافت می‌کند، آیا جزئیات حساس پنهان شوند یا نه، و حداکثر تأخیر تصادفی پیش از تحویل چقدر باشد.
+nsec فرستنده و رله‌ها را برای پیام‌های مستقیم رمزگذاری‌شده NIP-17 پیکربندی کنید.
+حذف
+پنهان کردن nsec
+npub گیرنده نامعتبر است.
+آزمون NIP-17 تحویل داده نشد. nsec فرستنده، رله‌ها و npub گیرندگان را بررسی کنید.
+آزمون NIP-17 ناموفق بود: {details}
+آزمون NIP-17 برای {recipients} موفق بود.
+آداپتر Nostr DM
+آزمون NIP-17 Notification Broadcaster
+Npub
+قوانین تحویل گیرنده
+npub گیرنده
+npub گیرنده الزامی است.
+رله‌ها
+nsec فرستنده
+nsec فرستنده و حداقل یک رله الزامی هستند.
+در حال ارسال اعلان آزمایشی NIP-17...
+نمایش nsec
+این یک اعلان آزمایش اتصال NIP-17 است.
+npub1...
+nsec1...
+افزودن آداپتر
+اعلان‌های کیف پول را به آداپترهایی مانند ایمیل، Telegram، NIP-17، CalDAV و webhookهای عمومی پخش کنید.
+آداپتر CalDAV
+یک نوع آداپتر انتخاب کنید، آن را اضافه کنید، سپس تنظیمات تحویل آن را در پایین پیکربندی کنید. اگر به مقصدهای جداگانه نیاز دارید، می‌توانید چند آداپتر از یک نوع اضافه کنید.
+آداپترهای پیکربندی‌شده
+در تقویم CalDAV خود رویدادهای یادآور ایجاد کنید.
+ویرایش تنظیمات
+آداپتر ایمیل
+Webhookهای عمومی
+پنهان کردن تنظیمات
+هیچ آداپتری برای این اعلان آماده نیست.
+هنوز هیچ آداپتری پیکربندی نشده است. برای ایجاد اولین مقصد خود، یک نوع آداپتر از بالا انتخاب کنید.
+آداپتر Nostr DM
+Notification Broadcaster
+آزمون Notification Broadcaster
+اعلان ناموفق بود: {details}
+اعلان از طریق {adapters} ارسال شد.
+اعلان از طریق {adapters} ارسال شد. خطاها: {details}
+پخش‌های گذشته
+پخش‌های اخیر
+به npubهای پیکربندی‌شده پیام مستقیم رمزگذاری‌شده Nostr ارسال کنید.
+به یک گفت‌وگوی ربات Telegram اعلان بفرستید و شناسه‌های ربات/گفت‌وگو را مستقیماً کشف کنید.
+اعلان‌ها را با قالب‌های payload قابل انتخاب (JSON عمومی، سازگار با Slack، Discord، Google Chat، Teams، Telegram، ntfy، Gotify) به نشانی‌های URL webhook ارسال کنید.
+ارسال اعلان آزمایشی
+اعلان‌های کیف پول را به گیرندگان ایمیل پیکربندی‌شده ارسال کنید.
+پیش از پخش اعلان‌ها، دسترسی اشتراکی الزامی است.
+پیش از بررسی {adapter}، دسترسی اشتراکی الزامی است.
+پیش از ارسال اعلان‌ها، دسترسی اشتراکی الزامی است.
+پیش از آزمون {adapter}، دسترسی اشتراکی الزامی است.
+آداپتر Telegram
+آزمون
+این یک اعلان آزمایشی از افزونه Notification Broadcaster است.
+{title} #{number}
+آداپترها
+پاک کردن
+رویداد
+زمان
+عنوان
+غیرفعال
+پنهان کردن جزئیات حساس
+خیر
+انواع اعلان
+تأخیر حریم خصوصی
+پرداخت‌های زمان‌بندی‌شده
+tx کیف پول
+هشدار
+بله
+s
+1. ربات را با @BotFather ایجاد کنید. 2. یک گفت‌وگو با ربات باز کنید و از گفت‌وگویی که می‌خواهید استفاده کنید /start را بفرستید. 3. روی Detect Chats کلیک کنید تا گفت‌وگوهای اخیر ربات واکشی شود. 4. یکی از گفت‌وگوهای شناسایی‌شده را انتخاب کنید و یک پیام آزمایشی بفرستید.
+123456789:AA...
+نشانی URL پایه API
+توکن ربات
+قوانین تحویل گفت‌وگو
+در حال بررسی ربات Telegram و گفت‌وگوهای اخیر...
+انتخاب کنید این گفت‌وگوی Telegram کدام نوع پیام‌ها را دریافت می‌کند، آیا جزئیات حساس پنهان شوند یا نه، و حداکثر تأخیر تصادفی پیش از تحویل چقدر باشد.
+یک ربات با @BotFather ایجاد کنید، حداقل یک پیام به آن بفرستید، سپس از عمل کمکی زیر استفاده کنید تا getMe/getUpdates را مستقیماً فراخوانی کنید و شناسه‌های گفت‌وگوی اخیر را فهرست کنید. پیکربندی پراکسی برنامه به‌طور خودکار دوباره استفاده می‌شود.
+تشخیص گفت‌وگوها
+گفت‌وگوهای شناسایی‌شده
+هنوز هیچ گفت‌وگوی Telegram شناسایی نشده است. برای ربات خود /start را بفرستید، روی Detect Chats کلیک کنید و سپس یک گفت‌وگو انتخاب کنید.
+هنوز هیچ شناسه گفت‌وگوی اخیری پیدا نشده است. ابتدا یک پیام برای ربات خود بفرستید، سپس دوباره تلاش کنید.
+آزمون Telegram Notification Broadcaster
+گفت‌وگو {chat_id} ذخیره شد (برای نوسازی، دوباره شناسایی را اجرا کنید)
+یک گفت‌وگوی شناسایی‌شده را انتخاب کنید
+برای ربات خود /start را بفرستید، سپس روی Detect Chats کلیک کنید
+در حال ارسال اعلان آزمایشی Telegram...
+آداپتر Telegram
+توکن ربات Telegram الزامی است.
+ربات Telegram: {bot}. گفت‌وگوهای اخیر: {chats}
+جست‌وجوی Telegram ناموفق بود: {details}
+آزمون Telegram تحویل داده نشد. توکن ربات و انتخاب گفت‌وگوی شناسایی‌شده را بررسی کنید.
+آزمون Telegram ناموفق بود: {details}
+آزمون Telegram برای شناسه گفت‌وگو {chat_id} موفق بود.
+این یک اعلان آزمایش اتصال Telegram است.
+از Detect Chats برای واکشی گفت‌وگوهای اخیر ربات استفاده کنید، سپس یک گفت‌وگو را برای اعلان‌ها انتخاب کنید.
+انتخاب کنید این webhook کدام نوع پیام‌ها را دریافت می‌کند، آیا جزئیات حساس پنهان شوند یا نه، و حداکثر تأخیر تصادفی پیش از تحویل چقدر باشد.
+Discord
+نشانی URL نقطه پایانی
+JSON عمومی (Zapier، n8n، Make، برنامه‌های سفارشی)
+Webhookهای عمومی
+Google Chat
+Gotify
+قالب پیام
+Microsoft Teams
+آزمون Webhook Notification Broadcaster
+یک نشانی URL webhook را بچسبانید، سپس قالب payload مطابق را انتخاب کنید. نمونه‌ها: Slack، Mattermost، Rocket.Chat، Discord، Google Chat، Microsoft Teams، Telegram Bot API، ntfy، Gotify یا هر ابزار اتوماسیون سفارشی. برای اجرای محلی: poetry run python -m notification_broadcaster.webhook_demo_server سپس از [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook) استفاده کنید
+در حال ارسال اعلان آزمایشی webhook...
+سازگار با Slack (Slack، Mattermost، Rocket.Chat، Flock، Zoho Cliq)
+Telegram Bot API
+نقطه پایانی webhook پیکربندی‌شده از قوانین تحویل زیر استفاده می‌کند.
+این یک اعلان آزمایش اتصال webhook عمومی است.
+قوانین تحویل webhook
+نشانی URL نقطه پایانی webhook الزامی است.
+آزمون webhook تحویل داده نشد. نشانی URL نقطه پایانی را بررسی کنید.
+آزمون webhook ناموفق بود: {details}
+آزمون webhook موفق بود.
+ntfy / ntfy.sh
+کد جفت‌سازی ۶ رقمی نمایش‌داده‌شده روی Trezor را وارد کنید:
+PIN را با استفاده از چیدمان صفحه‌کلید Trezor وارد کنید (7 8 9 / 4 5 6 / 1 2 3):
+جفت‌کردن Trezor
+باز کردن قفل Trezor
+
+pt_PT
+
+Falha na procura do adaptador: {details}
+Falha no teste do adaptador: {details}
+A verificar os detalhes do adaptador...
+Eliminar adaptador
+Configuração do destinatário
+Repor definições
+A executar teste do adaptador...
+Guardar definições
+Guardar e testar
+Definições guardadas.
+As definições não guardadas foram repostas.
+Adaptador CalDAV
+O URL do endpoint CalDAV é obrigatório.
+O teste de CalDAV não carregou um evento. Verifique o endpoint e as credenciais.
+Falha no teste de CalDAV: {details}
+Teste de CalDAV bem-sucedido. O evento começa às {start} UTC. URL do evento: {url}
+Regras de entrega do calendário
+Escolha que tipos de mensagem criam entradas de calendário, se os detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+URL do endpoint
+Teste CalDAV do Notification Broadcaster
+Palavra-passe
+A enviar evento de teste de CalDAV...
+O endpoint de calendário configurado utiliza as regras de entrega abaixo.
+Este é um evento de teste de conectividade CalDAV.
+Utilize o URL completo de um calendário CalDAV existente. Para Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nome de utilizador
+{details} Utilize um URL de calendário existente como [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Adicione um destinatário de cada vez e defina os seus tipos de mensagem, o tratamento de dados sensíveis e o atraso aleatório máximo de privacidade.
+É obrigatório pelo menos um e-mail de destinatário.
+Escolha que tipos de mensagem este destinatário recebe, se os detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Configure uma conta SMTP utilizada para e-mails de notificação enviados.
+Segurança da ligação
+Eliminar
+E-mail
+Adaptador de e-mail
+O teste de e-mail não foi entregue. Verifique as definições SMTP e os endereços dos destinatários.
+Falha no teste de e-mail: {details}
+Teste de e-mail bem-sucedido para {recipients}.
+Nenhum
+Teste de e-mail do Notification Broadcaster
+Aqui apenas é suportada a configuração direta do servidor SMTP. As integrações de e-mail geridas pelo fornecedor, como Gmail, Outlook e semelhantes, não são suportadas.
+Regras de entrega do destinatário
+O e-mail do destinatário é obrigatório.
+Servidor SMTP
+São obrigatórios o servidor SMTP, a porta e o endereço do remetente.
+Palavra-passe SMTP
+Porta SMTP
+Nome de utilizador SMTP
+SSL/TLS
+STARTTLS
+Endereço do remetente
+A enviar notificação de teste por e-mail...
+Esta é uma notificação de teste de conectividade de e-mail.
+[recipient@example.com](mailto:recipient@example.com)
+Adicione um npub de destinatário de cada vez e defina os seus tipos de mensagem, o tratamento de dados sensíveis e o atraso aleatório máximo de privacidade.
+É obrigatório pelo menos um npub de destinatário.
+Escolha que tipos de mensagem este destinatário recebe, se os detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Configure o nsec do remetente e os relays para mensagens diretas cifradas NIP-17.
+Eliminar
+Ocultar nsec
+npub de destinatário inválido.
+O teste NIP-17 não foi entregue. Verifique o nsec do remetente, os relays e os npubs dos destinatários.
+Falha no teste NIP-17: {details}
+Teste NIP-17 bem-sucedido para {recipients}.
+Adaptador Nostr DM
+Teste NIP-17 do Notification Broadcaster
+Npub
+Regras de entrega do destinatário
+npub do destinatário
+O npub do destinatário é obrigatório.
+Relays
+nsec do remetente
+O nsec do remetente e pelo menos um relay são obrigatórios.
+A enviar notificação de teste NIP-17...
+Mostrar nsec
+Esta é uma notificação de teste de conectividade NIP-17.
+npub1...
+nsec1...
+Adicionar adaptador
+Transmita notificações da carteira para adaptadores como e-mail, Telegram, NIP-17, CalDAV e webhooks genéricos.
+Adaptador CalDAV
+Escolha um tipo de adaptador, adicione-o e depois configure as respetivas definições de entrega abaixo. Pode adicionar vários adaptadores do mesmo tipo se precisar de destinos separados.
+Adaptadores configurados
+Crie eventos de lembrete no seu calendário CalDAV.
+Editar definições
+Adaptador de e-mail
+Webhooks genéricos
+Ocultar definições
+Nenhum adaptador está pronto para esta notificação.
+Ainda não há adaptadores configurados. Escolha um tipo de adaptador acima para criar o seu primeiro destino.
+Adaptador Nostr DM
+Notification Broadcaster
+Teste do Notification Broadcaster
+Falha na notificação: {details}
+Notificação enviada através de {adapters}.
+Notificação enviada através de {adapters}. Falhas: {details}
+Transmissões anteriores
+Transmissões recentes
+Envie mensagens diretas Nostr cifradas para os npubs configurados.
+Envie notificações para um chat de bot do Telegram e descubra diretamente IDs de bot/chat.
+Envie notificações para URLs de webhook com formatos de payload selecionáveis (JSON genérico, compatível com Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Enviar notificação de teste
+Envie notificações da carteira para os destinatários de e-mail configurados.
+É necessário acesso por subscrição antes de transmitir notificações.
+É necessário acesso por subscrição antes de verificar {adapter}.
+É necessário acesso por subscrição antes de enviar notificações.
+É necessário acesso por subscrição antes de testar {adapter}.
+Adaptador Telegram
+Teste
+Esta é uma notificação de teste do plugin Notification Broadcaster.
+{title} n.º {number}
+Adaptadores
+Limpar
+Evento
+Hora
+Título
+Desativado
+Ocultar detalhes sensíveis
+Não
+Tipos de notificação
+Atraso de privacidade
+Pagamentos agendados
+tx da carteira
+Aviso
+Sim
+s
+1. Crie o bot com @BotFather. 2. Abra um chat com o bot e envie /start a partir do chat que quer usar. 3. Clique em Detetar chats para obter conversas recentes do bot. 4. Escolha um chat detetado e envie uma mensagem de teste.
+123456789:AA...
+URL base da API
+Token do bot
+Regras de entrega do chat
+A verificar o bot do Telegram e os chats recentes...
+Escolha que tipos de mensagem este chat do Telegram recebe, se os detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Crie um bot com @BotFather, envie-lhe pelo menos uma mensagem e depois utilize a ação auxiliar abaixo para chamar diretamente getMe/getUpdates e listar IDs de chats recentes. A configuração de proxy da aplicação é reutilizada automaticamente.
+Detetar chats
+Chats detetados
+Ainda não foi detetado nenhum chat do Telegram. Envie /start ao seu bot, clique em Detetar chats e depois escolha um chat.
+Ainda não foram encontrados IDs de chats recentes. Envie primeiro uma mensagem ao seu bot e depois tente novamente.
+Teste do Telegram do Notification Broadcaster
+Chat {chat_id} guardado (execute a deteção para atualizar)
+Selecionar um chat detetado
+Envie /start ao seu bot e depois clique em Detetar chats
+A enviar notificação de teste do Telegram...
+Adaptador Telegram
+O token do bot do Telegram é obrigatório.
+Bot do Telegram: {bot}. Chats recentes: {chats}
+Falha na procura do Telegram: {details}
+O teste do Telegram não foi entregue. Verifique o token do bot e a seleção do chat detetado.
+Falha no teste do Telegram: {details}
+Teste do Telegram bem-sucedido para o ID de chat {chat_id}.
+Esta é uma notificação de teste de conectividade do Telegram.
+Utilize Detetar chats para obter conversas recentes do bot e depois escolha um chat para notificações.
+Escolha que tipos de mensagem este webhook recebe, se os detalhes sensíveis são ocultados e o atraso aleatório máximo antes da entrega.
+Discord
+URL do endpoint
+JSON genérico (Zapier, n8n, Make, aplicações personalizadas)
+Webhooks genéricos
+Google Chat
+Gotify
+Formato da mensagem
+Microsoft Teams
+Teste de webhook do Notification Broadcaster
+Cole um URL de webhook e depois escolha o formato de payload correspondente. Exemplos: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify ou qualquer ferramenta de automação personalizada. Demonstração local com: poetry run python -m notification_broadcaster.webhook_demo_server e depois utilize [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+A enviar notificação de teste do webhook...
+Compatível com Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+O endpoint de webhook configurado utiliza as regras de entrega abaixo.
+Esta é uma notificação de teste de conectividade de webhook genérico.
+Regras de entrega do webhook
+O URL do endpoint do webhook é obrigatório.
+O teste do webhook não foi entregue. Verifique o URL do endpoint.
+Falha no teste do webhook: {details}
+Teste do webhook bem-sucedido.
+ntfy / ntfy.sh
+Introduza o código de emparelhamento de 6 dígitos mostrado no Trezor:
+Introduza o PIN usando a disposição do teclado do Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Emparelhar Trezor
+Desbloquear Trezor
+
+uk_UA
+
+Не вдалося знайти адаптер: {details}
+Тест адаптера не вдався: {details}
+Перевірка деталей адаптера...
+Видалити адаптер
+Налаштування одержувача
+Скинути налаштування
+Запуск тесту адаптера...
+Зберегти налаштування
+Зберегти й протестувати
+Налаштування збережено.
+Незбережені налаштування було скинуто.
+Адаптер CalDAV
+Потрібна URL-адреса кінцевої точки CalDAV.
+Тест CalDAV не завантажив подію. Перевірте кінцеву точку та облікові дані.
+Тест CalDAV не вдався: {details}
+Тест CalDAV успішний. Подія починається о {start} UTC. URL події: {url}
+Правила доставки календаря
+Виберіть, які типи повідомлень створюють записи календаря, чи приховувати чутливі деталі та якою має бути максимальна випадкова затримка перед доставкою.
+URL кінцевої точки
+Тест CalDAV Notification Broadcaster
+Пароль
+Надсилання тестової події CalDAV...
+Налаштована кінцева точка календаря використовує наведені нижче правила доставки.
+Це тестова подія перевірки підключення CalDAV.
+Використовуйте повну URL-адресу наявного календаря CalDAV. Для Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Ім’я користувача
+{details} Використовуйте наявну URL-адресу календаря, наприклад [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Додавайте по одному одержувачу та визначайте для нього типи повідомлень, обробку чутливих даних і максимальну випадкову затримку приватності.
+Потрібна щонайменше одна електронна адреса одержувача.
+Виберіть, які типи повідомлень отримує цей одержувач, чи приховувати чутливі деталі та якою має бути максимальна випадкова затримка перед доставкою.
+Налаштуйте обліковий запис SMTP, який використовуватиметься для вихідних електронних листів сповіщень.
+Безпека з’єднання
+Видалити
+Електронна пошта
+Адаптер електронної пошти
+Тест електронної пошти не було доставлено. Перевірте налаштування SMTP і адреси одержувачів.
+Тест електронної пошти не вдався: {details}
+Тест електронної пошти успішний для {recipients}.
+Немає
+Тест електронної пошти Notification Broadcaster
+Тут підтримується лише пряма конфігурація SMTP-сервера. Інтеграції електронної пошти, керовані постачальником, як-от Gmail, Outlook та подібні, не підтримуються.
+Правила доставки одержувача
+Потрібна електронна адреса одержувача.
+SMTP-хост
+Потрібні SMTP-хост, порт і адреса відправника.
+Пароль SMTP
+Порт SMTP
+Ім’я користувача SMTP
+SSL/TLS
+STARTTLS
+Адреса відправника
+Надсилання тестового сповіщення електронною поштою...
+Це тестове сповіщення перевірки підключення електронної пошти.
+[recipient@example.com](mailto:recipient@example.com)
+Додавайте по одному npub одержувача та визначайте для нього типи повідомлень, обробку чутливих даних і максимальну випадкову затримку приватності.
+Потрібен щонайменше один npub одержувача.
+Виберіть, які типи повідомлень отримує цей одержувач, чи приховувати чутливі деталі та якою має бути максимальна випадкова затримка перед доставкою.
+Налаштуйте nsec відправника та реле для зашифрованих прямих повідомлень NIP-17.
+Видалити
+Приховати nsec
+Недійсний npub одержувача.
+Тест NIP-17 не було доставлено. Перевірте nsec відправника, реле та npub одержувачів.
+Тест NIP-17 не вдався: {details}
+Тест NIP-17 успішний для {recipients}.
+Адаптер Nostr DM
+Тест NIP-17 Notification Broadcaster
+Npub
+Правила доставки одержувача
+npub одержувача
+Потрібен npub одержувача.
+Реле
+nsec відправника
+Потрібні nsec відправника та щонайменше одне реле.
+Надсилання тестового сповіщення NIP-17...
+Показати nsec
+Це тестове сповіщення перевірки підключення NIP-17.
+npub1...
+nsec1...
+Додати адаптер
+Транслюйте сповіщення гаманця до адаптерів, таких як електронна пошта, Telegram, NIP-17, CalDAV і загальні webhook.
+Адаптер CalDAV
+Виберіть тип адаптера, додайте його, а потім налаштуйте нижче його параметри доставки. Ви можете додати кілька адаптерів одного типу, якщо вам потрібні окремі призначення.
+Налаштовані адаптери
+Створюйте події-нагадування у своєму календарі CalDAV.
+Редагувати налаштування
+Адаптер електронної пошти
+Загальні webhook
+Приховати налаштування
+Для цього сповіщення немає готового адаптера.
+Ще не налаштовано жодного адаптера. Виберіть вище тип адаптера, щоб створити своє перше призначення.
+Адаптер Nostr DM
+Notification Broadcaster
+Тест Notification Broadcaster
+Не вдалося надіслати сповіщення: {details}
+Сповіщення надіслано через {adapters}.
+Сповіщення надіслано через {adapters}. Помилки: {details}
+Попередні трансляції
+Останні трансляції
+Надсилайте зашифровані прямі повідомлення Nostr на налаштовані npub.
+Надсилайте сповіщення в чат бота Telegram і безпосередньо виявляйте ID бота/чату.
+Надсилайте сповіщення на webhook URL з вибраними форматами payload (загальний JSON, сумісний зі Slack, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Надіслати тестове сповіщення
+Надсилайте сповіщення гаманця налаштованим одержувачам електронної пошти.
+Перш ніж транслювати сповіщення, потрібен доступ за підпискою.
+Перш ніж перевіряти {adapter}, потрібен доступ за підпискою.
+Перш ніж надсилати сповіщення, потрібен доступ за підпискою.
+Перш ніж тестувати {adapter}, потрібен доступ за підпискою.
+Адаптер Telegram
+Тест
+Це тестове сповіщення від плагіна Notification Broadcaster.
+{title} #{number}
+Адаптери
+Очистити
+Подія
+Час
+Назва
+Вимкнено
+Приховати чутливі деталі
+Ні
+Типи сповіщень
+Затримка приватності
+Заплановані платежі
+tx гаманця
+Попередження
+Так
+s
+1. Створіть бота через @BotFather. 2. Відкрийте чат із ботом і надішліть /start із чату, який хочете використовувати. 3. Натисніть Detect Chats, щоб отримати нещодавні розмови бота. 4. Виберіть один виявлений чат і надішліть тестове повідомлення.
+123456789:AA...
+Базова URL-адреса API
+Токен бота
+Правила доставки чату
+Перевірка бота Telegram і нещодавніх чатів...
+Виберіть, які типи повідомлень отримує цей чат Telegram, чи приховувати чутливі деталі та якою має бути максимальна випадкова затримка перед доставкою.
+Створіть бота через @BotFather, надішліть йому принаймні одне повідомлення, а потім скористайтеся допоміжною дією нижче, щоб безпосередньо викликати getMe/getUpdates і перелічити нещодавні ID чатів. Конфігурація проксі застосунку автоматично використовується повторно.
+Виявити чати
+Виявлені чати
+Ще не виявлено жодного чату Telegram. Надішліть /start своєму боту, натисніть Detect Chats, а потім виберіть чат.
+Ще не знайдено жодного нещодавнього ID чату. Спочатку надішліть повідомлення своєму боту, а потім повторіть спробу.
+Тест Telegram Notification Broadcaster
+Чат {chat_id} збережено (запустіть виявлення знову, щоб оновити)
+Вибрати виявлений чат
+Надішліть /start своєму боту, а потім натисніть Detect Chats
+Надсилання тестового сповіщення Telegram...
+Адаптер Telegram
+Потрібен токен бота Telegram.
+Бот Telegram: {bot}. Нещодавні чати: {chats}
+Не вдалося виконати пошук Telegram: {details}
+Тест Telegram не було доставлено. Перевірте токен бота та вибір виявленого чату.
+Тест Telegram не вдався: {details}
+Тест Telegram успішний для chat ID {chat_id}.
+Це тестове сповіщення перевірки підключення Telegram.
+Використовуйте Detect Chats, щоб отримати нещодавні розмови бота, а потім виберіть один чат для сповіщень.
+Виберіть, які типи повідомлень отримує цей webhook, чи приховувати чутливі деталі та якою має бути максимальна випадкова затримка перед доставкою.
+Discord
+URL кінцевої точки
+Загальний JSON (Zapier, n8n, Make, користувацькі застосунки)
+Загальні webhook
+Google Chat
+Gotify
+Формат повідомлення
+Microsoft Teams
+Тест webhook Notification Broadcaster
+Вставте webhook URL, а потім виберіть відповідний формат payload. Приклади: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify або будь-який користувацький інструмент автоматизації. Локальна демонстрація: poetry run python -m notification_broadcaster.webhook_demo_server, потім використовуйте [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Надсилання тестового сповіщення webhook...
+Сумісний зі Slack (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Налаштована кінцева точка webhook використовує наведені нижче правила доставки.
+Це тестове сповіщення перевірки підключення загального webhook.
+Правила доставки webhook
+Потрібна URL-адреса кінцевої точки webhook.
+Тест webhook не було доставлено. Перевірте URL-адресу кінцевої точки.
+Тест webhook не вдався: {details}
+Тест webhook успішний.
+ntfy / ntfy.sh
+Введіть 6-значний код сполучення, показаний на Trezor:
+Введіть PIN, використовуючи розкладку клавіатури Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Сполучити Trezor
+Розблокувати Trezor
+
+pl_PL
+
+Wyszukiwanie adaptera nie powiodło się: {details}
+Test adaptera nie powiódł się: {details}
+Sprawdzanie szczegółów adaptera...
+Usuń adapter
+Konfiguracja odbiorcy
+Zresetuj ustawienia
+Uruchamianie testu adaptera...
+Zapisz ustawienia
+Zapisz i przetestuj
+Ustawienia zapisano.
+Niezapisane ustawienia zostały zresetowane.
+Adapter CalDAV
+Wymagany jest adres URL punktu końcowego CalDAV.
+Test CalDAV nie przesłał wydarzenia. Sprawdź punkt końcowy i poświadczenia.
+Test CalDAV nie powiódł się: {details}
+Test CalDAV zakończył się powodzeniem. Wydarzenie zaczyna się o {start} UTC. URL wydarzenia: {url}
+Reguły dostarczania kalendarza
+Wybierz, które typy wiadomości tworzą wpisy w kalendarzu, czy wrażliwe szczegóły mają być ukrywane oraz jakie ma być maksymalne losowe opóźnienie przed dostarczeniem.
+Adres URL punktu końcowego
+Test CalDAV Notification Broadcaster
+Hasło
+Wysyłanie testowego wydarzenia CalDAV...
+Skonfigurowany punkt końcowy kalendarza używa poniższych reguł dostarczania.
+To jest testowe wydarzenie łączności CalDAV.
+Użyj pełnego adresu URL istniejącego kalendarza CalDAV. Dla Nextcloud: [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Nazwa użytkownika
+{details} Użyj istniejącego adresu URL kalendarza, takiego jak [https://cloud.example.com/remote.php/dav/calendars/](https://cloud.example.com/remote.php/dav/calendars/)<username>/<calendar-name>
+Dodawaj po jednym odbiorcy naraz i określ jego typy wiadomości, obsługę danych wrażliwych oraz maksymalne losowe opóźnienie prywatności.
+Wymagany jest co najmniej jeden adres e-mail odbiorcy.
+Wybierz, które typy wiadomości otrzymuje ten odbiorca, czy wrażliwe szczegóły mają być ukrywane oraz jakie ma być maksymalne losowe opóźnienie przed dostarczeniem.
+Skonfiguruj konto SMTP używane do wychodzących e-maili z powiadomieniami.
+Bezpieczeństwo połączenia
+Usuń
+E-mail
+Adapter e-mail
+Test e-maila nie został dostarczony. Sprawdź ustawienia SMTP i adresy odbiorców.
+Test e-maila nie powiódł się: {details}
+Test e-maila zakończył się powodzeniem dla {recipients}.
+Brak
+Test e-maila Notification Broadcaster
+Obsługiwana jest tu wyłącznie bezpośrednia konfiguracja serwera SMTP. Integracje e-mail zarządzane przez dostawcę, takie jak Gmail, Outlook i podobne, nie są obsługiwane.
+Reguły dostarczania odbiorcy
+Adres e-mail odbiorcy jest wymagany.
+Host SMTP
+Wymagane są host SMTP, port i adres nadawcy.
+Hasło SMTP
+Port SMTP
+Nazwa użytkownika SMTP
+SSL/TLS
+STARTTLS
+Adres nadawcy
+Wysyłanie testowego powiadomienia e-mail...
+To jest testowe powiadomienie sprawdzające łączność e-mail.
+[recipient@example.com](mailto:recipient@example.com)
+Dodawaj po jednym npub odbiorcy naraz i określ jego typy wiadomości, obsługę danych wrażliwych oraz maksymalne losowe opóźnienie prywatności.
+Wymagany jest co najmniej jeden npub odbiorcy.
+Wybierz, które typy wiadomości otrzymuje ten odbiorca, czy wrażliwe szczegóły mają być ukrywane oraz jakie ma być maksymalne losowe opóźnienie przed dostarczeniem.
+Skonfiguruj nsec nadawcy i przekaźniki dla szyfrowanych wiadomości bezpośrednich NIP-17.
+Usuń
+Ukryj nsec
+Nieprawidłowy npub odbiorcy.
+Test NIP-17 nie został dostarczony. Sprawdź nsec nadawcy, przekaźniki i npub odbiorców.
+Test NIP-17 nie powiódł się: {details}
+Test NIP-17 zakończył się powodzeniem dla {recipients}.
+Adapter Nostr DM
+Test NIP-17 Notification Broadcaster
+Npub
+Reguły dostarczania odbiorcy
+npub odbiorcy
+npub odbiorcy jest wymagany.
+Przekaźniki
+nsec nadawcy
+Wymagane są nsec nadawcy i co najmniej jeden przekaźnik.
+Wysyłanie testowego powiadomienia NIP-17...
+Pokaż nsec
+To jest testowe powiadomienie sprawdzające łączność NIP-17.
+npub1...
+nsec1...
+Dodaj adapter
+Rozsyłaj powiadomienia portfela do adapterów takich jak e-mail, Telegram, NIP-17, CalDAV i ogólne webhooki.
+Adapter CalDAV
+Wybierz typ adaptera, dodaj go, a następnie skonfiguruj poniżej jego ustawienia dostarczania. Możesz dodać wiele adapterów tego samego typu, jeśli potrzebujesz osobnych miejsc docelowych.
+Skonfigurowane adaptery
+Twórz wydarzenia-przypomnienia w swoim kalendarzu CalDAV.
+Edytuj ustawienia
+Adapter e-mail
+Ogólne webhooki
+Ukryj ustawienia
+Żaden adapter nie jest gotowy dla tego powiadomienia.
+Nie skonfigurowano jeszcze żadnych adapterów. Wybierz powyżej typ adaptera, aby utworzyć pierwszy cel.
+Adapter Nostr DM
+Notification Broadcaster
+Test Notification Broadcaster
+Powiadomienie nie powiodło się: {details}
+Powiadomienie wysłano przez {adapters}.
+Powiadomienie wysłano przez {adapters}. Niepowodzenia: {details}
+Poprzednie rozsyłki
+Ostatnie rozsyłki
+Wysyłaj szyfrowane wiadomości bezpośrednie Nostr do skonfigurowanych npub.
+Wysyłaj powiadomienia do czatu bota Telegram i bezpośrednio wykrywaj identyfikatory bota/czatu.
+Wysyłaj powiadomienia na adresy URL webhooków z wybieralnymi formatami ładunku (ogólny JSON, zgodny ze Slackiem, Discord, Google Chat, Teams, Telegram, ntfy, Gotify).
+Wyślij testowe powiadomienie
+Wysyłaj powiadomienia portfela do skonfigurowanych odbiorców e-mail.
+Przed rozsyłaniem powiadomień wymagany jest dostęp w ramach subskrypcji.
+Przed sprawdzeniem {adapter} wymagany jest dostęp w ramach subskrypcji.
+Przed wysyłaniem powiadomień wymagany jest dostęp w ramach subskrypcji.
+Przed testowaniem {adapter} wymagany jest dostęp w ramach subskrypcji.
+Adapter Telegram
+Test
+To jest testowe powiadomienie z wtyczki Notification Broadcaster.
+{title} #{number}
+Adaptery
+Wyczyść
+Wydarzenie
+Czas
+Tytuł
+Wyłączone
+Ukryj wrażliwe szczegóły
+Nie
+Typy powiadomień
+Opóźnienie prywatności
+Zaplanowane płatności
+tx portfela
+Ostrzeżenie
+Tak
+s
+1. Utwórz bota za pomocą @BotFather. 2. Otwórz czat z botem i wyślij /start z czatu, którego chcesz używać. 3. Kliknij Wykryj czaty, aby pobrać ostatnie rozmowy bota. 4. Wybierz jeden wykryty czat i wyślij wiadomość testową.
+123456789:AA...
+Bazowy URL API
+Token bota
+Reguły dostarczania czatu
+Sprawdzanie bota Telegram i ostatnich czatów...
+Wybierz, które typy wiadomości otrzymuje ten czat Telegram, czy wrażliwe szczegóły mają być ukrywane oraz jakie ma być maksymalne losowe opóźnienie przed dostarczeniem.
+Utwórz bota za pomocą @BotFather, wyślij mu co najmniej jedną wiadomość, a następnie użyj poniższej akcji pomocniczej, aby bezpośrednio wywołać getMe/getUpdates i wyświetlić ostatnie identyfikatory czatów. Konfiguracja proxy aplikacji jest automatycznie ponownie używana.
+Wykryj czaty
+Wykryte czaty
+Nie wykryto jeszcze żadnego czatu Telegram. Wyślij /start do swojego bota, kliknij Wykryj czaty, a następnie wybierz czat.
+Nie znaleziono jeszcze żadnych ostatnich identyfikatorów czatów. Najpierw wyślij wiadomość do swojego bota, a potem spróbuj ponownie.
+Test Telegram Notification Broadcaster
+Czat {chat_id} zapisany (uruchom wykrywanie ponownie, aby odświeżyć)
+Wybierz wykryty czat
+Wyślij /start do swojego bota, a następnie kliknij Wykryj czaty
+Wysyłanie testowego powiadomienia Telegram...
+Adapter Telegram
+Wymagany jest token bota Telegram.
+Bot Telegram: {bot}. Ostatnie czaty: {chats}
+Wyszukiwanie Telegram nie powiodło się: {details}
+Test Telegram nie został dostarczony. Sprawdź token bota i wybór wykrytego czatu.
+Test Telegram nie powiódł się: {details}
+Test Telegram zakończył się powodzeniem dla identyfikatora czatu {chat_id}.
+To jest testowe powiadomienie sprawdzające łączność Telegram.
+Użyj Wykryj czaty, aby pobrać ostatnie rozmowy bota, a następnie wybierz jeden czat do powiadomień.
+Wybierz, które typy wiadomości otrzymuje ten webhook, czy wrażliwe szczegóły mają być ukrywane oraz jakie ma być maksymalne losowe opóźnienie przed dostarczeniem.
+Discord
+Adres URL punktu końcowego
+Ogólny JSON (Zapier, n8n, Make, aplikacje niestandardowe)
+Ogólne webhooki
+Google Chat
+Gotify
+Format wiadomości
+Microsoft Teams
+Test webhooka Notification Broadcaster
+Wklej adres URL webhooka, a następnie wybierz pasujący format ładunku. Przykłady: Slack, Mattermost, Rocket.Chat, Discord, Google Chat, Microsoft Teams, Telegram Bot API, ntfy, Gotify lub dowolne niestandardowe narzędzie automatyzacji. Lokalna demonstracja: poetry run python -m notification_broadcaster.webhook_demo_server, a następnie użyj [http://127.0.0.1:8765/webhook](http://127.0.0.1:8765/webhook)
+Wysyłanie testowego powiadomienia webhooka...
+Zgodny ze Slackiem (Slack, Mattermost, Rocket.Chat, Flock, Zoho Cliq)
+Telegram Bot API
+Skonfigurowany punkt końcowy webhooka używa poniższych reguł dostarczania.
+To jest testowe powiadomienie sprawdzające łączność ogólnego webhooka.
+Reguły dostarczania webhooka
+Wymagany jest adres URL punktu końcowego webhooka.
+Test webhooka nie został dostarczony. Sprawdź adres URL punktu końcowego.
+Test webhooka nie powiódł się: {details}
+Test webhooka zakończył się powodzeniem.
+ntfy / ntfy.sh
+Wprowadź 6-cyfrowy kod parowania wyświetlany na Trezorze:
+Wprowadź PIN, używając układu klawiatury Trezora (7 8 9 / 4 5 6 / 1 2 3):
+Sparuj Trezor
+Odblokuj Trezor
+s

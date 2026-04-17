@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "notification-broadcaster"
+version = "1.0.0"
+description = "Sends notifications to adapters such as email, Telegram, NIP-17, CalDAV, and generic webhooks."
+authors = [
+    "andreasgriffin <andreasgriffin@proton.me>",
+]
+
+[tool.bitcoin_safe.plugin]
+schema_version = "1"
+display_name = "Notifications"
+plugin_api_version = "1"
+entrypoint = "notification_broadcaster/plugin_bundle.py"
+bitcoin_safe_version = ">=0.0.0,<999.0.0"
+provider = "Bitcoin Safe"
+
+[tool.bitcoin_safe.plugin.btcpay.client]
+npub_bitcoin_safe_pos = "npub150ncc39ala3h9zudddrjqy9f7wenp7d20rjm99wchwtkdpze07wqukr9cu"
+
+[tool.bitcoin_safe.plugin.btcpay.btcpay_base]
+base_url = "https://pay.bitcoin-safe.org"
+pos_app_id = "U59nqzCsTq9vECCHaxiXwnwoSmL"
+store_id = "7agECo6zfJRp4Thi8vnBCjCoopb2yrnstaA5FophRfJe"
+
+[[tool.bitcoin_safe.plugin.btcpay.products.notification]]
+pos_id = "notification-monthly"
+trial_pos_id = "notification-monthly-trial"
+offering_id = "offering_CeSkA8FXgxsvMHyGrH"
+plan_id = "plan_3o1SwaL9zdPBqAh644"
+duration = "month"
+
+[[tool.bitcoin_safe.plugin.btcpay.products.notification]]
+pos_id = "notification-yearly"
+trial_pos_id = "notification-yearly-trial"
+offering_id = "offering_CeSkA8FXgxsvMHyGrH"
+plan_id = "plan_7T33eGE7sBoD3n4SQz"
+duration = "year"

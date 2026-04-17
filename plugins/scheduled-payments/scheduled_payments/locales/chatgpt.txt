@@ -1,0 +1,4487 @@
+tr_TR
+
+{count} ödeme bugün '{wallet_id}' içinde vadesi doluyor.
+{count} ödeme bugün '{wallet_id}' içinde vadesi doluyor.
+Bant dışı ödeme ekle
+Karşılanan ödemeler
+Karşılanan ödemeler açık gerçekleşme sayısını aşamaz.
+Ödemenin açıklaması
+Hedef adresi girin
+Devam eden
+İsteğe bağlı bilgiler
+İsteğe bağlı işlem referansı
+Lütfen bir tutar girin.
+Lütfen planlanmış bir ödeme seçin.
+Kalan toplam
+Planlanmış ödeme
+Planlanmış bir ödeme seçin
+Satoshi cinsinden tutar, yerine getirilen tüm ödemeleri karşılamalıdır.
+Seçilen planlanmış ödemenin açık gerçekleşmesi yok.
+0 kalan ödemenin
+devam eden ödemelerin
+{count} kalan ödemenin
+Bant dışı ekle
+Geçmişte aynı bir ödeme zaten mevcut.
+Sil
+Ödemeler
+Yeniden tara
+İşlemi Görüntüle
+Alıcıyı düzenle
+Döviz kuru
+Tanımlayıcı
+Planlanmış Ödemeye Git
+Gerçekleşme dizini
+Alıcı
+Alıcı kimliği
+Plan
+Plan kimliği
+Hedef Tutar
+İşlemi görüntüle
+Tümü
+- Her satıra 1 adres. - Bu alıcılar için oluşturmayı planladığınız planlı ödemeler için gerektiği kadar adres olduğundan emin olun. - Her satırda bir adres içeren PGP imzalı bir adres listesini de yapıştırabilirsiniz. - Gri renkle gösterilen adresler zaten kullanılmıştır.
+"{name}" adlı bir alıcı zaten mevcut. Lütfen farklı bir ad seçin.
+Alıcı hakkında iletişim bilgileri, e-posta adresi, Signal adı gibi ayrıntılar ekleyin...
+Her satıra bir adres girin veya her satırda bir adres bulunan imzalı bir PGP mesajı yapıştırın
+Alıcı adını girin
+Ad
+Lütfen bir alıcı adı girin.
+Lütfen alıcı için en az bir adres girin.
+Alıcı
+Alıcıyı Kaydet
+Bazı adresler zaten başka alıcılara atanmış:
+Bazı adresler mevcut ağ için geçersiz:
+{name}: {addresses}
+{day}. günde
+{ordinal}. günde
+{ordinal}. {weekday} gününde
+{month} ayının {ordinal}. {weekday} gününde
+{month} {day} tarihinde
+Desen
+Hafta içi günleri
+Alıcıya adres ekle
+Toplu ödeme: {details}
+Planlanmış ödemeler dışa aktarılamadı: {error}
+'{label}' için {date} tarihindeki CoinGecko 0:00 GMT kuru alınamadı. {unit}/{bitcoin_symbol} kurunu manuel olarak girin.
+İçe aktarma dosyası okunamadı: {error}
+Planlanmış ödemeler durumunu dışa aktar
+Planlanmış ödemeler durumunu içe aktar
+{payments} ödeme, {recipients} alıcı ve {history} geçmiş girdisi içe aktarıldı.
+Geçersiz planlanmış ödemeler dosyası: {error}
+JSON Dosyaları (*.json);;Tüm Dosyalar (*.*)
+Manuel döviz kuru
+Planlanmış ödeme '{label}' için {unit} cinsinden döviz kuru eksik.
+Yalnızca tamamlanmış ödemesi olmayan planlanmış ödemeler düzenlenebilir.
+Gelecekteki ödemeleri planlayın, yinelenen alıcıları yönetin ve işlem oluşturucuyu hızlıca önceden doldurun.
+Alıcı {recipient} bilinmiyor
+Plan
+Vadesi gelen planlanmış ödemeler
+Planlanmış ödemeler {path} konumuna dışa aktarıldı
+Seçilen planlanmış ödemelerin kalan gerçekleşmesi yok.
+{recipient} adlı alıcının bu toplu ödeme için kullanılmamış adresi kalmadı. Bu alıcıya daha fazla adres ekleyin ve ardından toplu ödemeyi yeniden oluşturmayı deneyin.
+Tutar sıfırdan büyük olmalıdır.
+{label} kopyası
+Gün
+{count} ödemeden sonra biter
+Her {interval} {unit}
+Her {unit}
+Saat
+Dakika
+Ay
+Devam eden
+Planlama yapmadan önce lütfen bir alıcı seçin veya oluşturun.
+Planlama yapmadan önce lütfen bir kategori seçin.
+Alıcı: {name}
+Değişiklikleri Kaydet
+Plan
+{date} tarihinde başlıyor
+Seçilen alıcının kullanılabilir adresi yok.
+Hafta
+Yıl
+{day}. günde
+{ordinal}. günde
+{ordinal}. {weekday} gününde
+{month} ayının {ordinal}. {weekday} gününde
+{days} günlerinde
+{month} {day} tarihinde
+Yeni alıcı oluştur
+Alıcı oluştur
+Para birimi
+Plan için etiket girin
+Sabit sayı
+Alıcıları yönet
+Ödeme sayısı
+Gerçekleşmeler
+Devam eden
+Sadece bir kez
+Fiyat kaynağı
+Alıcı
+Tekrar aralığı
+Planlanmış toplam:
+Başlangıç
+Toplam Tutar
+coingecko 0:00 GMT
+canlı
+İki haftada bir
+Tamamlandı
+Sonsuza kadar her 2 haftada bir
+Her ay
+1 yıl boyunca her ay
+Sıklık
+Not:
+Farklı senaryoları planlamak için tek bir arayüz. İşte bazı örnekler
+Tek seferlik plan
+Plan
+Alıcıların yeni planlanmış ödemeler için yeterli kullanılmamış adresi olmalıdır.
+Yeni Ödeme Planla
+Planlanmış ödeme eklentisi, ödemeleri verimli ve güvenle yönetir.
+Planlanmış ödeme eklentisi, Bitcoin-Safe ile sorunsuz şekilde bütünleşerek tekrarlayan ödemeleri planlamanızı, ödeme planlarını yönetmenizi ve ödeme düzenlemeleriniz üzerinde kontrol kazanmanızı sağlar.
+Planlar: 1
+Planlar: 12
+Planlar: ∞
+Başlangıç tarihi
+Fon Kaynağı
+Fon toplamı:
+Tamamlandı
+Sil
+Vade tarihi
+Planı Çoğalt
+Alıcıyı düzenle
+Sonraki ödeme için döviz kuru
+Sıklık
+Kimlik
+Asla
+Ödeme yok
+Sadece bir kez
+Ödemeler
+Alıcı
+Planlanmış ödeme
+Tüm ödemeleri seç
+Başlangıç tarihi
+coingecko 0:00 GMT
+canlı
+{index}. İşlem
+Sil
+Planlı ödemeyi sil?
+Lütfen silmek için en az bir planlanmış ödeme seçin.
+İşlem oluşturucuyu önceden doldurmak için en az bir planlanmış ödeme seçin.
+Tümü
+Plan Yedeğini Dışa Aktar
+Plan Yedeğini İçe Aktar
+Tamamlananları Göster
+Alıcıları Göster
+Ekle
+Etkin planlanmış ödemeleri olan alıcılar silinemez:
+Sil
+Aşağıdaki alıcılar silinsin mi?
+Lütfen düzenlemek için tam olarak bir alıcı seçin.
+Alıcı adı gereklidir.
+Silmek için en az bir alıcı seçin.
+Sil
+Kimlik
+Ad
+Ekle
+Tüm durumlar
+Tamamlandı
+Seçileni özelleştir
+Sabit
+Gelecek
+Sonraki 7 gün
+Devam eden
+Tek seferlik
+Gecikmiş
+Bir sonraki vadesini öde
+Seçileni öde
+Bugün
+{label} - {exchange_rate}
+{total} içinden {number} - {label}
+{label} için {number}.
+{number}. ödeme
+Ekle
+Trezor'da gösterilen 6 haneli eşleştirme kodunu girin:
+PIN'i Trezor tuş takımı düzenini kullanarak girin (7 8 9 / 4 5 6 / 1 2 3):
+Trezor'u Eşleştir
+Trezor'un Kilidini Aç
+
+fr_FR
+
+{count} paiement est dû aujourd’hui dans « {wallet_id} ».
+{count} paiements sont dus aujourd’hui dans « {wallet_id} ».
+Ajouter un paiement hors bande
+Paiements couverts
+Les paiements couverts ne peuvent pas dépasser les occurrences ouvertes.
+Description du paiement
+Saisir l’adresse de destination
+En cours
+Informations facultatives
+Référence de transaction facultative
+Veuillez saisir un montant.
+Veuillez sélectionner un paiement planifié.
+Total restant
+Paiement planifié
+Sélectionner un paiement planifié
+Le montant en satoshis doit couvrir tous les paiements effectués.
+Le paiement planifié sélectionné n’a aucune occurrence ouverte.
+sur 0 paiements restants
+sur les paiements en cours
+sur {count} paiements restants
+Ajouter hors bande
+Un paiement identique existe déjà dans l’historique.
+Supprimer
+Paiements
+Relancer l’analyse
+Voir la transaction
+Modifier le destinataire
+Taux de change
+Identifiant
+Aller au paiement planifié
+Indice d’occurrence
+Destinataire
+ID du destinataire
+Planification
+ID de planification
+Montant cible
+Voir la transaction
+Tous
+- 1 adresse par ligne. - Assurez-vous d’avoir suffisamment d’adresses pour les paiements planifiés que vous prévoyez de créer pour ces destinataires. - Vous pouvez aussi coller une liste d’adresses signée en PGP. - Les adresses affichées en gris ont déjà été utilisées.
+Un destinataire nommé « {name} » existe déjà. Veuillez choisir un autre nom.
+Ajoutez des détails sur le destinataire, comme les coordonnées, l’adresse e-mail, le nom Signal, ...
+Saisissez une adresse par ligne, ou collez un message PGP signé avec une adresse par ligne
+Saisir le nom du destinataire
+Nom
+Veuillez saisir un nom de destinataire.
+Veuillez fournir au moins une adresse pour le destinataire.
+Destinataire
+Enregistrer le destinataire
+Certaines adresses sont déjà attribuées à d’autres destinataires :
+Certaines adresses sont invalides pour le réseau actuel :
+{name}: {addresses}
+Le jour {day}
+Le {ordinal}e jour
+Le {ordinal} {weekday}
+Le {ordinal} {weekday} de {month}
+Le {day} {month}
+Modèle
+Jours de la semaine
+Ajouter des adresses au destinataire
+Paiement par lot : {details}
+Impossible d’exporter les paiements planifiés : {error}
+Impossible de récupérer le taux CoinGecko de 0:00 GMT pour « {label} » à la date {date}. Saisissez manuellement le taux {unit}/{bitcoin_symbol}.
+Impossible de lire le fichier d’importation : {error}
+Exporter l’état des paiements planifiés
+Importer l’état des paiements planifiés
+{payments} paiements, {recipients} destinataires et {history} entrées d’historique importés.
+Fichier de paiements planifiés invalide : {error}
+Fichiers JSON (*.json);;Tous les fichiers (*.*)
+Taux de change manuel
+Taux de change manquant pour le paiement planifié « {label} » en {unit}.
+Seuls les paiements planifiés sans paiements terminés peuvent être modifiés.
+Planifiez les paiements futurs, gérez les destinataires récurrents et préremplissez rapidement le créateur de transactions.
+Destinataire {recipient} inconnu
+Planification
+Paiements planifiés dus
+Paiements planifiés exportés vers {path}
+Les paiements planifiés sélectionnés n’ont plus d’occurrences restantes.
+{recipient} n’a plus d’adresses inutilisées pour ce paiement par lot. Ajoutez davantage d’adresses à ce destinataire, puis réessayez de créer le paiement par lot.
+Le montant doit être supérieur à zéro.
+Copie de {label}
+Jour
+Se termine après {count} paiements
+Tous les {interval} {unit}
+Chaque {unit}
+Heures
+Minutes
+Mois
+En cours
+Veuillez choisir ou créer un destinataire avant de planifier.
+Veuillez sélectionner une catégorie avant de planifier.
+Destinataire : {name}
+Enregistrer les modifications
+Planification
+À partir du {date}
+Le destinataire sélectionné n’a aucune adresse disponible.
+Semaine
+Année
+le jour {day}
+le {ordinal}e jour
+le {ordinal} {weekday}
+le {ordinal} {weekday} de {month}
+les {days}
+le {day} {month}
+Créer un nouveau destinataire
+Créer un destinataire
+Devise
+Saisir un libellé pour la planification
+Nombre fixe
+Gérer les destinataires
+Nombre de paiements
+Occurrences
+En cours
+Une seule fois
+Source du prix
+Destinataire
+Répéter tous les
+Total planifié :
+Début
+Montant total
+coingecko 0:00 GMT
+en direct
+Toutes les deux semaines
+Terminé
+Toutes les 2 semaines pour toujours
+Chaque mois
+Chaque mois pendant 1 an
+Fréquence
+Remarque :
+Une seule interface pour planifier différents scénarios. Voici quelques exemples
+Planification unique
+Planifier
+Les destinataires doivent avoir suffisamment d’adresses inutilisées pour les nouveaux paiements planifiés.
+Planifier un nouveau paiement
+Extension de paiements planifiés : gérez les paiements efficacement, en toute confiance.
+L’extension de paiements planifiés s’intègre parfaitement à Bitcoin-Safe et vous permet de planifier des paiements récurrents, de gérer les calendriers de paiement et de mieux contrôler vos modalités de paiement.
+Planifications : 1
+Planifications : 12
+Planifications : ∞
+Date de début
+Source de financement
+Total financé :
+Terminé
+Supprimer
+Date d’échéance
+Dupliquer la planification
+Modifier le destinataire
+Taux de change pour le prochain paiement
+Fréquence
+ID
+Jamais
+Aucun paiement
+Une seule fois
+Paiements
+Destinataire
+Paiement planifié
+Sélectionner tous les paiements
+Date de début
+coingecko 0:00 GMT
+en direct
+Tx {index}.
+Supprimer
+Supprimer le paiement planifié ?
+Veuillez sélectionner au moins un paiement planifié à supprimer.
+Sélectionnez au moins un paiement planifié pour préremplir le créateur de transactions.
+Tous
+Exporter la sauvegarde des planifications
+Importer la sauvegarde des planifications
+Afficher les terminés
+Afficher les destinataires
+Ajouter
+Impossible de supprimer les destinataires ayant des paiements planifiés actifs :
+Supprimer
+Supprimer les destinataires suivants ?
+Veuillez sélectionner exactement un destinataire à modifier.
+Le nom du destinataire est requis.
+Sélectionnez au moins un destinataire à supprimer.
+Supprimer
+ID
+Nom
+Ajouter
+Tous les statuts
+Terminé
+Personnaliser la sélection
+Fixe
+Futur
+7 prochains jours
+En cours
+Unique
+En retard
+Payer la prochaine échéance
+Payer la sélection
+Aujourd’hui
+{label} à {exchange_rate}
+{number} sur {total} vers {label}
+{number}. de {label}
+{number}. paiement
+Ajouter
+Saisissez le code d’appairage à 6 chiffres affiché sur le Trezor :
+Saisissez le PIN en utilisant la disposition du clavier Trezor (7 8 9 / 4 5 6 / 1 2 3) :
+Associer le Trezor
+Déverrouiller le Trezor
+
+id_ID
+
+{count} pembayaran jatuh tempo hari ini di '{wallet_id}'.
+{count} pembayaran jatuh tempo hari ini di '{wallet_id}'.
+Tambahkan pembayaran di luar band
+Pembayaran yang tercakup
+Pembayaran yang tercakup tidak boleh melebihi kejadian yang masih terbuka.
+Deskripsi pembayaran
+Masukkan alamat tujuan
+Sedang berlangsung
+Informasi opsional
+Referensi transaksi opsional
+Harap masukkan jumlah.
+Harap pilih pembayaran terjadwal.
+Total tersisa
+Pembayaran terjadwal
+Pilih pembayaran terjadwal
+Jumlah dalam satoshi harus mencakup semua pembayaran yang telah dipenuhi.
+Pembayaran terjadwal yang dipilih tidak memiliki kejadian terbuka.
+dari 0 pembayaran tersisa
+dari pembayaran yang sedang berlangsung
+dari {count} pembayaran tersisa
+Tambah di luar band
+Pembayaran identik sudah ada di riwayat.
+Hapus
+Pembayaran
+Pindai ulang
+Lihat Transaksi
+Edit penerima
+Nilai tukar
+Pengenal
+Lompat ke Pembayaran Terjadwal
+Indeks kejadian
+Penerima
+ID penerima
+Jadwal
+ID jadwal
+Jumlah Target
+Lihat transaksi
+Semua
+- 1 alamat per baris. - Pastikan alamat yang tersedia cukup untuk pembayaran terjadwal yang ingin Anda buat untuk penerima ini. - Anda juga dapat menempelkan daftar alamat yang ditandatangani PGP. - Alamat yang ditampilkan dalam warna abu-abu sudah pernah digunakan.
+Penerima bernama "{name}" sudah ada. Harap pilih nama lain.
+Tambahkan detail tentang penerima. Misalnya detail kontak, alamat email, nama Signal, ...
+Masukkan satu alamat per baris, atau tempel pesan PGP bertanda tangan dengan satu alamat per baris
+Masukkan nama penerima
+Nama
+Harap masukkan nama penerima.
+Harap berikan setidaknya satu alamat untuk penerima.
+Penerima
+Simpan Penerima
+Beberapa alamat sudah ditetapkan ke penerima lain:
+Beberapa alamat tidak valid untuk jaringan saat ini:
+{name}: {addresses}
+Pada hari {day}
+Pada hari ke-{ordinal}
+Pada {weekday} ke-{ordinal}
+Pada {weekday} ke-{ordinal} di bulan {month}
+Pada {month} {day}
+Pola
+Hari kerja
+Tambahkan alamat ke penerima
+Pembayaran batch: {details}
+Tidak dapat mengekspor pembayaran terjadwal: {error}
+Tidak dapat mengambil kurs CoinGecko pukul 0:00 GMT untuk '{label}' pada {date}. Masukkan kurs {unit}/{bitcoin_symbol} secara manual.
+Tidak dapat membaca file impor: {error}
+Ekspor status pembayaran terjadwal
+Impor status pembayaran terjadwal
+Berhasil mengimpor {payments} pembayaran, {recipients} penerima, dan {history} entri riwayat.
+File pembayaran terjadwal tidak valid: {error}
+File JSON (*.json);;Semua File (*.*)
+Nilai tukar manual
+Nilai tukar untuk pembayaran terjadwal '{label}' dalam {unit} tidak ada.
+Hanya pembayaran terjadwal tanpa pembayaran selesai yang dapat diedit.
+Rencanakan pembayaran masa depan, kelola penerima berulang, dan isi cepat pembuat transaksi.
+Penerima {recipient} tidak dikenal
+Jadwal
+Pembayaran terjadwal jatuh tempo
+Pembayaran terjadwal diekspor ke {path}
+Pembayaran terjadwal yang dipilih tidak memiliki kejadian tersisa.
+{recipient} tidak memiliki alamat yang belum digunakan untuk pembayaran batch ini. Tambahkan lebih banyak alamat ke penerima ini, lalu coba lagi membuat pembayaran batch.
+Jumlah harus lebih besar dari nol.
+Salinan dari {label}
+Hari
+Berakhir setelah {count} pembayaran
+Setiap {interval} {unit}
+Setiap {unit}
+Jam
+Menit
+Bulan
+Sedang berlangsung
+Harap pilih atau buat penerima sebelum menjadwalkan.
+Harap pilih kategori sebelum menjadwalkan.
+Penerima: {name}
+Simpan Perubahan
+Jadwal
+Mulai pada {date}
+Penerima yang dipilih tidak memiliki alamat yang tersedia.
+Minggu
+Tahun
+pada hari {day}
+pada hari ke-{ordinal}
+pada {weekday} ke-{ordinal}
+pada {weekday} ke-{ordinal} di bulan {month}
+pada {days}
+pada {month} {day}
+Buat penerima baru
+Buat penerima
+Mata uang
+Masukkan label untuk jadwal
+Jumlah tetap
+Kelola penerima
+Jumlah pembayaran
+Kejadian
+Sedang berlangsung
+Hanya sekali
+Sumber harga
+Penerima
+Ulangi setiap
+Total terjadwal:
+Mulai
+Jumlah Total
+coingecko 0:00 GMT
+langsung
+Dua mingguan
+Selesai
+Setiap 2 minggu selamanya
+Setiap bulan
+Setiap bulan selama 1 tahun
+Frekuensi
+Catatan:
+Satu UI untuk merencanakan berbagai skenario. Berikut beberapa contoh
+Jadwal satu kali
+Rencanakan
+Penerima harus memiliki cukup alamat yang belum digunakan untuk pembayaran terjadwal baru.
+Jadwalkan Pembayaran Baru
+Plugin pembayaran terjadwal Kelola pembayaran secara efisien, dengan percaya diri.
+Plugin pembayaran terjadwal terintegrasi mulus ke dalam Bitcoin-Safe, memungkinkan Anda menjadwalkan pembayaran berulang, mengelola jadwal pembayaran, dan memperoleh kendali atas pengaturan pembayaran Anda.
+Jadwal: 1
+Jadwal: 12
+Jadwal: ∞
+Tanggal mulai
+Sumber Dana
+Total pendanaan:
+Selesai
+Hapus
+Tanggal jatuh tempo
+Duplikasi Jadwal
+Edit penerima
+Nilai tukar untuk pembayaran berikutnya
+Frekuensi
+ID
+Tidak pernah
+Tidak ada pembayaran
+Hanya sekali
+Pembayaran
+Penerima
+Pembayaran terjadwal
+Pilih semua pembayaran
+Tanggal mulai
+coingecko 0:00 GMT
+langsung
+Tx {index}.
+Hapus
+Hapus pembayaran jadwal?
+Harap pilih setidaknya satu pembayaran terjadwal untuk dihapus.
+Pilih setidaknya satu pembayaran terjadwal untuk mengisi awal pembuat transaksi.
+Semua
+Ekspor Cadangan Jadwal
+Impor Cadangan Jadwal
+Tampilkan yang Selesai
+Tampilkan Penerima
+Tambah
+Tidak dapat menghapus penerima dengan pembayaran terjadwal aktif:
+Hapus
+Hapus penerima berikut?
+Harap pilih tepat satu penerima untuk diedit.
+Nama penerima wajib diisi.
+Pilih setidaknya satu penerima untuk dihapus.
+Hapus
+ID
+Nama
+Tambah
+Semua status
+Selesai
+Sesuaikan yang dipilih
+Tetap
+Masa depan
+7 hari berikutnya
+Sedang berlangsung
+Satu kali
+Terlambat
+Bayar jatuh tempo berikutnya
+Bayar yang dipilih
+Hari ini
+{label} pada {exchange_rate}
+{number} dari {total} ke {label}
+{number}. dari {label}
+Pembayaran ke-{number}
+Tambah
+Masukkan kode pairing 6 digit yang ditampilkan di Trezor:
+Masukkan PIN menggunakan tata letak keypad Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Pasangkan Trezor
+Buka kunci Trezor
+
+ko_KR
+
+{count}개의 지급이 오늘 '{wallet_id}'에서 예정되어 있습니다.
+{count}개의 지급이 오늘 '{wallet_id}'에서 예정되어 있습니다.
+대역 외 지급 추가
+충당된 지급
+충당된 지급은 열려 있는 발생 횟수를 초과할 수 없습니다.
+지급 설명
+대상 주소 입력
+진행 중
+선택 정보
+선택 거래 참조
+금액을 입력해 주세요.
+예약 결제를 선택해 주세요.
+남은 총액
+예약 결제
+예약 결제 선택
+사토시 금액은 이행된 모든 지급을 충당해야 합니다.
+선택한 예약 결제에는 열려 있는 발생 항목이 없습니다.
+남은 지급 0건 중
+진행 중인 결제 중
+남은 지급 {count}건 중
+대역 외 추가
+동일한 결제가 이미 기록에 존재합니다.
+삭제
+지급
+다시 스캔
+거래 보기
+수신자 편집
+환율
+식별자
+예약 결제로 이동
+발생 인덱스
+수신자
+수신자 ID
+일정
+일정 ID
+목표 금액
+거래 보기
+전체
+- 한 줄에 주소 1개. - 이 수신자들에 대해 생성하려는 예약 결제 수에 맞게 충분한 주소가 있는지 확인하세요. - 한 줄에 주소 하나씩 포함된 PGP 서명 주소 목록을 붙여넣을 수도 있습니다. - 회색으로 표시된 주소는 이미 사용되었습니다.
+"{name}"라는 이름의 수신자가 이미 존재합니다. 다른 이름을 선택해 주세요.
+연락처 정보, 이메일 주소, Signal 이름 등 수신자에 대한 세부 정보를 추가하세요...
+한 줄에 주소 하나씩 입력하거나, 한 줄에 주소 하나씩 포함된 서명된 PGP 메시지를 붙여넣으세요
+수신자 이름 입력
+이름
+수신자 이름을 입력해 주세요.
+수신자에 대해 최소 한 개의 주소를 입력해 주세요.
+수신자
+수신자 저장
+일부 주소는 이미 다른 수신자에게 할당되어 있습니다:
+일부 주소는 현재 네트워크에서 유효하지 않습니다:
+{name}: {addresses}
+{day}일에
+{ordinal}번째 날에
+{ordinal}번째 {weekday}에
+{month}의 {ordinal}번째 {weekday}에
+{month} {day}에
+패턴
+요일
+수신자에 주소 추가
+일괄 지급: {details}
+예약 결제를 내보낼 수 없습니다: {error}
+{date}의 '{label}'에 대한 CoinGecko 0:00 GMT 환율을 가져올 수 없습니다. {unit}/{bitcoin_symbol} 환율을 수동으로 입력하세요.
+가져오기 파일을 읽을 수 없습니다: {error}
+예약 결제 상태 내보내기
+예약 결제 상태 가져오기
+{payments}건의 결제, {recipients}명의 수신자, {history}개의 기록 항목을 가져왔습니다.
+유효하지 않은 예약 결제 파일: {error}
+JSON 파일 (*.json);;모든 파일 (*.*)
+수동 환율
+예약 결제 '{label}'의 {unit} 환율이 없습니다.
+완료된 결제가 없는 예약 결제만 편집할 수 있습니다.
+향후 결제를 계획하고, 반복 수신자를 관리하며, 거래 작성기를 빠르게 미리 채우세요.
+수신자 {recipient}을(를) 알 수 없습니다
+일정
+예정된 예약 결제
+예약 결제가 {path}(으)로 내보내졌습니다
+선택한 예약 결제에는 남은 발생 항목이 없습니다.
+{recipient}에게는 이 일괄 지급에 사용할 수 있는 미사용 주소가 남아 있지 않습니다. 이 수신자에 더 많은 주소를 추가한 후 일괄 지급 생성을 다시 시도하세요.
+금액은 0보다 커야 합니다.
+{label}의 사본
+일
+{count}회 결제 후 종료
+매 {interval} {unit}
+매 {unit}
+시간
+분
+월
+진행 중
+일정을 만들기 전에 수신자를 선택하거나 생성해 주세요.
+일정을 만들기 전에 카테고리를 선택해 주세요.
+수신자: {name}
+변경 사항 저장
+일정
+{date}부터 시작
+선택한 수신자에게 사용 가능한 주소가 없습니다.
+주
+년
+{day}일에
+{ordinal}번째 날에
+{ordinal}번째 {weekday}에
+{month}의 {ordinal}번째 {weekday}에
+{days}에
+{month} {day}에
+새 수신자 만들기
+수신자 만들기
+통화
+일정 라벨 입력
+고정 개수
+수신자 관리
+결제 횟수
+발생 횟수
+진행 중
+한 번만
+가격 소스
+수신자
+반복 간격
+예약 총액:
+시작
+총 금액
+coingecko 0:00 GMT
+실시간
+격주
+완료
+영구적으로 2주마다
+매월
+1년 동안 매월
+빈도
+참고:
+다양한 시나리오를 계획할 수 있는 하나의 UI입니다. 몇 가지 예시는 다음과 같습니다
+일회성 일정
+계획
+수신자에게는 새 예약 결제를 위한 충분한 미사용 주소가 있어야 합니다.
+새 결제 예약
+예약 결제 플러그인 효율적이고 자신 있게 결제를 관리하세요.
+예약 결제 플러그인은 Bitcoin-Safe와 매끄럽게 통합되어 반복 결제를 예약하고, 결제 일정을 관리하며, 결제 계획을 제어할 수 있게 해줍니다.
+일정: 1
+일정: 12
+일정: ∞
+시작일
+자금 출처
+자금 총액:
+완료
+삭제
+지급 기한
+일정 복제
+수신자 편집
+다음 결제의 환율
+빈도
+ID
+안 함
+지급 없음
+한 번만
+지급
+수신자
+예약 결제
+모든 지급 선택
+시작일
+coingecko 0:00 GMT
+실시간
+{index}. 거래
+삭제
+일정 결제를 삭제하시겠습니까?
+삭제할 예약 결제를 하나 이상 선택해 주세요.
+거래 작성기를 미리 채우려면 예약 결제를 하나 이상 선택하세요.
+전체
+일정 백업 내보내기
+일정 백업 가져오기
+완료된 항목 보기
+수신자 보기
+추가
+활성 예약 결제가 있는 수신자는 삭제할 수 없습니다:
+삭제
+다음 수신자를 삭제하시겠습니까?
+편집하려면 수신자를 정확히 하나 선택해 주세요.
+수신자 이름은 필수입니다.
+삭제하려면 수신자를 하나 이상 선택하세요.
+삭제
+ID
+이름
+추가
+모든 상태
+완료
+선택 항목 사용자 지정
+고정
+미래
+향후 7일
+진행 중
+일회성
+기한 초과
+다음 기한 지급
+선택 항목 지급
+오늘
+{label} @ {exchange_rate}
+{label}에 {total}개 중 {number}개
+{label}의 {number}.
+{number}. 지급
+추가
+Trezor에 표시된 6자리 페어링 코드를 입력하세요:
+Trezor 키패드 배열을 사용해 PIN을 입력하세요 (7 8 9 / 4 5 6 / 1 2 3):
+Trezor 페어링
+Trezor 잠금 해제
+
+pt_BR
+
+{count} pagamento vence hoje em '{wallet_id}'.
+{count} pagamentos vencem hoje em '{wallet_id}'.
+Adicionar pagamento fora de banda
+Pagamentos cobertos
+Os pagamentos cobertos não podem exceder as ocorrências em aberto.
+Descrição do pagamento
+Insira o endereço de destino
+Em andamento
+Informações opcionais
+Referência opcional da transação
+Informe um valor.
+Selecione um pagamento agendado.
+Total restante
+Pagamento agendado
+Selecione um pagamento agendado
+O valor em satoshis deve cobrir todos os pagamentos concluídos.
+O pagamento agendado selecionado não tem ocorrências em aberto.
+de 0 pagamentos restantes
+de pagamentos em andamento
+de {count} pagamentos restantes
+Adicionar fora de banda
+Já existe um pagamento idêntico no histórico.
+Excluir
+Pagamentos
+Verificar novamente
+Ver Transação
+Editar destinatário
+Taxa de câmbio
+Identificador
+Ir para Pagamento Agendado
+Índice da ocorrência
+Destinatário
+ID do destinatário
+Agendamento
+ID do agendamento
+Valor-alvo
+Ver transação
+Todos
+- 1 endereço por linha. - Garanta endereços suficientes conforme necessário para os pagamentos agendados que você pretende criar para esses destinatários. - Você também pode colar uma lista de endereços assinada com PGP. - Endereços exibidos em cinza já foram usados.
+Já existe um destinatário chamado "{name}". Escolha um nome diferente.
+Adicione detalhes sobre o destinatário. Como informações de contato, endereço de e-mail, nome no Signal, ...
+Digite um endereço por linha ou cole uma mensagem PGP assinada com um endereço por linha
+Digite o nome do destinatário
+Nome
+Informe um nome de destinatário.
+Informe pelo menos um endereço para o destinatário.
+Destinatário
+Salvar Destinatário
+Alguns endereços já estão atribuídos a outros destinatários:
+Alguns endereços são inválidos para a rede atual:
+{name}: {addresses}
+No dia {day}
+No {ordinal}º dia
+No {ordinal}º {weekday}
+No {ordinal}º {weekday} de {month}
+Em {month} {day}
+Padrão
+Dias da semana
+Adicionar endereços no destinatário
+Pagamento em lote: {details}
+Não foi possível exportar pagamentos agendados: {error}
+Não foi possível buscar a taxa CoinGecko de 0:00 GMT para '{label}' em {date}. Digite manualmente a taxa {unit}/{bitcoin_symbol}.
+Não foi possível ler o arquivo de importação: {error}
+Exportar estado dos pagamentos agendados
+Importar estado dos pagamentos agendados
+Importados {payments} pagamentos, {recipients} destinatários e {history} entradas do histórico.
+Arquivo de pagamentos agendados inválido: {error}
+Arquivos JSON (*.json);;Todos os arquivos (*.*)
+Taxa de câmbio manual
+Falta taxa de câmbio para o pagamento agendado '{label}' em {unit}.
+Somente pagamentos agendados sem pagamentos concluídos podem ser editados.
+Planeje pagamentos futuros, gerencie destinatários recorrentes e preencha rapidamente o criador de transações.
+Destinatário {recipient} desconhecido
+Agendamento
+Pagamentos agendados vencendo
+Pagamentos agendados exportados para {path}
+Os pagamentos agendados selecionados não têm ocorrências restantes.
+{recipient} não tem mais endereços não usados para este pagamento em lote. Adicione mais endereços a este destinatário e tente criar o pagamento em lote novamente.
+O valor deve ser maior que zero.
+Cópia de {label}
+Dia
+Termina após {count} pagamentos
+A cada {interval} {unit}
+A cada {unit}
+Horas
+Minutos
+Mês
+Em andamento
+Escolha ou crie um destinatário antes de agendar.
+Selecione uma categoria antes de agendar.
+Destinatário: {name}
+Salvar Alterações
+Agendamento
+Começando em {date}
+O destinatário selecionado não tem endereços disponíveis.
+Semana
+Ano
+no dia {day}
+no {ordinal}º dia
+no {ordinal}º {weekday}
+no {ordinal}º {weekday} de {month}
+em {days}
+em {month} {day}
+Criar novo destinatário
+Criar destinatário
+Moeda
+Digite um rótulo para o agendamento
+Número fixo
+Gerenciar destinatários
+Número de pagamentos
+Ocorrências
+Em andamento
+Somente uma vez
+Fonte de preço
+Destinatário
+Repetir a cada
+Total agendado:
+Início
+Valor Total
+coingecko 0:00 GMT
+ao vivo
+Quinzenal
+Concluído
+A cada 2 semanas para sempre
+Todo mês
+Todo mês por 1 ano
+Frequência
+Observação:
+Uma única interface para planejar diferentes cenários. Aqui estão alguns exemplos
+Agendamento único
+Planejar
+Os destinatários devem ter endereços não usados suficientes para novos pagamentos agendados.
+Agendar Novo Pagamento
+Plugin de pagamento agendado Gerencie pagamentos com eficiência, com confiança.
+O plugin de pagamento agendado integra-se perfeitamente ao Bitcoin-Safe, permitindo que você agende pagamentos recorrentes, gerencie cronogramas de pagamento e tenha controle sobre seus arranjos de pagamento.
+Agendamentos: 1
+Agendamentos: 12
+Agendamentos: ∞
+Data de início
+Fonte de financiamento
+Total do financiamento:
+Concluído
+Excluir
+Data de vencimento
+Duplicar Agendamento
+Editar destinatário
+Taxa de câmbio do próximo pagamento
+Frequência
+ID
+Nunca
+Sem pagamentos
+Somente uma vez
+Pagamentos
+Destinatário
+Pagamento agendado
+Selecionar todos os pagamentos
+Data de início
+coingecko 0:00 GMT
+ao vivo
+{index}. Tx
+Excluir
+Excluir o pagamento agendado?
+Selecione pelo menos um pagamento agendado para excluir.
+Selecione pelo menos um pagamento agendado para pré-preencher o criador de transações.
+Todos
+Exportar Backup do Agendamento
+Importar Backup do Agendamento
+Mostrar Concluídos
+Mostrar Destinatários
+Adicionar
+Não é possível excluir destinatários com pagamentos agendados ativos:
+Excluir
+Excluir os seguintes destinatários?
+Selecione exatamente um destinatário para editar.
+O nome do destinatário é obrigatório.
+Selecione pelo menos um destinatário para excluir.
+Excluir
+ID
+Nome
+Adicionar
+Todos os status
+Concluído
+Personalizar selecionados
+Fixo
+Futuro
+Próximos 7 dias
+Em andamento
+Único
+Atrasado
+Pagar próximo vencimento
+Pagar selecionados
+Hoje
+{label} a {exchange_rate}
+{number} de {total} para {label}
+{number}. de {label}
+{number}. pagamento
+Adicionar
+Digite o código de pareamento de 6 dígitos mostrado no Trezor:
+Digite o PIN usando o layout do teclado do Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Parear Trezor
+Desbloquear Trezor
+
+ru_RU
+
+Сегодня наступает срок выплаты {count} в '{wallet_id}'.
+Сегодня наступает срок {count} выплат в '{wallet_id}'.
+Добавить внеплановую выплату
+Покрытые выплаты
+Покрытые выплаты не могут превышать количество открытых повторений.
+Описание выплаты
+Введите адрес назначения
+Текущие
+Необязательная информация
+Необязательная ссылка на транзакцию
+Пожалуйста, укажите сумму.
+Пожалуйста, выберите запланированный платёж.
+Оставшаяся сумма
+Запланированный платёж
+Выберите запланированный платёж
+Сумма в сатоши должна покрывать все выполненные выплаты.
+У выбранного запланированного платежа нет открытых повторений.
+из 0 оставшихся выплат
+из текущих платежей
+из {count} оставшихся выплат
+Добавить внепланово
+Идентичный платёж уже существует в истории.
+Удалить
+Выплаты
+Повторно просканировать
+Просмотреть транзакцию
+Изменить получателя
+Обменный курс
+Идентификатор
+Перейти к запланированному платежу
+Индекс повторения
+Получатель
+ID получателя
+Расписание
+ID расписания
+Целевая сумма
+Просмотреть транзакцию
+Все
+- 1 адрес в строке. - Убедитесь, что адресов достаточно для запланированных платежей, которые вы собираетесь создать для этих получателей. - Вы также можете вставить подписанный PGP список адресов. - Адреса, показанные серым цветом, уже использовались.
+Получатель с именем "{name}" уже существует. Пожалуйста, выберите другое имя.
+Добавьте сведения о получателе, например контактные данные, адрес электронной почты, имя в Signal, ...
+Введите по одному адресу в строке или вставьте подписанное сообщение PGP с одним адресом в строке
+Введите имя получателя
+Имя
+Пожалуйста, укажите имя получателя.
+Пожалуйста, укажите хотя бы один адрес для получателя.
+Получатель
+Сохранить получателя
+Некоторые адреса уже назначены другим получателям:
+Некоторые адреса недействительны для текущей сети:
+{name}: {addresses}
+В день {day}
+В {ordinal}-й день
+В {ordinal} {weekday}
+В {ordinal} {weekday} месяца {month}
+{month} {day}
+Шаблон
+Дни недели
+Добавить адреса получателю
+Пакетная выплата: {details}
+Не удалось экспортировать запланированные платежи: {error}
+Не удалось получить курс CoinGecko на 0:00 GMT для '{label}' на дату {date}. Введите курс {unit}/{bitcoin_symbol} вручную.
+Не удалось прочитать файл импорта: {error}
+Экспортировать состояние запланированных платежей
+Импортировать состояние запланированных платежей
+Импортировано {payments} платежей, {recipients} получателей и {history} записей истории.
+Недопустимый файл запланированных платежей: {error}
+Файлы JSON (*.json);;Все файлы (*.*)
+Ручной обменный курс
+Отсутствует обменный курс для запланированного платежа '{label}' в {unit}.
+Можно редактировать только запланированные платежи без завершённых выплат.
+Планируйте будущие выплаты, управляйте повторяющимися получателями и быстро заполняйте конструктор транзакций.
+Получатель {recipient} неизвестен
+Расписание
+Запланированные платежи к оплате
+Запланированные платежи экспортированы в {path}
+У выбранных запланированных платежей не осталось повторений.
+У {recipient} не осталось неиспользованных адресов для этой пакетной выплаты. Добавьте больше адресов этому получателю и попробуйте создать пакетную выплату снова.
+Сумма должна быть больше нуля.
+Копия {label}
+День
+Завершается после {count} платежей
+Каждые {interval} {unit}
+Каждый {unit}
+Часы
+Минуты
+Месяц
+Текущие
+Пожалуйста, выберите или создайте получателя перед планированием.
+Пожалуйста, выберите категорию перед планированием.
+Получатель: {name}
+Сохранить изменения
+Расписание
+Начиная с {date}
+У выбранного получателя нет доступных адресов.
+Неделя
+Год
+в день {day}
+в {ordinal}-й день
+в {ordinal} {weekday}
+в {ordinal} {weekday} месяца {month}
+в {days}
+{month} {day}
+Создать нового получателя
+Создать получателя
+Валюта
+Введите метку для расписания
+Фиксированное число
+Управлять получателями
+Количество платежей
+Повторения
+Текущие
+Только один раз
+Источник цены
+Получатель
+Повторять каждые
+Запланированная сумма:
+Начало
+Общая сумма
+coingecko 0:00 GMT
+в реальном времени
+Раз в две недели
+Завершено
+Каждые 2 недели бессрочно
+Каждый месяц
+Каждый месяц в течение 1 года
+Частота
+Примечание:
+Один интерфейс для планирования разных сценариев. Вот несколько примеров
+Разовое расписание
+Планировать
+У получателей должно быть достаточно неиспользованных адресов для новых запланированных платежей.
+Запланировать новый платёж
+Плагин запланированных платежей Управляйте платежами эффективно и уверенно.
+Плагин запланированных платежей органично интегрируется в Bitcoin-Safe, позволяя вам планировать повторяющиеся платежи, управлять графиками платежей и контролировать свои платёжные схемы.
+Расписания: 1
+Расписания: 12
+Расписания: ∞
+Дата начала
+Источник финансирования
+Сумма финансирования:
+Завершено
+Удалить
+Дата выплаты
+Дублировать расписание
+Изменить получателя
+Обменный курс для следующего платежа
+Частота
+ID
+Никогда
+Нет выплат
+Только один раз
+Выплаты
+Получатель
+Запланированный платёж
+Выбрать все выплаты
+Дата начала
+coingecko 0:00 GMT
+в реальном времени
+{index}. Транзакция
+Удалить
+Удалить запланированный платёж?
+Пожалуйста, выберите хотя бы один запланированный платёж для удаления.
+Выберите хотя бы один запланированный платёж для предварительного заполнения конструктора транзакций.
+Все
+Экспортировать резервную копию расписания
+Импортировать резервную копию расписания
+Показать завершённые
+Показать получателей
+Добавить
+Нельзя удалить получателей с активными запланированными платежами:
+Удалить
+Удалить следующих получателей?
+Пожалуйста, выберите ровно одного получателя для редактирования.
+Имя получателя обязательно.
+Выберите хотя бы одного получателя для удаления.
+Удалить
+ID
+Имя
+Добавить
+Все статусы
+Завершено
+Настроить выбранные
+Фиксированный
+Будущие
+Следующие 7 дней
+Текущие
+Разовый
+Просрочено
+Оплатить следующий срок
+Оплатить выбранные
+Сегодня
+{label} по {exchange_rate}
+{number} из {total} для {label}
+{number}. из {label}
+{number}. выплата
+Добавить
+Введите 6-значный код сопряжения, показанный на Trezor:
+Введите PIN с использованием раскладки клавиатуры Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Сопрячь Trezor
+Разблокировать Trezor
+
+vi_VN
+
+{count} khoản thanh toán đến hạn hôm nay trong '{wallet_id}'.
+{count} khoản thanh toán đến hạn hôm nay trong '{wallet_id}'.
+Thêm khoản thanh toán ngoài băng
+Các khoản thanh toán đã được bao phủ
+Các khoản thanh toán đã được bao phủ không được vượt quá số lần phát sinh đang mở.
+Mô tả của khoản thanh toán
+Nhập địa chỉ đích
+Đang diễn ra
+Thông tin tùy chọn
+Tham chiếu giao dịch tùy chọn
+Vui lòng cung cấp số tiền.
+Vui lòng chọn một khoản thanh toán đã lên lịch.
+Tổng còn lại
+Khoản thanh toán đã lên lịch
+Chọn một khoản thanh toán đã lên lịch
+Số tiền bằng satoshi phải bao phủ tất cả các khoản thanh toán đã hoàn tất.
+Khoản thanh toán đã lên lịch được chọn không có lần phát sinh đang mở.
+trong 0 khoản thanh toán còn lại
+trong các khoản thanh toán đang diễn ra
+trong {count} khoản thanh toán còn lại
+Thêm ngoài băng
+Một khoản thanh toán giống hệt đã tồn tại trong lịch sử.
+Xóa
+Các khoản thanh toán
+Quét lại
+Xem Giao Dịch
+Chỉnh sửa người nhận
+Tỷ giá hối đoái
+Mã định danh
+Chuyển đến Khoản thanh toán đã lên lịch
+Chỉ mục lần phát sinh
+Người nhận
+ID người nhận
+Lịch
+ID lịch
+Số tiền mục tiêu
+Xem giao dịch
+Tất cả
+- 1 địa chỉ mỗi dòng. - Hãy đảm bảo có đủ địa chỉ theo yêu cầu cho các khoản thanh toán theo lịch mà bạn dự định tạo cho các người nhận này. - Bạn cũng có thể dán một danh sách địa chỉ có chữ ký PGP. - Các địa chỉ hiển thị màu xám đã được sử dụng.
+Đã tồn tại một người nhận tên là "{name}". Vui lòng chọn tên khác.
+Thêm chi tiết về người nhận. Chẳng hạn như thông tin liên hệ, địa chỉ email, tên Signal, ...
+Nhập một địa chỉ trên mỗi dòng hoặc dán một thông điệp PGP đã ký với một địa chỉ trên mỗi dòng
+Nhập tên người nhận
+Tên
+Vui lòng cung cấp tên người nhận.
+Vui lòng cung cấp ít nhất một địa chỉ cho người nhận.
+Người nhận
+Lưu Người nhận
+Một số địa chỉ đã được gán cho những người nhận khác:
+Một số địa chỉ không hợp lệ cho mạng hiện tại:
+{name}: {addresses}
+Vào ngày {day}
+Vào ngày thứ {ordinal}
+Vào {weekday} thứ {ordinal}
+Vào {weekday} thứ {ordinal} của {month}
+Vào {month} {day}
+Mẫu
+Các ngày trong tuần
+Thêm địa chỉ vào người nhận
+Thanh toán hàng loạt: {details}
+Không thể xuất các khoản thanh toán đã lên lịch: {error}
+Không thể lấy tỷ giá CoinGecko lúc 0:00 GMT cho '{label}' vào ngày {date}. Hãy nhập thủ công tỷ giá {unit}/{bitcoin_symbol}.
+Không thể đọc tệp nhập: {error}
+Xuất trạng thái các khoản thanh toán đã lên lịch
+Nhập trạng thái các khoản thanh toán đã lên lịch
+Đã nhập {payments} khoản thanh toán, {recipients} người nhận và {history} mục lịch sử.
+Tệp khoản thanh toán đã lên lịch không hợp lệ: {error}
+Tệp JSON (*.json);;Tất cả Tệp (*.*)
+Tỷ giá thủ công
+Thiếu tỷ giá cho khoản thanh toán đã lên lịch '{label}' bằng {unit}.
+Chỉ có thể chỉnh sửa các khoản thanh toán đã lên lịch chưa có khoản thanh toán hoàn tất.
+Lên kế hoạch cho các khoản thanh toán trong tương lai, quản lý người nhận định kỳ và nhanh chóng điền sẵn trình tạo giao dịch.
+Người nhận {recipient} không xác định
+Lịch
+Các khoản thanh toán đã lên lịch đến hạn
+Đã xuất các khoản thanh toán đã lên lịch tới {path}
+Các khoản thanh toán đã lên lịch được chọn không còn lần phát sinh nào.
+{recipient} không còn địa chỉ chưa dùng nào cho khoản thanh toán hàng loạt này. Hãy thêm nhiều địa chỉ hơn cho người nhận này, rồi thử tạo lại khoản thanh toán hàng loạt.
+Số tiền phải lớn hơn 0.
+Bản sao của {label}
+Ngày
+Kết thúc sau {count} khoản thanh toán
+Mỗi {interval} {unit}
+Mỗi {unit}
+Giờ
+Phút
+Tháng
+Đang diễn ra
+Vui lòng chọn hoặc tạo người nhận trước khi lên lịch.
+Vui lòng chọn một danh mục trước khi lên lịch.
+Người nhận: {name}
+Lưu Thay đổi
+Lịch
+Bắt đầu từ {date}
+Người nhận đã chọn không có địa chỉ khả dụng.
+Tuần
+Năm
+vào ngày {day}
+vào ngày thứ {ordinal}
+vào {weekday} thứ {ordinal}
+vào {weekday} thứ {ordinal} của {month}
+vào {days}
+vào {month} {day}
+Tạo người nhận mới
+Tạo người nhận
+Tiền tệ
+Nhập nhãn cho lịch
+Số cố định
+Quản lý người nhận
+Số lượng khoản thanh toán
+Số lần phát sinh
+Đang diễn ra
+Chỉ một lần
+Nguồn giá
+Người nhận
+Lặp lại mỗi
+Tổng đã lên lịch:
+Bắt đầu
+Tổng Số tiền
+coingecko 0:00 GMT
+trực tiếp
+Hai tuần một lần
+Hoàn tất
+Cứ 2 tuần mãi mãi
+Mỗi tháng
+Mỗi tháng trong 1 năm
+Tần suất
+Lưu ý:
+Một giao diện để lên kế hoạch cho các kịch bản khác nhau. Đây là một số ví dụ
+Lịch một lần
+Lập kế hoạch
+Người nhận phải có đủ địa chỉ chưa dùng cho các khoản thanh toán đã lên lịch mới.
+Lên lịch Khoản thanh toán mới
+Plugin thanh toán đã lên lịch Quản lý thanh toán hiệu quả, đầy tự tin.
+Plugin thanh toán đã lên lịch tích hợp liền mạch vào Bitcoin-Safe, cho phép bạn lên lịch các khoản thanh toán định kỳ, quản lý lịch thanh toán và kiểm soát việc sắp xếp thanh toán của mình.
+Lịch: 1
+Lịch: 12
+Lịch: ∞
+Ngày bắt đầu
+Nguồn tài trợ
+Tổng tài trợ:
+Hoàn tất
+Xóa
+Ngày đến hạn
+Nhân đôi Lịch
+Chỉnh sửa người nhận
+Tỷ giá cho khoản thanh toán tiếp theo
+Tần suất
+ID
+Không bao giờ
+Không có khoản thanh toán
+Chỉ một lần
+Các khoản thanh toán
+Người nhận
+Khoản thanh toán đã lên lịch
+Chọn tất cả các khoản thanh toán
+Ngày bắt đầu
+coingecko 0:00 GMT
+trực tiếp
+Giao dịch {index}.
+Xóa
+Xóa khoản thanh toán lịch?
+Vui lòng chọn ít nhất một khoản thanh toán đã lên lịch để xóa.
+Chọn ít nhất một khoản thanh toán đã lên lịch để điền sẵn trình tạo giao dịch.
+Tất cả
+Xuất Bản sao lưu Lịch
+Nhập Bản sao lưu Lịch
+Hiển thị Đã hoàn tất
+Hiển thị Người nhận
+Thêm
+Không thể xóa người nhận có các khoản thanh toán đã lên lịch đang hoạt động:
+Xóa
+Xóa các người nhận sau?
+Vui lòng chọn chính xác một người nhận để chỉnh sửa.
+Tên người nhận là bắt buộc.
+Chọn ít nhất một người nhận để xóa.
+Xóa
+ID
+Tên
+Thêm
+Tất cả trạng thái
+Hoàn tất
+Tùy chỉnh mục đã chọn
+Cố định
+Tương lai
+7 ngày tới
+Đang diễn ra
+Một lần
+Quá hạn
+Thanh toán hạn tiếp theo
+Thanh toán mục đã chọn
+Hôm nay
+{label} tại {exchange_rate}
+{number} trên {total} tới {label}
+{number}. của {label}
+khoản thanh toán {number}.
+Thêm
+Nhập mã ghép đôi 6 chữ số hiển thị trên Trezor:
+Nhập mã PIN bằng bố cục bàn phím Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Ghép đôi Trezor
+Mở khóa Trezor
+
+ca_ES
+
+{count} pagament venç avui a '{wallet_id}'.
+{count} pagaments vencen avui a '{wallet_id}'.
+Afegeix un pagament fora de banda
+Pagaments coberts
+Els pagaments coberts no poden superar les ocurrències obertes.
+Descripció del pagament
+Introdueix l’adreça de destinació
+En curs
+Informació opcional
+Referència de transacció opcional
+Si us plau, indica una quantitat.
+Si us plau, selecciona un pagament programat.
+Total restant
+Pagament programat
+Selecciona un pagament programat
+L’import en satoshis ha de cobrir tots els pagaments complerts.
+El pagament programat seleccionat no té ocurrències obertes.
+de 0 pagaments restants
+de pagaments en curs
+de {count} pagaments restants
+Afegeix fora de banda
+Ja existeix un pagament idèntic a l’historial.
+Suprimeix
+Pagaments
+Torna a escanejar
+Mostra la transacció
+Edita el destinatari
+Tipus de canvi
+Identificador
+Ves al pagament programat
+Índex d’ocurrència
+Destinatari
+ID del destinatari
+Programació
+ID de la programació
+Import objectiu
+Mostra la transacció
+Tot
+- 1 adreça per línia. - Assegura’t de tenir prou adreces segons els pagaments programats que vulguis crear per a aquests destinataris. - També pots enganxar una llista d’adreces signada amb PGP. - Les adreces mostrades en gris ja s’han utilitzat.
+Ja existeix un destinatari anomenat "{name}". Si us plau, tria un nom diferent.
+Afegeix detalls sobre el destinatari, com ara dades de contacte, adreça de correu electrònic, nom de Signal, ...
+Introdueix una adreça per línia, o enganxa un missatge PGP signat amb una adreça per línia
+Introdueix el nom del destinatari
+Nom
+Si us plau, indica un nom de destinatari.
+Si us plau, indica almenys una adreça per al destinatari.
+Destinatari
+Desa el destinatari
+Algunes adreces ja estan assignades a altres destinataris:
+Algunes adreces no són vàlides per a la xarxa actual:
+{name}: {addresses}
+El dia {day}
+El {ordinal} dia
+El {ordinal} {weekday}
+El {ordinal} {weekday} de {month}
+El {day} de {month}
+Patró
+Dies de la setmana
+Afegeix adreces al destinatari
+Pagament per lots: {details}
+No s’han pogut exportar els pagaments programats: {error}
+No s’ha pogut obtenir el tipus CoinGecko de les 0:00 GMT per a '{label}' el {date}. Introdueix manualment el tipus {unit}/{bitcoin_symbol}.
+No s’ha pogut llegir el fitxer d’importació: {error}
+Exporta l’estat dels pagaments programats
+Importa l’estat dels pagaments programats
+S’han importat {payments} pagaments, {recipients} destinataris i {history} entrades de l’historial.
+Fitxer de pagaments programats no vàlid: {error}
+Fitxers JSON (*.json);;Tots els fitxers (*.*)
+Tipus de canvi manual
+Falta el tipus de canvi per al pagament programat '{label}' en {unit}.
+Només es poden editar els pagaments programats sense pagaments completats.
+Planifica pagaments futurs, gestiona destinataris recurrents i omple ràpidament el creador de transaccions.
+Destinatari {recipient} desconegut
+Programació
+Pagaments programats pendents
+Pagaments programats exportats a {path}
+Els pagaments programats seleccionats no tenen ocurrències restants.
+{recipient} no té cap adreça sense usar per a aquest pagament per lots. Afegeix més adreces a aquest destinatari i torna a provar de crear el pagament per lots.
+L’import ha de ser superior a zero.
+Còpia de {label}
+Dia
+Acaba després de {count} pagaments
+Cada {interval} {unit}
+Cada {unit}
+Hores
+Minuts
+Mes
+En curs
+Si us plau, tria o crea un destinatari abans de programar.
+Si us plau, selecciona una categoria abans de programar.
+Destinatari: {name}
+Desa els canvis
+Programació
+A partir del {date}
+El destinatari seleccionat no té cap adreça disponible.
+Setmana
+Any
+el dia {day}
+el {ordinal} dia
+el {ordinal} {weekday}
+el {ordinal} {weekday} de {month}
+els {days}
+el {day} de {month}
+Crea un destinatari nou
+Crea un destinatari
+Moneda
+Introdueix una etiqueta per a la programació
+Nombre fix
+Gestiona els destinataris
+Nombre de pagaments
+Ocurrències
+En curs
+Només una vegada
+Font del preu
+Destinatari
+Repeteix cada
+Total programat:
+Inici
+Import total
+coingecko 0:00 GMT
+en directe
+Cada dues setmanes
+Fet
+Cada 2 setmanes per sempre
+Cada mes
+Cada mes durant 1 any
+Freqüència
+Nota:
+Una sola interfície per planificar diferents escenaris. Aquí tens alguns exemples
+Programació única
+Planifica
+Els destinataris han de tenir prou adreces sense usar per als nous pagaments programats.
+Programa un pagament nou
+Connector de pagaments programats Gestiona els pagaments de manera eficient, amb confiança.
+El connector de pagaments programats s’integra perfectament a Bitcoin-Safe i et permet programar pagaments recurrents, gestionar calendaris de pagament i tenir control sobre els teus acords de pagament.
+Programacions: 1
+Programacions: 12
+Programacions: ∞
+Data d’inici
+Font de finançament
+Total del finançament:
+Fet
+Suprimeix
+Data de venciment
+Duplica la programació
+Edita el destinatari
+Tipus de canvi del pròxim pagament
+Freqüència
+ID
+Mai
+Cap pagament
+Només una vegada
+Pagaments
+Destinatari
+Pagament programat
+Selecciona tots els pagaments
+Data d’inici
+coingecko 0:00 GMT
+en directe
+{index}. Tx
+Suprimeix
+Vols suprimir el pagament programat?
+Si us plau, selecciona almenys un pagament programat per suprimir.
+Selecciona almenys un pagament programat per preomplir el creador de transaccions.
+Tot
+Exporta una còpia de seguretat de la programació
+Importa una còpia de seguretat de la programació
+Mostra els completats
+Mostra els destinataris
+Afegeix
+No es poden suprimir destinataris amb pagaments programats actius:
+Suprimeix
+Vols suprimir els destinataris següents?
+Si us plau, selecciona exactament un destinatari per editar.
+El nom del destinatari és obligatori.
+Selecciona almenys un destinatari per suprimir.
+Suprimeix
+ID
+Nom
+Afegeix
+Tots els estats
+Fet
+Personalitza els seleccionats
+Fix
+Futur
+Pròxims 7 dies
+En curs
+Únic
+Vençut
+Paga el pròxim pendent
+Paga els seleccionats
+Avui
+{label} a {exchange_rate}
+{number} de {total} a {label}
+{number}. de {label}
+{number}. pagament
+Afegeix
+Introdueix el codi d’aparellament de 6 dígits que es mostra al Trezor:
+Introdueix el PIN utilitzant la disposició del teclat del Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Aparella el Trezor
+Desbloqueja el Trezor
+
+ar_AE
+
+يستحق {count} دفعة اليوم في '{wallet_id}'.
+تستحق {count} دفعات اليوم في '{wallet_id}'.
+إضافة دفعة خارج النطاق
+الدفعات المغطاة
+لا يمكن أن تتجاوز الدفعات المغطاة الحالات المفتوحة.
+وصف الدفعة
+أدخل عنوان الوجهة
+جارية
+معلومات اختيارية
+مرجع معاملة اختياري
+يرجى إدخال مبلغ.
+يرجى تحديد دفعة مجدولة.
+الإجمالي المتبقي
+دفعة مجدولة
+حدد دفعة مجدولة
+يجب أن يغطي المبلغ بالساتوشي جميع الدفعات المنجزة.
+الدفعة المجدولة المحددة ليس لها حالات مفتوحة.
+من أصل 0 دفعات متبقية
+من المدفوعات الجارية
+من أصل {count} دفعات متبقية
+إضافة خارج النطاق
+توجد دفعة مطابقة بالفعل في السجل.
+حذف
+الدفعات
+إعادة الفحص
+عرض المعاملة
+تحرير المستلم
+سعر الصرف
+المعرّف
+الانتقال إلى الدفعة المجدولة
+فهرس الحالة
+المستلم
+معرّف المستلم
+الجدول
+معرّف الجدول
+المبلغ المستهدف
+عرض المعاملة
+الكل
+- عنوان واحد في كل سطر. - تأكد من وجود عدد كافٍ من العناوين كما هو مطلوب للدفعات المجدولة التي تخطط لإنشائها لهؤلاء المستلمين. - يمكنك أيضاً لصق قائمة عناوين موقعة بـ PGP. - العناوين المعروضة باللون الرمادي تم استخدامها بالفعل.
+يوجد بالفعل مستلم باسم "{name}". يرجى اختيار اسم مختلف.
+أضف تفاصيل حول المستلم، مثل بيانات الاتصال أو عنوان البريد الإلكتروني أو اسم Signal، ...
+أدخل عنواناً واحداً في كل سطر، أو الصق رسالة PGP موقعة تحتوي على عنوان واحد في كل سطر
+أدخل اسم المستلم
+الاسم
+يرجى إدخال اسم للمستلم.
+يرجى تقديم عنوان واحد على الأقل للمستلم.
+المستلم
+حفظ المستلم
+بعض العناوين مخصصة بالفعل لمستلمين آخرين:
+بعض العناوين غير صالحة للشبكة الحالية:
+{name}: {addresses}
+في اليوم {day}
+في اليوم {ordinal}
+في {weekday} الـ {ordinal}
+في {weekday} الـ {ordinal} من {month}
+في {month} {day}
+النمط
+أيام الأسبوع
+إضافة عناوين في المستلم
+دفعة مجمعة: {details}
+تعذر تصدير الدفعات المجدولة: {error}
+تعذر جلب سعر CoinGecko عند 0:00 GMT لـ '{label}' بتاريخ {date}. أدخل يدوياً سعر {unit}/{bitcoin_symbol}.
+تعذر قراءة ملف الاستيراد: {error}
+تصدير حالة الدفعات المجدولة
+استيراد حالة الدفعات المجدولة
+تم استيراد {payments} دفعة و{recipients} مستلماً و{history} إدخالاً في السجل.
+ملف الدفعات المجدولة غير صالح: {error}
+ملفات JSON (*.json);;كل الملفات (*.*)
+سعر صرف يدوي
+سعر الصرف مفقود للدفعة المجدولة '{label}' في {unit}.
+يمكن فقط تحرير الدفعات المجدولة التي لا تحتوي على دفعات مكتملة.
+خطط للدفعات المستقبلية، وأدر المستلمين المتكررين، واملأ مُنشئ المعاملات بسرعة.
+المستلم {recipient} غير معروف
+الجدول
+الدفعات المجدولة المستحقة
+تم تصدير الدفعات المجدولة إلى {path}
+الدفعات المجدولة المحددة ليس لها حالات متبقية.
+ليس لدى {recipient} أي عناوين غير مستخدمة متبقية لهذه الدفعة المجمعة. أضف المزيد من العناوين لهذا المستلم، ثم حاول إنشاء الدفعة المجمعة مرة أخرى.
+يجب أن يكون المبلغ أكبر من صفر.
+نسخة من {label}
+يوم
+ينتهي بعد {count} دفعات
+كل {interval} {unit}
+كل {unit}
+ساعات
+دقائق
+شهر
+جارية
+يرجى اختيار أو إنشاء مستلم قبل الجدولة.
+يرجى تحديد فئة قبل الجدولة.
+المستلم: {name}
+حفظ التغييرات
+الجدول
+ابتداءً من {date}
+لا يحتوي المستلم المحدد على أي عناوين متاحة.
+أسبوع
+سنة
+في اليوم {day}
+في اليوم {ordinal}
+في {weekday} الـ {ordinal}
+في {weekday} الـ {ordinal} من {month}
+في {days}
+في {month} {day}
+إنشاء مستلم جديد
+إنشاء مستلم
+العملة
+أدخل تسمية للجدول
+عدد ثابت
+إدارة المستلمين
+عدد الدفعات
+الحالات
+جارية
+مرة واحدة فقط
+مصدر السعر
+المستلم
+كرّر كل
+الإجمالي المجدول:
+البداية
+المبلغ الإجمالي
+coingecko 0:00 GMT
+مباشر
+كل أسبوعين
+مكتمل
+كل أسبوعين إلى الأبد
+كل شهر
+كل شهر لمدة سنة واحدة
+التكرار
+ملاحظة:
+واجهة واحدة لتخطيط سيناريوهات مختلفة. إليك بعض الأمثلة
+جدول لمرة واحدة
+خطط
+يجب أن يكون لدى المستلمين عدد كافٍ من العناوين غير المستخدمة للدفعات المجدولة الجديدة.
+جدولة دفعة جديدة
+إضافة الدفعات المجدولة أدر الدفعات بكفاءة وبثقة.
+تتكامل إضافة الدفعات المجدولة بسلاسة مع Bitcoin-Safe، مما يتيح لك جدولة الدفعات المتكررة، وإدارة جداول الدفع، والتحكم في ترتيبات الدفع الخاصة بك.
+الجداول: 1
+الجداول: 12
+الجداول: ∞
+تاريخ البدء
+مصدر التمويل
+إجمالي التمويل:
+مكتمل
+حذف
+تاريخ الاستحقاق
+تكرار الجدول
+تحرير المستلم
+سعر الصرف للدفعة التالية
+التكرار
+المعرّف
+أبداً
+لا توجد دفعات
+مرة واحدة فقط
+الدفعات
+المستلم
+دفعة مجدولة
+تحديد كل الدفعات
+تاريخ البدء
+coingecko 0:00 GMT
+مباشر
+{index}. معاملة
+حذف
+هل تريد حذف دفعة الجدول؟
+يرجى تحديد دفعة مجدولة واحدة على الأقل لحذفها.
+حدد دفعة مجدولة واحدة على الأقل لملء مُنشئ المعاملات مسبقاً.
+الكل
+تصدير نسخة احتياطية للجدول
+استيراد نسخة احتياطية للجدول
+إظهار المكتمل
+إظهار المستلمين
+إضافة
+لا يمكن حذف المستلمين الذين لديهم دفعات مجدولة نشطة:
+حذف
+هل تريد حذف المستلمين التاليين؟
+يرجى تحديد مستلم واحد بالضبط لتحريره.
+اسم المستلم مطلوب.
+حدد مستلماً واحداً على الأقل لحذفه.
+حذف
+المعرّف
+الاسم
+إضافة
+كل الحالات
+مكتمل
+تخصيص المحدد
+ثابت
+مستقبلي
+الأيام السبعة القادمة
+جارية
+مرة واحدة
+متأخر
+ادفع الاستحقاق التالي
+ادفع المحدد
+اليوم
+{label} عند {exchange_rate}
+{number} من {total} إلى {label}
+{number}. من {label}
+الدفعة {number}.
+إضافة
+أدخل رمز الاقتران المكوّن من 6 أرقام الظاهر على Trezor:
+أدخل PIN باستخدام تخطيط لوحة مفاتيح Trezor ‏(7 8 9 / 4 5 6 / 1 2 3):
+إقران Trezor
+إلغاء قفل Trezor
+
+th_TH
+
+มีการจ่ายเงิน {count} รายการครบกำหนดวันนี้ใน '{wallet_id}'
+มีการจ่ายเงิน {count} รายการครบกำหนดวันนี้ใน '{wallet_id}'
+เพิ่มการจ่ายเงินนอกแบนด์
+การจ่ายเงินที่ครอบคลุมแล้ว
+การจ่ายเงินที่ครอบคลุมแล้วต้องไม่เกินจำนวนครั้งที่ยังเปิดอยู่
+คำอธิบายของการจ่ายเงิน
+ป้อนที่อยู่ปลายทาง
+กำลังดำเนินการ
+ข้อมูลเพิ่มเติมที่ไม่บังคับ
+ข้อมูลอ้างอิงธุรกรรมที่ไม่บังคับ
+โปรดระบุจำนวนเงิน
+โปรดเลือกการชำระเงินตามกำหนดเวลา
+ยอดคงเหลือที่เหลืออยู่
+การชำระเงินตามกำหนดเวลา
+เลือกการชำระเงินตามกำหนดเวลา
+จำนวนเงินเป็นซาโตชิต้องครอบคลุมการจ่ายเงินที่ทำสำเร็จทั้งหมด
+การชำระเงินตามกำหนดเวลาที่เลือกไม่มีครั้งที่ยังเปิดอยู่
+จากการจ่ายเงินคงเหลือ 0 รายการ
+จากการชำระเงินที่กำลังดำเนินการ
+จากการจ่ายเงินคงเหลือ {count} รายการ
+เพิ่มนอกแบนด์
+มีการชำระเงินที่เหมือนกันอยู่ในประวัติแล้ว
+ลบ
+การจ่ายเงิน
+สแกนใหม่
+ดูธุรกรรม
+แก้ไขผู้รับ
+อัตราแลกเปลี่ยน
+ตัวระบุ
+ไปที่การชำระเงินตามกำหนดเวลา
+ดัชนีครั้งที่เกิดขึ้น
+ผู้รับ
+รหัสผู้รับ
+กำหนดการ
+รหัสกำหนดการ
+จำนวนเงินเป้าหมาย
+ดูธุรกรรม
+ทั้งหมด
+- 1 ที่อยู่ต่อ 1 บรรทัด - ตรวจสอบให้แน่ใจว่ามีที่อยู่เพียงพอตามจำนวนการชำระเงินตามกำหนดเวลาที่คุณวางแผนจะสร้างให้ผู้รับเหล่านี้ - คุณยังสามารถวางรายการที่อยู่ที่ลงนามด้วย PGP ได้ - ที่อยู่ที่แสดงเป็นสีเทาถูกใช้งานไปแล้ว
+มีผู้รับชื่อ "{name}" อยู่แล้ว โปรดเลือกชื่ออื่น
+เพิ่มรายละเอียดเกี่ยวกับผู้รับ เช่น ข้อมูลติดต่อ ที่อยู่อีเมล ชื่อ Signal ...
+ป้อนหนึ่งที่อยู่ต่อหนึ่งบรรทัด หรือวางข้อความ PGP ที่ลงนามแล้วซึ่งมีหนึ่งที่อยู่ต่อหนึ่งบรรทัด
+ป้อนชื่อผู้รับ
+ชื่อ
+โปรดระบุชื่อผู้รับ
+โปรดระบุที่อยู่อย่างน้อยหนึ่งรายการสำหรับผู้รับ
+ผู้รับ
+บันทึกผู้รับ
+บางที่อยู่ถูกกำหนดให้ผู้รับคนอื่นแล้ว:
+บางที่อยู่ไม่ถูกต้องสำหรับเครือข่ายปัจจุบัน:
+{name}: {addresses}
+ในวันที่ {day}
+ในวันที่ {ordinal}
+ใน {weekday} ลำดับที่ {ordinal}
+ใน {weekday} ลำดับที่ {ordinal} ของ {month}
+ในวันที่ {day} {month}
+รูปแบบ
+วันในสัปดาห์
+เพิ่มที่อยู่ในผู้รับ
+การจ่ายเงินแบบกลุ่ม: {details}
+ไม่สามารถส่งออกการชำระเงินตามกำหนดเวลาได้: {error}
+ไม่สามารถดึงอัตรา CoinGecko เวลา 0:00 GMT สำหรับ '{label}' ในวันที่ {date} ได้ โปรดป้อนอัตรา {unit}/{bitcoin_symbol} ด้วยตนเอง
+ไม่สามารถอ่านไฟล์นำเข้าได้: {error}
+ส่งออกสถานะการชำระเงินตามกำหนดเวลา
+นำเข้าสถานะการชำระเงินตามกำหนดเวลา
+นำเข้าแล้ว {payments} การชำระเงิน, {recipients} ผู้รับ และ {history} รายการประวัติ
+ไฟล์การชำระเงินตามกำหนดเวลาไม่ถูกต้อง: {error}
+ไฟล์ JSON (*.json);;ไฟล์ทั้งหมด (*.*)
+อัตราแลกเปลี่ยนแบบกำหนดเอง
+ไม่มีอัตราแลกเปลี่ยนสำหรับการชำระเงินตามกำหนดเวลา '{label}' ใน {unit}
+สามารถแก้ไขได้เฉพาะการชำระเงินตามกำหนดเวลาที่ยังไม่มีการชำระเงินที่เสร็จสิ้น
+วางแผนการชำระเงินในอนาคต จัดการผู้รับแบบเกิดซ้ำ และเติมข้อมูลในตัวสร้างธุรกรรมได้อย่างรวดเร็ว
+ไม่รู้จักผู้รับ {recipient}
+กำหนดการ
+การชำระเงินตามกำหนดเวลาที่ครบกำหนด
+ส่งออกการชำระเงินตามกำหนดเวลาไปยัง {path} แล้ว
+การชำระเงินตามกำหนดเวลาที่เลือกไม่มีครั้งที่เหลืออยู่
+{recipient} ไม่มีที่อยู่ที่ยังไม่ได้ใช้เหลืออยู่สำหรับการจ่ายเงินแบบกลุ่มนี้ เพิ่มที่อยู่ให้ผู้รับรายนี้ แล้วลองสร้างการจ่ายเงินแบบกลุ่มอีกครั้ง
+จำนวนเงินต้องมากกว่าศูนย์
+สำเนาของ {label}
+วัน
+สิ้นสุดหลังจาก {count} การชำระเงิน
+ทุก {interval} {unit}
+ทุก {unit}
+ชั่วโมง
+นาที
+เดือน
+กำลังดำเนินการ
+โปรดเลือกหรือสร้างผู้รับก่อนกำหนดเวลา
+โปรดเลือกหมวดหมู่ก่อนกำหนดเวลา
+ผู้รับ: {name}
+บันทึกการเปลี่ยนแปลง
+กำหนดการ
+เริ่มในวันที่ {date}
+ผู้รับที่เลือกไม่มีที่อยู่ที่พร้อมใช้งาน
+สัปดาห์
+ปี
+ในวันที่ {day}
+ในวันที่ {ordinal}
+ใน {weekday} ลำดับที่ {ordinal}
+ใน {weekday} ลำดับที่ {ordinal} ของ {month}
+ใน {days}
+ในวันที่ {day} {month}
+สร้างผู้รับใหม่
+สร้างผู้รับ
+สกุลเงิน
+ป้อนป้ายกำกับสำหรับกำหนดการ
+จำนวนคงที่
+จัดการผู้รับ
+จำนวนการชำระเงิน
+จำนวนครั้งที่เกิดขึ้น
+กำลังดำเนินการ
+ครั้งเดียวเท่านั้น
+แหล่งที่มาของราคา
+ผู้รับ
+ทำซ้ำทุก
+ยอดรวมตามกำหนด:
+เริ่มต้น
+จำนวนเงินรวม
+coingecko 0:00 GMT
+สด
+ทุกสองสัปดาห์
+เสร็จสิ้น
+ทุก 2 สัปดาห์ตลอดไป
+ทุกเดือน
+ทุกเดือนเป็นเวลา 1 ปี
+ความถี่
+หมายเหตุ:
+UI เดียวสำหรับวางแผนสถานการณ์ต่าง ๆ นี่คือตัวอย่างบางส่วน
+กำหนดการแบบครั้งเดียว
+วางแผน
+ผู้รับต้องมีที่อยู่ที่ยังไม่ได้ใช้เพียงพอสำหรับการชำระเงินตามกำหนดเวลาใหม่
+กำหนดการชำระเงินใหม่
+ปลั๊กอินการชำระเงินตามกำหนดเวลา จัดการการชำระเงินได้อย่างมีประสิทธิภาพและมั่นใจ
+ปลั๊กอินการชำระเงินตามกำหนดเวลาผสานรวมเข้ากับ Bitcoin-Safe ได้อย่างราบรื่น ช่วยให้คุณกำหนดเวลาการชำระเงินแบบเกิดซ้ำ จัดการตารางการชำระเงิน และควบคุมการจัดการการชำระเงินของคุณได้
+กำหนดการ: 1
+กำหนดการ: 12
+กำหนดการ: ∞
+วันที่เริ่มต้น
+แหล่งเงินทุน
+ยอดเงินทุนรวม:
+เสร็จสิ้น
+ลบ
+วันครบกำหนด
+ทำสำเนากำหนดการ
+แก้ไขผู้รับ
+อัตราแลกเปลี่ยนสำหรับการชำระเงินครั้งถัดไป
+ความถี่
+รหัส
+ไม่เลย
+ไม่มีการจ่ายเงิน
+ครั้งเดียวเท่านั้น
+การจ่ายเงิน
+ผู้รับ
+การชำระเงินตามกำหนดเวลา
+เลือกการจ่ายเงินทั้งหมด
+วันที่เริ่มต้น
+coingecko 0:00 GMT
+สด
+ธุรกรรม {index}.
+ลบ
+ลบการชำระเงินตามกำหนดเวลาหรือไม่?
+โปรดเลือกการชำระเงินตามกำหนดเวลาอย่างน้อยหนึ่งรายการเพื่อลบ
+เลือกการชำระเงินตามกำหนดเวลาอย่างน้อยหนึ่งรายการเพื่อกรอกข้อมูลล่วงหน้าในตัวสร้างธุรกรรม
+ทั้งหมด
+ส่งออกข้อมูลสำรองกำหนดการ
+นำเข้าข้อมูลสำรองกำหนดการ
+แสดงรายการที่เสร็จสิ้น
+แสดงผู้รับ
+เพิ่ม
+ไม่สามารถลบผู้รับที่มีการชำระเงินตามกำหนดเวลาที่ยังใช้งานอยู่ได้:
+ลบ
+ลบผู้รับต่อไปนี้หรือไม่?
+โปรดเลือกผู้รับเพียงหนึ่งรายเพื่อแก้ไข
+ต้องระบุชื่อผู้รับ
+เลือกผู้รับอย่างน้อยหนึ่งรายเพื่อลบ
+ลบ
+รหัส
+ชื่อ
+เพิ่ม
+ทุกสถานะ
+เสร็จสิ้น
+ปรับแต่งรายการที่เลือก
+คงที่
+อนาคต
+7 วันถัดไป
+กำลังดำเนินการ
+ครั้งเดียว
+เกินกำหนด
+ชำระรายการที่ครบกำหนดถัดไป
+ชำระรายการที่เลือก
+วันนี้
+{label} ที่ {exchange_rate}
+{number} จาก {total} ถึง {label}
+{number}. ของ {label}
+การจ่ายเงิน {number}.
+เพิ่ม
+ป้อนรหัสจับคู่ 6 หลักที่แสดงบน Trezor:
+ป้อน PIN โดยใช้ผังปุ่มกดของ Trezor (7 8 9 / 4 5 6 / 1 2 3):
+จับคู่ Trezor
+ปลดล็อก Trezor
+
+zh_CN
+
+'{wallet_id}' 中今天有 {count} 笔付款到期。
+'{wallet_id}' 中今天有 {count} 笔付款到期。
+添加带外付款
+已覆盖付款
+已覆盖付款不能超过未结发生次数。
+付款说明
+输入目标地址
+进行中
+可选信息
+可选交易参考
+请输入金额。
+请选择一个计划付款。
+剩余总额
+计划付款
+选择一个计划付款
+以聪为单位的金额必须覆盖所有已完成的付款。
+所选计划付款没有未结发生项。
+共 0 笔剩余付款中的
+进行中的付款中的
+共 {count} 笔剩余付款中的
+添加带外项
+历史记录中已存在一笔相同的付款。
+删除
+付款
+重新扫描
+查看交易
+编辑收款人
+汇率
+标识符
+跳转到计划付款
+发生索引
+收款人
+收款人 ID
+计划
+计划 ID
+目标金额
+查看交易
+全部
+- 每行 1 个地址。- 请确保有足够的地址，以满足你计划为这些收款人创建的计划付款。- 你也可以粘贴一份 PGP 签名的地址列表。- 以灰色显示的地址已被使用。
+名为 "{name}" 的收款人已存在。请选择其他名称。
+添加关于收款人的详细信息，例如联系方式、电子邮件地址、Signal 名称等...
+每行输入一个地址，或粘贴一条每行一个地址的已签名 PGP 消息
+输入收款人名称
+名称
+请输入收款人名称。
+请至少为收款人提供一个地址。
+收款人
+保存收款人
+某些地址已分配给其他收款人：
+某些地址对当前网络无效：
+{name}: {addresses}
+在每月的第 {day} 天
+在第 {ordinal} 天
+在第 {ordinal} 个 {weekday}
+在 {month} 的第 {ordinal} 个 {weekday}
+在 {month}{day}日
+模式
+工作日
+在收款人中添加地址
+批量付款：{details}
+无法导出计划付款：{error}
+无法获取 '{label}' 在 {date} 的 CoinGecko 0:00 GMT 汇率。请手动输入 {unit}/{bitcoin_symbol} 汇率。
+无法读取导入文件：{error}
+导出计划付款状态
+导入计划付款状态
+已导入 {payments} 笔付款、{recipients} 个收款人和 {history} 条历史记录。
+无效的计划付款文件：{error}
+JSON 文件 (*.json);;所有文件 (*.*)
+手动汇率
+计划付款 '{label}' 缺少 {unit} 汇率。
+只有未包含已完成付款的计划付款才能编辑。
+规划未来付款、管理重复收款人，并快速预填交易创建器。
+收款人 {recipient} 未知
+计划
+到期的计划付款
+计划付款已导出到 {path}
+所选计划付款没有剩余发生项。
+{recipient} 没有可用于此批量付款的未使用地址了。请为该收款人添加更多地址，然后再次尝试创建批量付款。
+金额必须大于零。
+{label} 的副本
+天
+在 {count} 笔付款后结束
+每 {interval} 个 {unit}
+每 {unit}
+小时
+分钟
+月
+进行中
+请先选择或创建收款人，再进行计划。
+请先选择一个类别，再进行计划。
+收款人：{name}
+保存更改
+计划
+从 {date} 开始
+所选收款人没有可用地址。
+周
+年
+在每月的第 {day} 天
+在第 {ordinal} 天
+在第 {ordinal} 个 {weekday}
+在 {month} 的第 {ordinal} 个 {weekday}
+在 {days}
+在 {month}{day}日
+创建新收款人
+创建收款人
+货币
+输入计划标签
+固定数量
+管理收款人
+付款次数
+发生次数
+进行中
+仅一次
+价格来源
+收款人
+重复间隔
+计划总额：
+开始
+总金额
+coingecko 0:00 GMT
+实时
+每两周一次
+已完成
+永久每 2 周一次
+每月
+每月持续 1 年
+频率
+注意：
+一个界面即可规划不同场景。以下是一些示例
+一次性计划
+规划
+收款人必须有足够的未使用地址用于新的计划付款。
+安排新付款
+计划付款插件 高效且自信地管理付款。
+计划付款插件可无缝集成到 Bitcoin-Safe 中，使你能够安排重复付款、管理付款计划，并掌控你的付款安排。
+计划数：1
+计划数：12
+计划数：∞
+开始日期
+资金来源
+资金总额：
+已完成
+删除
+到期日
+复制计划
+编辑收款人
+下次付款的汇率
+频率
+ID
+从不
+无付款
+仅一次
+付款
+收款人
+计划付款
+选择所有付款
+开始日期
+coingecko 0:00 GMT
+实时
+{index}. 交易
+删除
+删除该计划付款？
+请至少选择一个计划付款进行删除。
+请至少选择一个计划付款以预填交易创建器。
+全部
+导出计划备份
+导入计划备份
+显示已完成
+显示收款人
+添加
+无法删除具有活动计划付款的收款人：
+删除
+删除以下收款人？
+请仅选择一个收款人进行编辑。
+收款人名称为必填项。
+请至少选择一个收款人进行删除。
+删除
+ID
+名称
+添加
+所有状态
+已完成
+自定义所选项
+固定
+未来
+未来 7 天
+进行中
+一次性
+逾期
+支付下一个到期项
+支付所选项
+今天
+{label}，汇率为 {exchange_rate}
+{label} 的 {total} 笔中第 {number} 笔
+{label} 的第 {number} 笔
+第 {number} 笔付款
+添加
+输入 Trezor 上显示的 6 位配对代码：
+按照 Trezor 键盘布局输入 PIN（7 8 9 / 4 5 6 / 1 2 3）：
+配对 Trezor
+解锁 Trezor
+
+hi_IN
+
+'{wallet_id}' में आज {count} भुगतान देय है।
+'{wallet_id}' में आज {count} भुगतान देय हैं।
+आउट-ऑफ-बैंड भुगतान जोड़ें
+कवर्ड भुगतान
+कवर्ड भुगतान खुले occurrences से अधिक नहीं हो सकते।
+भुगतान का विवरण
+गंतव्य पता दर्ज करें
+चालू
+वैकल्पिक जानकारी
+वैकल्पिक लेनदेन संदर्भ
+कृपया एक राशि दें।
+कृपया एक निर्धारित भुगतान चुनें।
+शेष कुल
+निर्धारित भुगतान
+एक निर्धारित भुगतान चुनें
+सतोशी में राशि को सभी पूर्ण किए गए भुगतानों को कवर करना चाहिए।
+चयनित निर्धारित भुगतान में कोई खुली occurrence नहीं है।
+0 शेष भुगतानों में से
+चालू भुगतानों में से
+{count} शेष भुगतानों में से
+आउट-ऑफ-बैंड जोड़ें
+इतिहास में एक समान भुगतान पहले से मौजूद है।
+हटाएँ
+भुगतान
+पुनः स्कैन करें
+लेनदेन देखें
+प्राप्तकर्ता संपादित करें
+विनिमय दर
+पहचानकर्ता
+निर्धारित भुगतान पर जाएँ
+Occurrence index
+प्राप्तकर्ता
+प्राप्तकर्ता आईडी
+अनुसूची
+अनुसूची आईडी
+लक्षित राशि
+लेनदेन देखें
+सभी
+- प्रति पंक्ति 1 पता। - सुनिश्चित करें कि जिन प्राप्तकर्ताओं के लिए आप निर्धारित भुगतान बनाना चाहते हैं, उनके लिए आवश्यकतानुसार पर्याप्त पते हों। - आप एक PGP हस्ताक्षरित पता सूची भी चिपका सकते हैं। - धूसर रंग में दिखाए गए पते पहले ही उपयोग किए जा चुके हैं।
+"{name}" नाम का एक प्राप्तकर्ता पहले से मौजूद है। कृपया अलग नाम चुनें।
+प्राप्तकर्ता के बारे में विवरण जोड़ें। जैसे संपर्क विवरण, ईमेल पता, Signal नाम, ...
+प्रति पंक्ति एक पता दर्ज करें, या प्रति पंक्ति एक पते वाला हस्ताक्षरित PGP संदेश चिपकाएँ
+प्राप्तकर्ता का नाम दर्ज करें
+नाम
+कृपया प्राप्तकर्ता का नाम दें।
+कृपया प्राप्तकर्ता के लिए कम से कम एक पता दें।
+प्राप्तकर्ता
+प्राप्तकर्ता सहेजें
+कुछ पते पहले से अन्य प्राप्तकर्ताओं को सौंपे गए हैं:
+कुछ पते वर्तमान नेटवर्क के लिए अमान्य हैं:
+{name}: {addresses}
+दिन {day} को
+{ordinal}वें दिन
+{ordinal}वें {weekday} को
+{month} के {ordinal}वें {weekday} को
+{month} {day} को
+पैटर्न
+कार्यदिवस
+प्राप्तकर्ता में पते जोड़ें
+बैच भुगतान: {details}
+निर्धारित भुगतान निर्यात नहीं किए जा सके: {error}
+{date} को '{label}' के लिए CoinGecko 0:00 GMT दर प्राप्त नहीं की जा सकी। कृपया {unit}/{bitcoin_symbol} दर मैन्युअल रूप से दर्ज करें।
+आयात फ़ाइल पढ़ी नहीं जा सकी: {error}
+निर्धारित भुगतानों की स्थिति निर्यात करें
+निर्धारित भुगतानों की स्थिति आयात करें
+{payments} भुगतान, {recipients} प्राप्तकर्ता और {history} इतिहास प्रविष्टियाँ आयात की गईं।
+अमान्य निर्धारित भुगतान फ़ाइल: {error}
+JSON फ़ाइलें (*.json);;सभी फ़ाइलें (*.*)
+मैन्युअल विनिमय दर
+निर्धारित भुगतान '{label}' के लिए {unit} में विनिमय दर अनुपलब्ध है।
+केवल वे निर्धारित भुगतान संपादित किए जा सकते हैं जिनमें कोई पूर्ण भुगतान नहीं है।
+भविष्य के भुगतानों की योजना बनाएँ, आवर्ती प्राप्तकर्ताओं का प्रबंधन करें, और लेनदेन निर्माता को जल्दी से प्रीफिल करें।
+प्राप्तकर्ता {recipient} अज्ञात है
+अनुसूची
+देय निर्धारित भुगतान
+निर्धारित भुगतान {path} पर निर्यात किए गए
+चयनित निर्धारित भुगतानों में कोई शेष occurrence नहीं है।
+{recipient} के पास इस बैच भुगतान के लिए कोई अप्रयुक्त पता नहीं बचा है। इस प्राप्तकर्ता में और पते जोड़ें, फिर बैच भुगतान बनाने का पुनः प्रयास करें।
+राशि शून्य से अधिक होनी चाहिए।
+{label} की प्रति
+दिन
+{count} भुगतानों के बाद समाप्त
+हर {interval} {unit}
+हर {unit}
+घंटे
+मिनट
+माह
+चालू
+अनुसूची बनाने से पहले कृपया एक प्राप्तकर्ता चुनें या बनाएँ।
+अनुसूची बनाने से पहले कृपया एक श्रेणी चुनें।
+प्राप्तकर्ता: {name}
+परिवर्तन सहेजें
+अनुसूची
+{date} से शुरू
+चयनित प्राप्तकर्ता के पास कोई उपलब्ध पता नहीं है।
+सप्ताह
+वर्ष
+दिन {day} को
+{ordinal}वें दिन
+{ordinal}वें {weekday} को
+{month} के {ordinal}वें {weekday} को
+{days} को
+{month} {day} को
+नया प्राप्तकर्ता बनाएँ
+प्राप्तकर्ता बनाएँ
+मुद्रा
+अनुसूची के लिए लेबल दर्ज करें
+स्थिर संख्या
+प्राप्तकर्ताओं का प्रबंधन करें
+भुगतानों की संख्या
+Occurrences
+चालू
+केवल एक बार
+मूल्य स्रोत
+प्राप्तकर्ता
+हर बार दोहराएँ
+निर्धारित कुल:
+प्रारंभ
+कुल राशि
+coingecko 0:00 GMT
+लाइव
+द्वि-साप्ताहिक
+पूर्ण
+हर 2 सप्ताह हमेशा के लिए
+हर महीने
+1 वर्ष तक हर महीने
+आवृत्ति
+नोट:
+विभिन्न परिदृश्यों की योजना बनाने के लिए एक ही UI। यहाँ कुछ उदाहरण हैं
+एकमुश्त अनुसूची
+योजना बनाएँ
+नई निर्धारित भुगतानों के लिए प्राप्तकर्ताओं के पास पर्याप्त अप्रयुक्त पते होने चाहिए।
+नया भुगतान अनुसूचित करें
+निर्धारित भुगतान प्लगइन भुगतानों को कुशलतापूर्वक और आत्मविश्वास के साथ प्रबंधित करें।
+निर्धारित भुगतान प्लगइन Bitcoin-Safe में सहजता से एकीकृत होता है, जिससे आप आवर्ती भुगतान निर्धारित कर सकते हैं, भुगतान अनुसूचियों का प्रबंधन कर सकते हैं और अपनी भुगतान व्यवस्थाओं पर नियंत्रण पा सकते हैं।
+अनुसूचियाँ: 1
+अनुसूचियाँ: 12
+अनुसूचियाँ: ∞
+प्रारंभ तिथि
+फंडिंग स्रोत
+फंडिंग कुल:
+पूर्ण
+हटाएँ
+देय तिथि
+अनुसूची की प्रतिलिपि बनाएँ
+प्राप्तकर्ता संपादित करें
+अगले भुगतान के लिए विनिमय दर
+आवृत्ति
+आईडी
+कभी नहीं
+कोई भुगतान नहीं
+केवल एक बार
+भुगतान
+प्राप्तकर्ता
+निर्धारित भुगतान
+सभी भुगतानों का चयन करें
+प्रारंभ तिथि
+coingecko 0:00 GMT
+लाइव
+{index}. Tx
+हटाएँ
+क्या अनुसूचित भुगतान हटाएँ?
+कृपया हटाने के लिए कम से कम एक निर्धारित भुगतान चुनें।
+लेनदेन निर्माता को प्रीफिल करने के लिए कम से कम एक निर्धारित भुगतान चुनें।
+सभी
+अनुसूची बैकअप निर्यात करें
+अनुसूची बैकअप आयात करें
+पूर्ण दिखाएँ
+प्राप्तकर्ता दिखाएँ
+जोड़ें
+सक्रिय निर्धारित भुगतानों वाले प्राप्तकर्ताओं को हटाया नहीं जा सकता:
+हटाएँ
+निम्नलिखित प्राप्तकर्ताओं को हटाएँ?
+कृपया संपादन के लिए ठीक एक प्राप्तकर्ता चुनें।
+प्राप्तकर्ता नाम आवश्यक है।
+हटाने के लिए कम से कम एक प्राप्तकर्ता चुनें।
+हटाएँ
+आईडी
+नाम
+जोड़ें
+सभी स्थितियाँ
+पूर्ण
+चयनित को अनुकूलित करें
+स्थिर
+भविष्य
+अगले 7 दिन
+चालू
+एकमुश्त
+अतिदेय
+अगला देय भुगतान करें
+चयनित का भुगतान करें
+आज
+{label} पर {exchange_rate}
+{total} में से {number} से {label}
+{label} का {number}.
+{number}. भुगतान
+जोड़ें
+Trezor पर दिखाया गया 6-अंकीय pairing code दर्ज करें:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) का उपयोग करके PIN दर्ज करें:
+Trezor पेयर करें
+Trezor अनलॉक करें
+
+bn_BD
+
+আজ '{wallet_id}'-এ {count}টি পেআউট নির্ধারিত।
+আজ '{wallet_id}'-এ {count}টি পেআউট নির্ধারিত।
+আউট-অফ-ব্যান্ড পেআউট যোগ করুন
+কভারকৃত পেআউট
+কভারকৃত পেআউট খোলা occurrence-এর সংখ্যাকে অতিক্রম করতে পারবে না।
+পেআউটের বিবরণ
+গন্তব্য ঠিকানা লিখুন
+চলমান
+ঐচ্ছিক তথ্য
+ঐচ্ছিক লেনদেন রেফারেন্স
+অনুগ্রহ করে একটি পরিমাণ দিন।
+অনুগ্রহ করে একটি নির্ধারিত পেমেন্ট নির্বাচন করুন।
+অবশিষ্ট মোট
+নির্ধারিত পেমেন্ট
+একটি নির্ধারিত পেমেন্ট নির্বাচন করুন
+স্যাটশিতে পরিমাণটি অবশ্যই সব পূরণকৃত পেআউট কভার করতে হবে।
+নির্বাচিত নির্ধারিত পেমেন্টে কোনো খোলা occurrence নেই।
+০টি অবশিষ্ট পেআউটের মধ্যে
+চলমান পেমেন্টগুলোর মধ্যে
+{count}টি অবশিষ্ট পেআউটের মধ্যে
+আউট-অফ-ব্যান্ড যোগ করুন
+ইতিহাসে একই ধরনের একটি পেমেন্ট ইতোমধ্যেই আছে।
+মুছুন
+পেআউটসমূহ
+পুনরায় স্ক্যান করুন
+লেনদেন দেখুন
+প্রাপক সম্পাদনা করুন
+বিনিময় হার
+শনাক্তকারী
+নির্ধারিত পেমেন্টে যান
+Occurrence index
+প্রাপক
+প্রাপক আইডি
+সময়সূচি
+সময়সূচি আইডি
+লক্ষ্য পরিমাণ
+লেনদেন দেখুন
+সব
+- প্রতি লাইনে ১টি ঠিকানা। - এই প্রাপকদের জন্য আপনি যে নির্ধারিত পেমেন্টগুলো তৈরি করতে চান, তার জন্য প্রয়োজনমতো পর্যাপ্ত ঠিকানা আছে কি না নিশ্চিত করুন। - আপনি একটি PGP-স্বাক্ষরিত ঠিকানার তালিকাও পেস্ট করতে পারেন। - ধূসর রঙে দেখানো ঠিকানাগুলো ইতোমধ্যেই ব্যবহৃত হয়েছে।
+"{name}" নামে একটি প্রাপক ইতোমধ্যেই আছে। অনুগ্রহ করে অন্য নাম বেছে নিন।
+প্রাপক সম্পর্কে বিস্তারিত যোগ করুন। যেমন যোগাযোগের তথ্য, ইমেইল ঠিকানা, Signal নাম, ...
+প্রতি লাইনে একটি ঠিকানা লিখুন, অথবা প্রতি লাইনে একটি ঠিকানা সহ একটি স্বাক্ষরিত PGP বার্তা পেস্ট করুন
+প্রাপকের নাম লিখুন
+নাম
+অনুগ্রহ করে একটি প্রাপকের নাম দিন।
+অনুগ্রহ করে প্রাপকের জন্য অন্তত একটি ঠিকানা দিন।
+প্রাপক
+প্রাপক সংরক্ষণ করুন
+কিছু ঠিকানা ইতোমধ্যেই অন্য প্রাপকদের জন্য বরাদ্দ করা হয়েছে:
+কিছু ঠিকানা বর্তমান নেটওয়ার্কের জন্য অবৈধ:
+{name}: {addresses}
+দিন {day}-এ
+{ordinal}তম দিনে
+{ordinal}তম {weekday}-এ
+{month}-এর {ordinal}তম {weekday}-এ
+{month} {day}-এ
+প্যাটার্ন
+সপ্তাহের দিনগুলো
+প্রাপকের মধ্যে ঠিকানা যোগ করুন
+ব্যাচ পেআউট: {details}
+নির্ধারিত পেমেন্ট রপ্তানি করা যায়নি: {error}
+{date} তারিখে '{label}'-এর জন্য CoinGecko 0:00 GMT হার আনা যায়নি। অনুগ্রহ করে {unit}/{bitcoin_symbol} হারটি ম্যানুয়ালি লিখুন।
+ইমপোর্ট ফাইল পড়া যায়নি: {error}
+নির্ধারিত পেমেন্টের অবস্থা রপ্তানি করুন
+নির্ধারিত পেমেন্টের অবস্থা আমদানি করুন
+{payments}টি পেমেন্ট, {recipients} জন প্রাপক, এবং {history}টি ইতিহাস এন্ট্রি আমদানি করা হয়েছে।
+অবৈধ নির্ধারিত পেমেন্ট ফাইল: {error}
+JSON Files (*.json);;All Files (*.*)
+ম্যানুয়াল বিনিময় হার
+নির্ধারিত পেমেন্ট '{label}'-এর জন্য {unit}-এ বিনিময় হার অনুপস্থিত।
+শুধুমাত্র যেসব নির্ধারিত পেমেন্টে কোনো সম্পন্ন পেমেন্ট নেই, সেগুলো সম্পাদনা করা যাবে।
+ভবিষ্যতের পেমেন্ট পরিকল্পনা করুন, পুনরাবৃত্ত প্রাপক পরিচালনা করুন, এবং দ্রুত ট্রানজ্যাকশন ক্রিয়েটর প্রিফিল করুন।
+প্রাপক {recipient} অজানা
+সময়সূচি
+নির্ধারিত পেমেন্ট বাকি আছে
+নির্ধারিত পেমেন্ট {path}-এ রপ্তানি করা হয়েছে
+নির্বাচিত নির্ধারিত পেমেন্টগুলোর কোনো অবশিষ্ট occurrence নেই।
+এই ব্যাচ পেমেন্টের জন্য {recipient}-এর আর কোনো অব্যবহৃত ঠিকানা নেই। এই প্রাপকের জন্য আরও ঠিকানা যোগ করুন, তারপর আবার ব্যাচ পেমেন্ট তৈরি করার চেষ্টা করুন।
+পরিমাণ শূন্যের চেয়ে বেশি হতে হবে।
+{label}-এর অনুলিপি
+দিন
+{count}টি পেমেন্টের পরে শেষ হবে
+প্রতি {interval} {unit}
+প্রতি {unit}
+ঘণ্টা
+মিনিট
+মাস
+চলমান
+সময়সূচি নির্ধারণের আগে অনুগ্রহ করে একটি প্রাপক বেছে নিন বা তৈরি করুন।
+সময়সূচি নির্ধারণের আগে অনুগ্রহ করে একটি বিভাগ নির্বাচন করুন।
+প্রাপক: {name}
+পরিবর্তন সংরক্ষণ করুন
+সময়সূচি
+{date} থেকে শুরু
+নির্বাচিত প্রাপকের কোনো উপলভ্য ঠিকানা নেই।
+সপ্তাহ
+বছর
+দিন {day}-এ
+{ordinal}তম দিনে
+{ordinal}তম {weekday}-এ
+{month}-এর {ordinal}তম {weekday}-এ
+{days}-এ
+{month} {day}-এ
+নতুন প্রাপক তৈরি করুন
+প্রাপক তৈরি করুন
+মুদ্রা
+সময়সূচির জন্য লেবেল লিখুন
+স্থির সংখ্যা
+প্রাপক পরিচালনা করুন
+পেমেন্টের সংখ্যা
+Occurrences
+চলমান
+শুধুমাত্র একবার
+মূল্যের উৎস
+প্রাপক
+প্রতি পুনরাবৃত্তি
+নির্ধারিত মোট:
+শুরু
+মোট পরিমাণ
+coingecko 0:00 GMT
+লাইভ
+দুই সপ্তাহ পরপর
+সম্পন্ন
+চিরতরে প্রতি ২ সপ্তাহে
+প্রতি মাসে
+১ বছর ধরে প্রতি মাসে
+ঘনত্ব
+নোট:
+বিভিন্ন পরিস্থিতি পরিকল্পনার জন্য একটিই UI। এখানে কিছু উদাহরণ দেওয়া হলো
+এককালীন সময়সূচি
+পরিকল্পনা
+নতুন নির্ধারিত পেমেন্টের জন্য প্রাপকদের পর্যাপ্ত অব্যবহৃত ঠিকানা থাকতে হবে।
+নতুন পেমেন্ট নির্ধারণ করুন
+নির্ধারিত পেমেন্ট প্লাগইন আত্মবিশ্বাসের সঙ্গে দক্ষভাবে পেমেন্ট পরিচালনা করুন।
+নির্ধারিত পেমেন্ট প্লাগইনটি Bitcoin-Safe-এর সঙ্গে নির্বিঘ্নে একীভূত হয়ে আপনাকে পুনরাবৃত্ত পেমেন্ট নির্ধারণ, পেমেন্ট সময়সূচি পরিচালনা এবং আপনার পেমেন্ট ব্যবস্থার উপর নিয়ন্ত্রণ অর্জনে সক্ষম করে।
+সময়সূচি: 1
+সময়সূচি: 12
+সময়সূচি: ∞
+শুরুর তারিখ
+তহবিলের উৎস
+মোট তহবিল:
+সম্পন্ন
+মুছুন
+নির্ধারিত তারিখ
+সময়সূচির অনুলিপি করুন
+প্রাপক সম্পাদনা করুন
+পরবর্তী পেমেন্টের বিনিময় হার
+ঘনত্ব
+আইডি
+কখনো নয়
+কোনো পেআউট নেই
+শুধুমাত্র একবার
+পেআউটসমূহ
+প্রাপক
+নির্ধারিত পেমেন্ট
+সব পেআউট নির্বাচন করুন
+শুরুর তারিখ
+coingecko 0:00 GMT
+লাইভ
+{index}. Tx
+মুছুন
+নির্ধারিত পেমেন্টটি মুছবেন?
+মুছতে অন্তত একটি নির্ধারিত পেমেন্ট নির্বাচন করুন।
+ট্রানজ্যাকশন ক্রিয়েটর প্রিফিল করতে অন্তত একটি নির্ধারিত পেমেন্ট নির্বাচন করুন।
+সব
+সময়সূচির ব্যাকআপ রপ্তানি করুন
+সময়সূচির ব্যাকআপ আমদানি করুন
+সম্পন্নগুলো দেখান
+প্রাপক দেখান
+যোগ করুন
+সক্রিয় নির্ধারিত পেমেন্ট থাকা প্রাপকদের মুছে ফেলা যাবে না:
+মুছুন
+নিচের প্রাপকদের মুছবেন?
+সম্পাদনার জন্য অনুগ্রহ করে ঠিক একটি প্রাপক নির্বাচন করুন।
+প্রাপকের নাম আবশ্যক।
+মুছতে অন্তত একটি প্রাপক নির্বাচন করুন।
+মুছুন
+আইডি
+নাম
+যোগ করুন
+সব অবস্থা
+সম্পন্ন
+নির্বাচিতগুলো কাস্টমাইজ করুন
+স্থির
+ভবিষ্যৎ
+পরবর্তী ৭ দিন
+চলমান
+এককালীন
+বিলম্বিত
+পরবর্তী নির্ধারিতটি পরিশোধ করুন
+নির্বাচিতগুলো পরিশোধ করুন
+আজ
+{label} এ {exchange_rate}
+{total} এর মধ্যে {number} টি {label}-এ
+{label}-এর {number}.
+{number}. পেআউট
+যোগ করুন
+Trezor-এ দেখানো 6-সংখ্যার pairing code লিখুন:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) ব্যবহার করে PIN লিখুন:
+Trezor জোড়া লাগান
+Trezor আনলক করুন
+
+it_IT
+
+{count} pagamento è dovuto oggi in '{wallet_id}'.
+{count} pagamenti sono dovuti oggi in '{wallet_id}'.
+Aggiungi pagamento fuori banda
+Pagamenti coperti
+I pagamenti coperti non possono superare le occorrenze aperte.
+Descrizione del pagamento
+Inserisci l’indirizzo di destinazione
+In corso
+Informazioni facoltative
+Riferimento transazione facoltativo
+Inserisci un importo.
+Seleziona un pagamento pianificato.
+Totale rimanente
+Pagamento pianificato
+Seleziona un pagamento pianificato
+L’importo in satoshi deve coprire tutti i pagamenti evasi.
+Il pagamento pianificato selezionato non ha occorrenze aperte.
+di 0 pagamenti rimanenti
+dei pagamenti in corso
+di {count} pagamenti rimanenti
+Aggiungi fuori banda
+Esiste già un pagamento identico nella cronologia.
+Elimina
+Pagamenti
+Riscansiona
+Visualizza transazione
+Modifica destinatario
+Tasso di cambio
+Identificatore
+Vai al pagamento pianificato
+Indice dell’occorrenza
+Destinatario
+ID destinatario
+Programmazione
+ID programmazione
+Importo target
+Visualizza transazione
+Tutti
+- 1 indirizzo per riga. - Assicurati di avere abbastanza indirizzi per i pagamenti pianificati che intendi creare per questi destinatari. - Puoi anche incollare un elenco di indirizzi firmato PGP. - Gli indirizzi mostrati in grigio sono già stati utilizzati.
+Esiste già un destinatario chiamato "{name}". Scegli un nome diverso.
+Aggiungi dettagli sul destinatario, come recapiti, indirizzo email, nome Signal, ...
+Inserisci un indirizzo per riga oppure incolla un messaggio PGP firmato con un indirizzo per riga
+Inserisci il nome del destinatario
+Nome
+Inserisci un nome destinatario.
+Fornisci almeno un indirizzo per il destinatario.
+Destinatario
+Salva destinatario
+Alcuni indirizzi sono già assegnati ad altri destinatari:
+Alcuni indirizzi non sono validi per la rete corrente:
+{name}: {addresses}
+Il giorno {day}
+Il {ordinal}º giorno
+Il {ordinal} {weekday}
+Il {ordinal} {weekday} di {month}
+Il {day} {month}
+Schema
+Giorni della settimana
+Aggiungi indirizzi al destinatario
+Pagamento batch: {details}
+Impossibile esportare i pagamenti pianificati: {error}
+Impossibile recuperare il tasso CoinGecko delle 0:00 GMT per '{label}' in data {date}. Inserisci manualmente il tasso {unit}/{bitcoin_symbol}.
+Impossibile leggere il file di importazione: {error}
+Esporta stato dei pagamenti pianificati
+Importa stato dei pagamenti pianificati
+Importati {payments} pagamenti, {recipients} destinatari e {history} voci cronologia.
+File dei pagamenti pianificati non valido: {error}
+File JSON (*.json);;Tutti i file (*.*)
+Tasso di cambio manuale
+Manca il tasso di cambio per il pagamento pianificato '{label}' in {unit}.
+Possono essere modificati solo i pagamenti pianificati senza pagamenti completati.
+Pianifica pagamenti futuri, gestisci destinatari ricorrenti e precompila rapidamente il creatore di transazioni.
+Destinatario {recipient} sconosciuto
+Programmazione
+Pagamenti pianificati in scadenza
+Pagamenti pianificati esportati in {path}
+I pagamenti pianificati selezionati non hanno occorrenze rimanenti.
+{recipient} non ha più indirizzi inutilizzati per questo pagamento batch. Aggiungi altri indirizzi a questo destinatario, poi riprova a creare il pagamento batch.
+L’importo deve essere maggiore di zero.
+Copia di {label}
+Giorno
+Termina dopo {count} pagamenti
+Ogni {interval} {unit}
+Ogni {unit}
+Ore
+Minuti
+Mese
+In corso
+Scegli o crea un destinatario prima di pianificare.
+Seleziona una categoria prima di pianificare.
+Destinatario: {name}
+Salva modifiche
+Programmazione
+A partire dal {date}
+Il destinatario selezionato non ha indirizzi disponibili.
+Settimana
+Anno
+il giorno {day}
+il {ordinal}º giorno
+il {ordinal} {weekday}
+il {ordinal} {weekday} di {month}
+nei giorni {days}
+il {day} {month}
+Crea nuovo destinatario
+Crea destinatario
+Valuta
+Inserisci etichetta per la programmazione
+Numero fisso
+Gestisci destinatari
+Numero di pagamenti
+Occorrenze
+In corso
+Solo una volta
+Fonte del prezzo
+Destinatario
+Ripeti ogni
+Totale pianificato:
+Inizio
+Importo totale
+coingecko 0:00 GMT
+live
+Bisettimanale
+Completato
+Ogni 2 settimane per sempre
+Ogni mese
+Ogni mese per 1 anno
+Frequenza
+Nota:
+Un’unica interfaccia per pianificare scenari diversi. Ecco alcuni esempi
+Programmazione una tantum
+Pianifica
+I destinatari devono avere sufficienti indirizzi inutilizzati per i nuovi pagamenti pianificati.
+Pianifica nuovo pagamento
+Plugin pagamenti pianificati Gestisci i pagamenti in modo efficiente, con fiducia.
+Il plugin dei pagamenti pianificati si integra perfettamente in Bitcoin-Safe, consentendoti di pianificare pagamenti ricorrenti, gestire pianificazioni di pagamento e avere il controllo sui tuoi accordi di pagamento.
+Programmazioni: 1
+Programmazioni: 12
+Programmazioni: ∞
+Data di inizio
+Fonte di finanziamento
+Totale finanziamento:
+Completato
+Elimina
+Data di scadenza
+Duplica programmazione
+Modifica destinatario
+Tasso di cambio per il prossimo pagamento
+Frequenza
+ID
+Mai
+Nessun pagamento
+Solo una volta
+Pagamenti
+Destinatario
+Pagamento pianificato
+Seleziona tutti i pagamenti
+Data di inizio
+coingecko 0:00 GMT
+live
+{index}. Tx
+Elimina
+Eliminare il pagamento pianificato?
+Seleziona almeno un pagamento pianificato da eliminare.
+Seleziona almeno un pagamento pianificato per precompilare il creatore di transazioni.
+Tutti
+Esporta backup della programmazione
+Importa backup della programmazione
+Mostra completati
+Mostra destinatari
+Aggiungi
+Impossibile eliminare destinatari con pagamenti pianificati attivi:
+Elimina
+Eliminare i seguenti destinatari?
+Seleziona esattamente un destinatario da modificare.
+Il nome del destinatario è obbligatorio.
+Seleziona almeno un destinatario da eliminare.
+Elimina
+ID
+Nome
+Aggiungi
+Tutti gli stati
+Completato
+Personalizza selezionati
+Fisso
+Futuro
+Prossimi 7 giorni
+In corso
+Una tantum
+Scaduto
+Paga il prossimo in scadenza
+Paga selezionati
+Oggi
+{label} a {exchange_rate}
+{number} di {total} verso {label}
+{number}. di {label}
+{number}. pagamento
+Aggiungi
+Inserisci il codice di associazione a 6 cifre mostrato sul Trezor:
+Inserisci il PIN usando il layout del tastierino Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Associa Trezor
+Sblocca Trezor
+
+de_DE
+
+{count} Auszahlung ist heute in '{wallet_id}' fällig.
+{count} Auszahlungen sind heute in '{wallet_id}' fällig.
+Außerplanmäßige Auszahlung hinzufügen
+Abgedeckte Auszahlungen
+Abgedeckte Auszahlungen dürfen die offenen Vorkommen nicht überschreiten.
+Beschreibung der Auszahlung
+Zieladresse eingeben
+Laufend
+Optionale Informationen
+Optionale Transaktionsreferenz
+Bitte geben Sie einen Betrag an.
+Bitte wählen Sie eine geplante Zahlung aus.
+Verbleibender Gesamtbetrag
+Geplante Zahlung
+Geplante Zahlung auswählen
+Der Betrag in Satoshis muss alle erfüllten Auszahlungen abdecken.
+Die ausgewählte geplante Zahlung hat keine offenen Vorkommen.
+von 0 verbleibenden Auszahlungen
+von laufenden Zahlungen
+von {count} verbleibenden Auszahlungen
+Außerplanmäßig hinzufügen
+Eine identische Zahlung existiert bereits im Verlauf.
+Löschen
+Auszahlungen
+Erneut scannen
+Transaktion anzeigen
+Empfänger bearbeiten
+Wechselkurs
+Kennung
+Zur geplanten Zahlung springen
+Vorkommensindex
+Empfänger
+Empfänger-ID
+Zeitplan
+Zeitplan-ID
+Zielbetrag
+Transaktion anzeigen
+Alle
+- 1 Adresse pro Zeile. - Stellen Sie sicher, dass ausreichend Adressen für die geplanten Zahlungen vorhanden sind, die Sie für diese Empfänger erstellen möchten. - Sie können auch eine PGP-signierte Adressliste einfügen. - Grau dargestellte Adressen wurden bereits verwendet.
+Ein Empfänger mit dem Namen "{name}" existiert bereits. Bitte wählen Sie einen anderen Namen.
+Fügen Sie Details zum Empfänger hinzu. Zum Beispiel Kontaktdaten, E-Mail-Adresse, Signal-Name, ...
+Geben Sie eine Adresse pro Zeile ein oder fügen Sie eine signierte PGP-Nachricht mit einer Adresse pro Zeile ein
+Empfängernamen eingeben
+Name
+Bitte geben Sie einen Empfängernamen an.
+Bitte geben Sie mindestens eine Adresse für den Empfänger an.
+Empfänger
+Empfänger speichern
+Einige Adressen sind bereits anderen Empfängern zugewiesen:
+Einige Adressen sind für das aktuelle Netzwerk ungültig:
+{name}: {addresses}
+Am Tag {day}
+Am {ordinal}. Tag
+Am {ordinal}. {weekday}
+Am {ordinal}. {weekday} im {month}
+Am {day}. {month}
+Muster
+Wochentage
+Adressen beim Empfänger hinzufügen
+Sammelauszahlung: {details}
+Geplante Zahlungen konnten nicht exportiert werden: {error}
+Der CoinGecko-Kurs von 0:00 GMT für '{label}' am {date} konnte nicht abgerufen werden. Geben Sie den Kurs {unit}/{bitcoin_symbol} manuell ein.
+Importdatei konnte nicht gelesen werden: {error}
+Status geplanter Zahlungen exportieren
+Status geplanter Zahlungen importieren
+{payments} Zahlungen, {recipients} Empfänger und {history} Verlaufseinträge wurden importiert.
+Ungültige Datei für geplante Zahlungen: {error}
+JSON-Dateien (*.json);;Alle Dateien (*.*)
+Manueller Wechselkurs
+Fehlender Wechselkurs für geplante Zahlung '{label}' in {unit}.
+Nur geplante Zahlungen ohne abgeschlossene Zahlungen können bearbeitet werden.
+Planen Sie zukünftige Zahlungen, verwalten Sie wiederkehrende Empfänger und füllen Sie den Transaktionsersteller schnell vor.
+Empfänger {recipient} unbekannt
+Zeitplan
+Fällige geplante Zahlungen
+Geplante Zahlungen wurden nach {path} exportiert
+Ausgewählte geplante Zahlungen haben keine verbleibenden Vorkommen.
+{recipient} hat keine ungenutzten Adressen mehr für diese Sammelauszahlung. Fügen Sie diesem Empfänger weitere Adressen hinzu und versuchen Sie dann erneut, die Sammelauszahlung zu erstellen.
+Der Betrag muss größer als null sein.
+Kopie von {label}
+Tag
+Endet nach {count} Zahlungen
+Alle {interval} {unit}
+Jeden {unit}
+Stunden
+Minuten
+Monat
+Laufend
+Bitte wählen oder erstellen Sie einen Empfänger, bevor Sie planen.
+Bitte wählen Sie eine Kategorie, bevor Sie planen.
+Empfänger: {name}
+Änderungen speichern
+Zeitplan
+Beginnend am {date}
+Der ausgewählte Empfänger hat keine verfügbaren Adressen.
+Woche
+Jahr
+am Tag {day}
+am {ordinal}. Tag
+am {ordinal}. {weekday}
+am {ordinal}. {weekday} im {month}
+an {days}
+am {day}. {month}
+Neuen Empfänger erstellen
+Empfänger erstellen
+Währung
+Bezeichnung für den Zeitplan eingeben
+Feste Anzahl
+Empfänger verwalten
+Anzahl der Zahlungen
+Vorkommen
+Laufend
+Nur einmal
+Preisquelle
+Empfänger
+Wiederholen alle
+Geplanter Gesamtbetrag:
+Start
+Gesamtbetrag
+coingecko 0:00 GMT
+live
+Zweiwöchentlich
+Erledigt
+Alle 2 Wochen für immer
+Jeden Monat
+Jeden Monat für 1 Jahr
+Häufigkeit
+Hinweis:
+Eine Oberfläche, um verschiedene Szenarien zu planen. Hier sind einige Beispiele
+Einmaliger Zeitplan
+Planen
+Empfänger müssen genügend ungenutzte Adressen für neue geplante Zahlungen haben.
+Neue Zahlung planen
+Plugin für geplante Zahlungen Verwalten Sie Zahlungen effizient und mit Vertrauen.
+Das Plugin für geplante Zahlungen integriert sich nahtlos in Bitcoin-Safe und ermöglicht es Ihnen, wiederkehrende Zahlungen zu planen, Zahlungspläne zu verwalten und die Kontrolle über Ihre Zahlungsvereinbarungen zu gewinnen.
+Zeitpläne: 1
+Zeitpläne: 12
+Zeitpläne: ∞
+Startdatum
+Finanzierungsquelle
+Finanzierung gesamt:
+Erledigt
+Löschen
+Fälligkeitsdatum
+Zeitplan duplizieren
+Empfänger bearbeiten
+Wechselkurs für die nächste Zahlung
+Häufigkeit
+ID
+Nie
+Keine Auszahlungen
+Nur einmal
+Auszahlungen
+Empfänger
+Geplante Zahlung
+Alle Auszahlungen auswählen
+Startdatum
+coingecko 0:00 GMT
+live
+{index}. Tx
+Löschen
+Geplante Zahlung löschen?
+Bitte wählen Sie mindestens eine geplante Zahlung zum Löschen aus.
+Wählen Sie mindestens eine geplante Zahlung aus, um den Transaktionsersteller vorzufüllen.
+Alle
+Zeitplan-Backup exportieren
+Zeitplan-Backup importieren
+Erledigte anzeigen
+Empfänger anzeigen
+Hinzufügen
+Empfänger mit aktiven geplanten Zahlungen können nicht gelöscht werden:
+Löschen
+Folgende Empfänger löschen?
+Bitte wählen Sie genau einen Empfänger zum Bearbeiten aus.
+Empfängername ist erforderlich.
+Wählen Sie mindestens einen Empfänger zum Löschen aus.
+Löschen
+ID
+Name
+Hinzufügen
+Alle Status
+Erledigt
+Ausgewählte anpassen
+Fest
+Zukünftig
+Nächste 7 Tage
+Laufend
+Einmalig
+Überfällig
+Nächste fällige bezahlen
+Ausgewählte bezahlen
+Heute
+{label} zu {exchange_rate}
+{number} von {total} an {label}
+{number}. von {label}
+{number}. Auszahlung
+Hinzufügen
+Geben Sie den 6-stelligen Kopplungscode ein, der auf dem Trezor angezeigt wird:
+Geben Sie die PIN mithilfe des Trezor-Tastenlayouts ein (7 8 9 / 4 5 6 / 1 2 3):
+Trezor koppeln
+Trezor entsperren
+
+my_MM
+
+'{wallet_id}' တွင် ယနေ့ {count} payout ကျရောက်နေပါသည်။
+'{wallet_id}' တွင် ယနေ့ {count} payouts များ ကျရောက်နေပါသည်။
+out-of-band payout ထည့်မည်
+ကာကွယ်ထားသော payouts
+ကာကွယ်ထားသော payouts များသည် ဖွင့်ထားဆဲ occurrences အရေအတွက်ကို မကျော်လွန်ရပါ။
+payout ၏ ဖော်ပြချက်
+လက်ခံမည့်လိပ်စာကို ထည့်ပါ
+ဆက်လက်လုပ်ဆောင်နေသည်
+ရွေးချယ်နိုင်သော အချက်အလက်
+ရွေးချယ်နိုင်သော transaction reference
+ကျေးဇူးပြု၍ ပမာဏတစ်ခု ထည့်ပါ။
+ကျေးဇူးပြု၍ scheduled payment တစ်ခုကို ရွေးပါ။
+ကျန်ရှိသော စုစုပေါင်း
+scheduled payment
+scheduled payment တစ်ခုကို ရွေးပါ
+satoshis အရေအတွက်သည် fulfilled payouts အားလုံးကို ကာမိရပါမည်။
+ရွေးချယ်ထားသော scheduled payment တွင် ဖွင့်ထားဆဲ occurrences မရှိပါ။
+ကျန်ရှိသော payouts 0 ခုအနက်
+ဆက်လက်လုပ်ဆောင်နေသော payments များအနက်
+ကျန်ရှိသော payouts {count} ခုအနက်
+out of band ထည့်မည်
+တူညီသော payment တစ်ခုသည် history ထဲတွင် ရှိပြီးဖြစ်သည်။
+ဖျက်မည်
+Payouts
+ပြန်လည်စကန်ဖတ်မည်
+Transaction ကို ကြည့်မည်
+recipient ကို တည်းဖြတ်မည်
+ငွေလဲနှုန်း
+အမှတ်အသား
+Scheduled Payment သို့ ခုန်မည်
+Occurrence index
+လက်ခံသူ
+Recipient id
+Schedule
+Schedule id
+ပစ်မှတ် ပမာဏ
+transaction ကို ကြည့်မည်
+အားလုံး
+- တစ်ကြောင်းလျှင် လိပ်စာ ၁ ခု။ - ဤ recipients များအတွက် သင်ဖန်တီးမည့် scheduled payments များအတွက် လိုအပ်သလောက် လိပ်စာများ လုံလောက်စွာ ရှိကြောင်း သေချာပါစေ။ - PGP ဖြင့် လက်မှတ်ရေးထိုးထားသော address list ကိုလည်း paste လုပ်နိုင်သည်။ - မီးခိုးရောင်ဖြင့် ပြထားသော လိပ်စာများကို အသုံးပြုပြီးဖြစ်သည်။
+"{name}" ဟုအမည်ပေးထားသော recipient တစ်ဦး ရှိပြီးဖြစ်သည်။ ကျေးဇူးပြု၍ အခြားအမည်တစ်ခုကို ရွေးပါ။
+recipient အကြောင်း အသေးစိတ်များကို ထည့်ပါ။ ဥပမာ ဆက်သွယ်ရန်အချက်အလက်များ၊ email address၊ Signal name စသည်...
+တစ်ကြောင်းလျှင် လိပ်စာတစ်ခု ထည့်ပါ၊ သို့မဟုတ် တစ်ကြောင်းလျှင် လိပ်စာတစ်ခုပါသော signed PGP message ကို paste လုပ်ပါ
+recipient အမည်ကို ထည့်ပါ
+အမည်
+ကျေးဇူးပြု၍ recipient အမည်ကို ထည့်ပါ။
+recipient အတွက် အနည်းဆုံး လိပ်စာတစ်ခု ပေးပါ။
+Recipient
+Recipient ကို သိမ်းမည်
+လိပ်စာအချို့ကို အခြား recipients များသို့ ခန့်အပ်ထားပြီးဖြစ်သည်:
+လိပ်စာအချို့သည် လက်ရှိ network အတွက် မမှန်ကန်ပါ:
+{name}: {addresses}
+{day} ရက်နေ့တွင်
+{ordinal} ရက်မြောက်နေ့တွင်
+{ordinal} မြောက် {weekday} နေ့တွင်
+{month} ၏ {ordinal} မြောက် {weekday} နေ့တွင်
+{month} {day} တွင်
+ပုံစံ
+အပတ်စဉ်နေ့များ
+recipient ထဲတွင် လိပ်စာများ ထည့်မည်
+Batch payout: {details}
+scheduled payments များကို export မလုပ်နိုင်ပါ: {error}
+{date} ရက်နေ့တွင် '{label}' အတွက် CoinGecko 0:00 GMT rate ကို မရရှိနိုင်ပါ။ {unit}/{bitcoin_symbol} rate ကို ကိုယ်တိုင် ထည့်ပါ။
+import file ကို ဖတ်မရပါ: {error}
+scheduled payments အခြေအနေကို export လုပ်မည်
+scheduled payments အခြေအနေကို import လုပ်မည်
+payments {payments} ခု၊ recipients {recipients} ယောက် နှင့် history entries {history} ခုကို import လုပ်ပြီးပါပြီ။
+မမှန်ကန်သော scheduled payments ဖိုင်: {error}
+JSON Files (*.json);;All Files (*.*)
+manual exchange rate
+scheduled payment '{label}' အတွက် {unit} ဖြင့် exchange rate မရှိပါ။
+completed payments မရှိသော scheduled payments များကိုသာ တည်းဖြတ်နိုင်ပါသည်။
+အနာဂတ် payments များကို စီစဉ်ပါ၊ recurring recipients များကို စီမံပါ၊ ထို့နောက် transaction composer ကို အမြန်ကြိုဖြည့်ပါ။
+Recipient {recipient} မသိပါ
+Schedule
+ကျရောက်နေသော scheduled payments
+scheduled payments များကို {path} သို့ export လုပ်ပြီးပါပြီ
+ရွေးချယ်ထားသော scheduled payments များတွင် ကျန်ရှိသော occurrences မရှိပါ။
+{recipient} တွင် ဤ batch payment အတွက် မသုံးရသေးသော လိပ်စာများ မကျန်တော့ပါ။ ဤ recipient ထံသို့ လိပ်စာများ ထပ်ထည့်ပြီးနောက် batch payment ကို ထပ်မံဖန်တီးကြည့်ပါ။
+ပမာဏသည် သုညထက် ကြီးရပါမည်။
+{label} ၏ မိတ္တူ
+Day
+{count} payments အပြီးတွင် အဆုံးသတ်မည်
+Every {interval} {unit}
+Every {unit}
+နာရီ
+မိနစ်
+လ
+ဆက်လက်လုပ်ဆောင်နေသည်
+schedule မလုပ်မီ recipient တစ်ဦးကို ရွေးပါ သို့မဟုတ် ဖန်တီးပါ။
+schedule မလုပ်မီ category တစ်ခုကို ရွေးပါ။
+Recipient: {name}
+ပြောင်းလဲမှုများကို သိမ်းမည်
+Schedule
+{date} မှ စတင်သည်
+ရွေးချယ်ထားသော recipient တွင် အသုံးပြုနိုင်သော လိပ်စာများ မရှိပါ။
+အပတ်
+နှစ်
+day {day} တွင်
+{ordinal} ရက်မြောက်နေ့တွင်
+{ordinal} မြောက် {weekday} နေ့တွင်
+{month} ၏ {ordinal} မြောက် {weekday} နေ့တွင်
+{days} တွင်
+{month} {day} တွင်
+recipient အသစ် ဖန်တီးမည်
+recipient ဖန်တီးမည်
+ငွေကြေး
+schedule အတွက် label ကို ထည့်ပါ
+သတ်မှတ်ထားသော အရေအတွက်
+recipients များကို စီမံမည်
+payments အရေအတွက်
+Occurrences
+ဆက်လက်လုပ်ဆောင်နေသည်
+တစ်ကြိမ်တည်းသာ
+price source
+Recipient
+ထပ်လုပ်မည့် ကြားကာလ
+scheduled total:
+စတင်ချိန်
+စုစုပေါင်း ပမာဏ
+coingecko 0:00 GMT
+live
+နှစ်ပတ်တစ်ကြိမ်
+ပြီးဆုံးသည်
+၂ ပတ်တစ်ကြိမ် အစဉ်အမြဲ
+လစဉ်
+၁ နှစ်တိုင်အောင် လစဉ်
+အကြိမ်ရေ
+မှတ်ချက်:
+ကွဲပြားသော scenarios များကို စီစဉ်ရန် UI တစ်ခုတည်း။ ဤတွင် ဥပမာအချို့ ရှိပါသည်
+တစ်ကြိမ်တည်းသော Schedule
+စီစဉ်မည်
+recipients များတွင် scheduled payments အသစ်များအတွက် မသုံးရသေးသော လိပ်စာများ လုံလောက်ရပါမည်။
+Payment အသစ်ကို Schedule လုပ်မည်
+Scheduled payment plugin ငွေပေးချေမှုများကို ထိရောက်စွာ ယုံကြည်စိတ်ချစွာ စီမံပါ။
+Scheduled payment plugin သည် Bitcoin-Safe နှင့် ချောမွေ့စွာ ပေါင်းစည်းကာ recurring payments များကို schedule လုပ်ရန်၊ payment schedules များကို စီမံရန်နှင့် သင်၏ payment arrangements များကို ထိန်းချုပ်နိုင်ရန် အားပေးပံ့ပိုးပေးသည်။
+Schedules: 1
+Schedules: 12
+Schedules: ∞
+စတင်သည့်ရက်
+Funding Source
+Funding total:
+ပြီးဆုံးသည်
+ဖျက်မည်
+Due date
+Schedule ကို မိတ္တူကူးမည်
+recipient ကို တည်းဖြတ်မည်
+နောက်ထပ် payment အတွက် exchange rate
+အကြိမ်ရေ
+ID
+ဘယ်တော့မှ မဟုတ်ပါ
+payouts မရှိပါ
+တစ်ကြိမ်တည်းသာ
+Payouts
+Recipient
+scheduled payment
+payouts အားလုံးကို ရွေးမည်
+စတင်သည့်ရက်
+coingecko 0:00 GMT
+live
+{index}. Tx
+ဖျက်မည်
+schedule payment ကို ဖျက်မလား?
+ဖျက်ရန် scheduled payment အနည်းဆုံး တစ်ခုကို ရွေးပါ။
+transaction creator ကို prefill လုပ်ရန် scheduled payment အနည်းဆုံး တစ်ခုကို ရွေးပါ။
+အားလုံး
+Schedule Backup ကို Export လုပ်မည်
+Schedule Backup ကို Import လုပ်မည်
+Completed ကို ပြမည်
+Recipients ကို ပြမည်
+ထည့်မည်
+active scheduled payments ရှိသော recipients များကို ဖျက်၍မရပါ:
+ဖျက်မည်
+အောက်ပါ recipients များကို ဖျက်မလား?
+တည်းဖြတ်ရန် recipient တစ်ဦးတည်းကိုသာ ရွေးပါ။
+recipient name လိုအပ်သည်။
+ဖျက်ရန် recipient အနည်းဆုံး တစ်ဦးကို ရွေးပါ။
+ဖျက်မည်
+ID
+Name
+ထည့်မည်
+status အားလုံး
+ပြီးဆုံးသည်
+ရွေးထားသည်များကို စိတ်ကြိုက်ပြင်မည်
+သတ်မှတ်ထားသော
+အနာဂတ်
+နောက် 7 ရက်
+ဆက်လက်လုပ်ဆောင်နေသည်
+တစ်ကြိမ်တည်း
+ကျော်လွန်နေသည်
+နောက်တစ်ကြိမ် due ဖြစ်မည့်အရာကို ပေးချေမည်
+ရွေးထားသည်များကို ပေးချေမည်
+ယနေ့
+{label} တွင် {exchange_rate}
+{label} သို့ {total} အနက် {number}
+{label} ၏ {number}.
+{number}. payout
+ထည့်မည်
+Trezor ပေါ်တွင် ပြထားသော ဂဏန်း 6 လုံးပါ pairing code ကို ထည့်ပါ:
+Trezor keypad layout (7 8 9 / 4 5 6 / 1 2 3) ကို အသုံးပြုပြီး PIN ကို ထည့်ပါ:
+Trezor ကို တွဲချိတ်မည်
+Trezor ကို လော့ခ်ဖြည်မည်
+
+ja_JP
+
+'{wallet_id}' で本日支払期限の payout は {count} 件です。
+'{wallet_id}' で本日支払期限の payouts は {count} 件です。
+帯域外 payout を追加
+カバー済み payout
+カバー済み payout は未処理の発生回数を超えることはできません。
+payout の説明
+送金先アドレスを入力
+進行中
+任意情報
+任意のトランザクション参照
+金額を入力してください。
+スケジュール済み支払いを選択してください。
+残り合計
+スケジュール済み支払い
+スケジュール済み支払いを選択
+satoshi 単位の金額は、履行済みの payout をすべてカバーする必要があります。
+選択したスケジュール済み支払いには未処理の発生がありません。
+残り payout 0 件中
+進行中の支払い中
+残り payout {count} 件中
+帯域外を追加
+同一の支払いがすでに履歴に存在します。
+削除
+Payouts
+再スキャン
+取引を表示
+受取人を編集
+為替レート
+識別子
+スケジュール済み支払いへ移動
+発生インデックス
+受取人
+受取人 ID
+スケジュール
+スケジュール ID
+目標金額
+取引を表示
+すべて
+- 1 行につき 1 アドレス。- この受取人向けに作成する予定のスケジュール済み支払いに必要な数だけ、十分なアドレスがあることを確認してください。- PGP 署名済みのアドレス一覧を貼り付けることもできます。- グレーで表示されているアドレスはすでに使用されています。
+"{name}" という名前の受取人はすでに存在します。別の名前を選択してください。
+受取人に関する詳細を追加します。たとえば連絡先情報、メールアドレス、Signal 名など...
+1 行につき 1 アドレスを入力するか、1 行につき 1 アドレスを含む署名済み PGP メッセージを貼り付けてください
+受取人名を入力
+名前
+受取人名を入力してください。
+受取人に少なくとも 1 つのアドレスを指定してください。
+受取人
+受取人を保存
+一部のアドレスはすでに他の受取人に割り当てられています:
+一部のアドレスは現在のネットワークでは無効です:
+{name}: {addresses}
+{day} 日
+第 {ordinal} 日
+第 {ordinal} {weekday}
+{month} の第 {ordinal} {weekday}
+{month} {day}
+パターン
+曜日
+受取人にアドレスを追加
+バッチ payout: {details}
+スケジュール済み支払いをエクスポートできませんでした: {error}
+{date} の '{label}' に対する CoinGecko 0:00 GMT レートを取得できませんでした。{unit}/{bitcoin_symbol} レートを手動で入力してください。
+インポートファイルを読み取れませんでした: {error}
+スケジュール済み支払いの状態をエクスポート
+スケジュール済み支払いの状態をインポート
+{payments} 件の支払い、{recipients} 人の受取人、{history} 件の履歴エントリをインポートしました。
+無効なスケジュール済み支払いファイルです: {error}
+JSON ファイル (*.json);;すべてのファイル (*.*)
+手動為替レート
+スケジュール済み支払い '{label}' の {unit} 為替レートがありません。
+完了済み支払いのないスケジュール済み支払いのみ編集できます。
+将来の支払いを計画し、繰り返し受取人を管理し、トランザクション作成画面をすばやく事前入力します。
+受取人 {recipient} は不明です
+スケジュール
+期限の来たスケジュール済み支払い
+スケジュール済み支払いを {path} にエクスポートしました
+選択したスケジュール済み支払いには残りの発生がありません。
+{recipient} にはこのバッチ支払いに使用できる未使用アドレスが残っていません。この受取人にさらにアドレスを追加してから、再度バッチ支払いの作成を試してください。
+金額は 0 より大きい必要があります。
+{label} のコピー
+日
+{count} 回の支払い後に終了
+{interval} {unit} ごと
+毎 {unit}
+時間
+分
+月
+進行中
+スケジュールする前に受取人を選択または作成してください。
+スケジュールする前にカテゴリを選択してください。
+受取人: {name}
+変更を保存
+スケジュール
+{date} から開始
+選択した受取人には利用可能なアドレスがありません。
+週
+年
+{day} 日
+第 {ordinal} 日
+第 {ordinal} {weekday}
+{month} の第 {ordinal} {weekday}
+{days}
+{month} {day}
+新しい受取人を作成
+受取人を作成
+通貨
+スケジュールのラベルを入力
+固定回数
+受取人を管理
+支払い回数
+発生回数
+進行中
+1 回のみ
+価格ソース
+受取人
+繰り返し間隔
+スケジュール合計:
+開始
+合計金額
+coingecko 0:00 GMT
+ライブ
+隔週
+完了
+2 週間ごとに無期限
+毎月
+1 年間毎月
+頻度
+注:
+さまざまなシナリオを計画するための 1 つの UI。以下はいくつかの例です
+1 回限りのスケジュール
+計画
+新しいスケジュール済み支払いには、受取人に十分な未使用アドレスが必要です。
+新しい支払いをスケジュール
+スケジュール済み支払いプラグイン 効率的かつ自信を持って支払いを管理。
+スケジュール済み支払いプラグインは Bitcoin-Safe にシームレスに統合され、定期支払いのスケジュール、支払いスケジュールの管理、支払い取り決めのコントロールを可能にします。
+スケジュール数: 1
+スケジュール数: 12
+スケジュール数: ∞
+開始日
+資金元
+資金合計:
+完了
+削除
+期限日
+スケジュールを複製
+受取人を編集
+次回支払いの為替レート
+頻度
+ID
+なし
+payout なし
+1 回のみ
+Payouts
+受取人
+スケジュール済み支払い
+すべての payout を選択
+開始日
+coingecko 0:00 GMT
+ライブ
+{index}. Tx
+削除
+スケジュール支払いを削除しますか？
+削除するスケジュール済み支払いを少なくとも 1 件選択してください。
+トランザクション作成画面を事前入力するには、少なくとも 1 件のスケジュール済み支払いを選択してください。
+すべて
+スケジュールのバックアップをエクスポート
+スケジュールのバックアップをインポート
+完了済みを表示
+受取人を表示
+追加
+アクティブなスケジュール済み支払いがある受取人は削除できません:
+削除
+以下の受取人を削除しますか？
+編集するには受取人を 1 人だけ選択してください。
+受取人名は必須です。
+削除する受取人を少なくとも 1 人選択してください。
+削除
+ID
+名前
+追加
+すべてのステータス
+完了
+選択項目をカスタマイズ
+固定
+今後
+今後 7 日間
+進行中
+1 回限り
+期限超過
+次回期限分を支払う
+選択項目を支払う
+今日
+{exchange_rate} の {label}
+{label} への {total} 件中 {number} 件
+{label} の {number}.
+{number}. payout
+追加
+Trezor に表示されている 6 桁のペアリングコードを入力してください:
+Trezor のキーパッド配列を使って PIN を入力してください（7 8 9 / 4 5 6 / 1 2 3）:
+Trezor をペアリング
+Trezor のロックを解除
+
+es_ES
+
+{count} pago vence hoy en '{wallet_id}'.
+{count} pagos vencen hoy en '{wallet_id}'.
+Añadir pago fuera de banda
+Pagos cubiertos
+Los pagos cubiertos no pueden superar las ocurrencias abiertas.
+Descripción del pago
+Introduce la dirección de destino
+En curso
+Información opcional
+Referencia de transacción opcional
+Introduce una cantidad.
+Selecciona un pago programado.
+Total restante
+Pago programado
+Selecciona un pago programado
+La cantidad en satoshis debe cubrir todos los pagos cumplidos.
+El pago programado seleccionado no tiene ocurrencias abiertas.
+de 0 pagos restantes
+de pagos en curso
+de {count} pagos restantes
+Añadir fuera de banda
+Ya existe un pago idéntico en el historial.
+Eliminar
+Pagos
+Volver a escanear
+Ver transacción
+Editar destinatario
+Tipo de cambio
+Identificador
+Ir al pago programado
+Índice de ocurrencia
+Destinatario
+ID del destinatario
+Programación
+ID de programación
+Cantidad objetivo
+Ver transacción
+Todos
+- 1 dirección por línea. - Asegúrate de tener suficientes direcciones según los pagos programados que vayas a crear para estos destinatarios. - También puedes pegar una lista de direcciones firmada con PGP. - Las direcciones mostradas en gris ya se han utilizado.
+Ya existe un destinatario llamado "{name}". Elige un nombre diferente.
+Añade detalles sobre el destinatario. Como datos de contacto, dirección de correo, nombre de Signal, ...
+Introduce una dirección por línea, o pega un mensaje PGP firmado con una dirección por línea
+Introduce el nombre del destinatario
+Nombre
+Introduce un nombre de destinatario.
+Introduce al menos una dirección para el destinatario.
+Destinatario
+Guardar destinatario
+Algunas direcciones ya están asignadas a otros destinatarios:
+Algunas direcciones no son válidas para la red actual:
+{name}: {addresses}
+El día {day}
+El {ordinal} día
+El {ordinal} {weekday}
+El {ordinal} {weekday} de {month}
+El {day} de {month}
+Patrón
+Días de la semana
+Añadir direcciones al destinatario
+Pago por lotes: {details}
+No se pudieron exportar los pagos programados: {error}
+No se pudo obtener la tasa de CoinGecko de las 0:00 GMT para '{label}' el {date}. Introduce manualmente la tasa {unit}/{bitcoin_symbol}.
+No se pudo leer el archivo de importación: {error}
+Exportar estado de pagos programados
+Importar estado de pagos programados
+Se importaron {payments} pagos, {recipients} destinatarios y {history} entradas del historial.
+Archivo de pagos programados no válido: {error}
+Archivos JSON (*.json);;Todos los archivos (*.*)
+Tipo de cambio manual
+Falta el tipo de cambio para el pago programado '{label}' en {unit}.
+Solo se pueden editar los pagos programados sin pagos completados.
+Planifica pagos futuros, gestiona destinatarios recurrentes y rellena rápidamente el creador de transacciones.
+Destinatario {recipient} desconocido
+Programación
+Pagos programados vencidos
+Pagos programados exportados a {path}
+Los pagos programados seleccionados no tienen ocurrencias restantes.
+{recipient} no tiene direcciones sin usar para este pago por lotes. Añade más direcciones a este destinatario y vuelve a intentar crear el pago por lotes.
+La cantidad debe ser mayor que cero.
+Copia de {label}
+Día
+Termina después de {count} pagos
+Cada {interval} {unit}
+Cada {unit}
+Horas
+Minutos
+Mes
+En curso
+Elige o crea un destinatario antes de programar.
+Selecciona una categoría antes de programar.
+Destinatario: {name}
+Guardar cambios
+Programación
+A partir del {date}
+El destinatario seleccionado no tiene direcciones disponibles.
+Semana
+Año
+el día {day}
+el {ordinal} día
+el {ordinal} {weekday}
+el {ordinal} {weekday} de {month}
+los {days}
+el {day} de {month}
+Crear nuevo destinatario
+Crear destinatario
+Moneda
+Introduce una etiqueta para la programación
+Número fijo
+Gestionar destinatarios
+Número de pagos
+Ocurrencias
+En curso
+Solo una vez
+Fuente de precio
+Destinatario
+Repetir cada
+Total programado:
+Inicio
+Cantidad total
+coingecko 0:00 GMT
+en vivo
+Quincenal
+Hecho
+Cada 2 semanas para siempre
+Cada mes
+Cada mes durante 1 año
+Frecuencia
+Nota:
+Una sola interfaz para planificar distintos escenarios. Aquí tienes algunos ejemplos
+Programación única
+Planificar
+Los destinatarios deben tener suficientes direcciones sin usar para nuevos pagos programados.
+Programar nuevo pago
+Plugin de pagos programados Gestiona pagos de forma eficiente y con confianza.
+El plugin de pagos programados se integra perfectamente en Bitcoin-Safe, permitiéndote programar pagos recurrentes, gestionar calendarios de pago y tener control sobre tus acuerdos de pago.
+Programaciones: 1
+Programaciones: 12
+Programaciones: ∞
+Fecha de inicio
+Fuente de financiación
+Total de financiación:
+Hecho
+Eliminar
+Fecha de vencimiento
+Duplicar programación
+Editar destinatario
+Tipo de cambio para el próximo pago
+Frecuencia
+ID
+Nunca
+Sin pagos
+Solo una vez
+Pagos
+Destinatario
+Pago programado
+Seleccionar todos los pagos
+Fecha de inicio
+coingecko 0:00 GMT
+en vivo
+{index}. Tx
+Eliminar
+¿Eliminar el pago programado?
+Selecciona al menos un pago programado para eliminar.
+Selecciona al menos un pago programado para rellenar previamente el creador de transacciones.
+Todos
+Exportar copia de seguridad de la programación
+Importar copia de seguridad de la programación
+Mostrar completados
+Mostrar destinatarios
+Añadir
+No se pueden eliminar destinatarios con pagos programados activos:
+Eliminar
+¿Eliminar los siguientes destinatarios?
+Selecciona exactamente un destinatario para editar.
+El nombre del destinatario es obligatorio.
+Selecciona al menos un destinatario para eliminar.
+Eliminar
+ID
+Nombre
+Añadir
+Todos los estados
+Hecho
+Personalizar seleccionados
+Fijo
+Futuro
+Próximos 7 días
+En curso
+Único
+Atrasado
+Pagar el próximo vencido
+Pagar seleccionados
+Hoy
+{label} a {exchange_rate}
+{number} de {total} a {label}
+{number}. de {label}
+{number}. pago
+Añadir
+Introduce el código de emparejamiento de 6 dígitos que se muestra en el Trezor:
+Introduce el PIN usando la disposición del teclado del Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Emparejar Trezor
+Desbloquear Trezor
+
+fa_IR
+
+{count} پرداخت امروز در '{wallet_id}' سررسید می‌شود.
+{count} پرداخت امروز در '{wallet_id}' سررسید می‌شوند.
+افزودن پرداخت خارج از باند
+پرداخت‌های پوشش‌داده‌شده
+پرداخت‌های پوشش‌داده‌شده نمی‌توانند از occurrenceهای باز بیشتر باشند.
+توضیحات پرداخت
+نشانی مقصد را وارد کنید
+در حال انجام
+اطلاعات اختیاری
+مرجع اختیاری تراکنش
+لطفاً یک مبلغ وارد کنید.
+لطفاً یک پرداخت زمان‌بندی‌شده انتخاب کنید.
+مجموع باقی‌مانده
+پرداخت زمان‌بندی‌شده
+یک پرداخت زمان‌بندی‌شده انتخاب کنید
+مبلغ بر حسب satoshi باید همه پرداخت‌های انجام‌شده را پوشش دهد.
+پرداخت زمان‌بندی‌شده انتخاب‌شده هیچ occurrence بازی ندارد.
+از 0 پرداخت باقی‌مانده
+از پرداخت‌های در حال انجام
+از {count} پرداخت باقی‌مانده
+افزودن خارج از باند
+یک پرداخت یکسان از قبل در تاریخچه وجود دارد.
+حذف
+پرداخت‌ها
+اسکن مجدد
+مشاهده تراکنش
+ویرایش گیرنده
+نرخ تبدیل
+شناسه
+پرش به پرداخت زمان‌بندی‌شده
+نمایه occurrence
+گیرنده
+شناسه گیرنده
+برنامه زمان‌بندی
+شناسه برنامه زمان‌بندی
+مبلغ هدف
+مشاهده تراکنش
+همه
+- هر خط یک نشانی. - مطمئن شوید برای پرداخت‌های زمان‌بندی‌شده‌ای که می‌خواهید برای این گیرنده‌ها ایجاد کنید، به تعداد کافی نشانی وجود دارد. - همچنین می‌توانید یک فهرست نشانی امضاشده با PGP را جای‌گذاری کنید. - نشانی‌هایی که به رنگ خاکستری نمایش داده می‌شوند، قبلاً استفاده شده‌اند.
+گیرنده‌ای با نام "{name}" از قبل وجود دارد. لطفاً نام دیگری انتخاب کنید.
+جزئیاتی درباره گیرنده اضافه کنید. مانند اطلاعات تماس، نشانی ایمیل، نام Signal و ...
+در هر خط یک نشانی وارد کنید، یا یک پیام PGP امضاشده با یک نشانی در هر خط جای‌گذاری کنید
+نام گیرنده را وارد کنید
+نام
+لطفاً یک نام برای گیرنده وارد کنید.
+لطفاً دست‌کم یک نشانی برای گیرنده ارائه کنید.
+گیرنده
+ذخیره گیرنده
+برخی نشانی‌ها از قبل به گیرنده‌های دیگر اختصاص داده شده‌اند:
+برخی نشانی‌ها برای شبکه فعلی نامعتبر هستند:
+{name}: {addresses}
+در روز {day}
+در روز {ordinal}ام
+در {weekday} {ordinal}ام
+در {weekday} {ordinal}امِ {month}
+در {month} {day}
+الگو
+روزهای هفته
+افزودن نشانی‌ها در گیرنده
+پرداخت دسته‌ای: {details}
+امکان خروجی‌گرفتن از پرداخت‌های زمان‌بندی‌شده وجود نداشت: {error}
+امکان دریافت نرخ CoinGecko ساعت 0:00 GMT برای '{label}' در {date} وجود نداشت. لطفاً نرخ {unit}/{bitcoin_symbol} را دستی وارد کنید.
+خواندن فایل واردسازی ممکن نبود: {error}
+خروجی گرفتن از وضعیت پرداخت‌های زمان‌بندی‌شده
+وارد کردن وضعیت پرداخت‌های زمان‌بندی‌شده
+{payments} پرداخت، {recipients} گیرنده و {history} ورودی تاریخچه وارد شد.
+فایل پرداخت‌های زمان‌بندی‌شده نامعتبر است: {error}
+پرونده‌های JSON (*.json);;همه پرونده‌ها (*.*)
+نرخ تبدیل دستی
+نرخ تبدیل برای پرداخت زمان‌بندی‌شده '{label}' در {unit} وجود ندارد.
+فقط پرداخت‌های زمان‌بندی‌شده‌ای که هیچ پرداخت تکمیل‌شده‌ای ندارند، قابل ویرایش هستند.
+برای پرداخت‌های آینده برنامه‌ریزی کنید، گیرنده‌های تکرارشونده را مدیریت کنید و سازنده تراکنش را سریعاً از پیش پُر کنید.
+گیرنده {recipient} ناشناخته است
+برنامه زمان‌بندی
+پرداخت‌های زمان‌بندی‌شده سررسیدشده
+پرداخت‌های زمان‌بندی‌شده به {path} صادر شدند
+پرداخت‌های زمان‌بندی‌شده انتخاب‌شده هیچ occurrence باقی‌مانده‌ای ندارند.
+{recipient} دیگر هیچ نشانی استفاده‌نشده‌ای برای این پرداخت دسته‌ای ندارد. نشانی‌های بیشتری برای این گیرنده اضافه کنید، سپس دوباره تلاش کنید پرداخت دسته‌ای را ایجاد کنید.
+مبلغ باید بزرگ‌تر از صفر باشد.
+رونوشتِ {label}
+روز
+پس از {count} پرداخت پایان می‌یابد
+هر {interval} {unit}
+هر {unit}
+ساعت
+دقیقه
+ماه
+در حال انجام
+لطفاً پیش از زمان‌بندی، یک گیرنده را انتخاب یا ایجاد کنید.
+لطفاً پیش از زمان‌بندی، یک دسته‌بندی انتخاب کنید.
+گیرنده: {name}
+ذخیره تغییرات
+برنامه زمان‌بندی
+شروع از {date}
+گیرنده انتخاب‌شده هیچ نشانی در دسترسی ندارد.
+هفته
+سال
+در روز {day}
+در روز {ordinal}ام
+در {weekday} {ordinal}ام
+در {weekday} {ordinal}امِ {month}
+در {days}
+در {month} {day}
+ایجاد گیرنده جدید
+ایجاد گیرنده
+ارز
+برای برنامه زمان‌بندی برچسب وارد کنید
+تعداد ثابت
+مدیریت گیرنده‌ها
+تعداد پرداخت‌ها
+Occurrenceها
+در حال انجام
+فقط یک‌بار
+منبع قیمت
+گیرنده
+تکرار هر
+مجموع زمان‌بندی‌شده:
+شروع
+مبلغ کل
+coingecko 0:00 GMT
+زنده
+دو هفته یک‌بار
+انجام شد
+هر 2 هفته برای همیشه
+هر ماه
+هر ماه به مدت 1 سال
+بسامد
+یادداشت:
+یک رابط کاربری برای برنامه‌ریزی سناریوهای مختلف. در اینجا چند نمونه آمده است
+برنامه زمان‌بندی یک‌باره
+برنامه‌ریزی
+گیرنده‌ها باید برای پرداخت‌های زمان‌بندی‌شده جدید، به تعداد کافی نشانی استفاده‌نشده داشته باشند.
+زمان‌بندی پرداخت جدید
+افزونه پرداخت زمان‌بندی‌شده پرداخت‌ها را با کارایی و اطمینان مدیریت کنید.
+افزونه پرداخت زمان‌بندی‌شده به‌صورت یکپارچه با Bitcoin-Safe ادغام می‌شود و به شما امکان می‌دهد پرداخت‌های تکرارشونده را زمان‌بندی کنید، زمان‌بندی‌های پرداخت را مدیریت کنید و کنترل بیشتری بر ترتیبات پرداخت خود داشته باشید.
+برنامه‌ها: 1
+برنامه‌ها: 12
+برنامه‌ها: ∞
+تاریخ شروع
+منبع تأمین مالی
+مجموع تأمین مالی:
+انجام شد
+حذف
+تاریخ سررسید
+تکثیر برنامه زمان‌بندی
+ویرایش گیرنده
+نرخ تبدیل برای پرداخت بعدی
+بسامد
+شناسه
+هرگز
+بدون پرداخت
+فقط یک‌بار
+پرداخت‌ها
+گیرنده
+پرداخت زمان‌بندی‌شده
+انتخاب همه پرداخت‌ها
+تاریخ شروع
+coingecko 0:00 GMT
+زنده
+{index}. تراکنش
+حذف
+آیا پرداخت زمان‌بندی‌شده حذف شود؟
+لطفاً دست‌کم یک پرداخت زمان‌بندی‌شده برای حذف انتخاب کنید.
+برای پیش‌پر کردن سازنده تراکنش، دست‌کم یک پرداخت زمان‌بندی‌شده انتخاب کنید.
+همه
+خروجی گرفتن از نسخه پشتیبان برنامه
+وارد کردن نسخه پشتیبان برنامه
+نمایش تکمیل‌شده‌ها
+نمایش گیرنده‌ها
+افزودن
+گیرنده‌هایی که پرداخت‌های زمان‌بندی‌شده فعال دارند، قابل حذف نیستند:
+حذف
+گیرنده‌های زیر حذف شوند؟
+لطفاً دقیقاً یک گیرنده را برای ویرایش انتخاب کنید.
+نام گیرنده الزامی است.
+برای حذف، دست‌کم یک گیرنده انتخاب کنید.
+حذف
+شناسه
+نام
+افزودن
+همه وضعیت‌ها
+انجام شد
+سفارشی‌سازی انتخاب‌شده‌ها
+ثابت
+آینده
+7 روز آینده
+در حال انجام
+یک‌باره
+معوق
+پرداخت سررسید بعدی
+پرداخت انتخاب‌شده‌ها
+امروز
+{label} با {exchange_rate}
+{number} از {total} به {label}
+{number}. از {label}
+پرداخت {number}.
+افزودن
+کد جفت‌سازی ۶ رقمی نمایش‌داده‌شده روی Trezor را وارد کنید:
+PIN را با استفاده از چیدمان صفحه‌کلید Trezor وارد کنید (7 8 9 / 4 5 6 / 1 2 3):
+جفت‌کردن Trezor
+باز کردن قفل Trezor
+
+pt_PT
+
+{count} pagamento vence hoje em '{wallet_id}'.
+{count} pagamentos vencem hoje em '{wallet_id}'.
+Adicionar pagamento fora de banda
+Pagamentos cobertos
+Os pagamentos cobertos não podem exceder as ocorrências em aberto.
+Descrição do pagamento
+Introduza o endereço de destino
+Em curso
+Informação opcional
+Referência opcional da transação
+Por favor, indique um montante.
+Por favor, selecione um pagamento agendado.
+Total restante
+Pagamento agendado
+Selecione um pagamento agendado
+O montante em satoshis tem de cobrir todos os pagamentos efetuados.
+O pagamento agendado selecionado não tem ocorrências em aberto.
+de 0 pagamentos restantes
+de pagamentos em curso
+de {count} pagamentos restantes
+Adicionar fora de banda
+Já existe um pagamento idêntico no histórico.
+Eliminar
+Pagamentos
+Voltar a analisar
+Ver Transação
+Editar destinatário
+Taxa de câmbio
+Identificador
+Ir para Pagamento Agendado
+Índice da ocorrência
+Destinatário
+ID do destinatário
+Agendamento
+ID do agendamento
+Montante-alvo
+Ver transação
+Todos
+- 1 endereço por linha. - Certifique-se de que existem endereços suficientes conforme necessário para os pagamentos agendados que pretende criar para estes destinatários. - Também pode colar uma lista de endereços assinada com PGP. - Os endereços mostrados a cinzento já foram utilizados.
+Já existe um destinatário com o nome "{name}". Por favor, escolha um nome diferente.
+Adicione detalhes sobre o destinatário. Como por exemplo dados de contacto, endereço de e-mail, nome do Signal, ...
+Introduza um endereço por linha, ou cole uma mensagem PGP assinada com um endereço por linha
+Introduza o nome do destinatário
+Nome
+Por favor, indique um nome para o destinatário.
+Por favor, indique pelo menos um endereço para o destinatário.
+Destinatário
+Guardar Destinatário
+Alguns endereços já estão atribuídos a outros destinatários:
+Alguns endereços são inválidos para a rede atual:
+{name}: {addresses}
+No dia {day}
+No {ordinal}.º dia
+No {ordinal}.º {weekday}
+No {ordinal}.º {weekday} de {month}
+Em {month} {day}
+Padrão
+Dias da semana
+Adicionar endereços ao destinatário
+Pagamento em lote: {details}
+Não foi possível exportar pagamentos agendados: {error}
+Não foi possível obter a taxa CoinGecko das 0:00 GMT para '{label}' em {date}. Introduza manualmente a taxa {unit}/{bitcoin_symbol}.
+Não foi possível ler o ficheiro de importação: {error}
+Exportar estado dos pagamentos agendados
+Importar estado dos pagamentos agendados
+Foram importados {payments} pagamentos, {recipients} destinatários e {history} entradas de histórico.
+Ficheiro de pagamentos agendados inválido: {error}
+Ficheiros JSON (*.json);;Todos os ficheiros (*.*)
+Taxa de câmbio manual
+Falta a taxa de câmbio para o pagamento agendado '{label}' em {unit}.
+Só os pagamentos agendados sem pagamentos concluídos podem ser editados.
+Planeie pagamentos futuros, faça a gestão de destinatários recorrentes e pré-preencha rapidamente o criador de transações.
+Destinatário {recipient} desconhecido
+Agendamento
+Pagamentos agendados vencidos
+Pagamentos agendados exportados para {path}
+Os pagamentos agendados selecionados não têm ocorrências restantes.
+{recipient} não tem endereços não utilizados restantes para este pagamento em lote. Adicione mais endereços a este destinatário e tente criar novamente o pagamento em lote.
+O montante tem de ser superior a zero.
+Cópia de {label}
+Dia
+Termina após {count} pagamentos
+A cada {interval} {unit}
+A cada {unit}
+Horas
+Minutos
+Mês
+Em curso
+Por favor, escolha ou crie um destinatário antes de agendar.
+Por favor, selecione uma categoria antes de agendar.
+Destinatário: {name}
+Guardar Alterações
+Agendamento
+A começar em {date}
+O destinatário selecionado não tem quaisquer endereços disponíveis.
+Semana
+Ano
+no dia {day}
+no {ordinal}.º dia
+no {ordinal}.º {weekday}
+no {ordinal}.º {weekday} de {month}
+em {days}
+em {month} {day}
+Criar novo destinatário
+Criar destinatário
+Moeda
+Introduza uma etiqueta para o agendamento
+Número fixo
+Gerir destinatários
+Número de pagamentos
+Ocorrências
+Em curso
+Apenas uma vez
+Fonte do preço
+Destinatário
+Repetir a cada
+Total agendado:
+Início
+Montante Total
+coingecko 0:00 GMT
+em direto
+Quinzenal
+Concluído
+A cada 2 semanas para sempre
+Todos os meses
+Todos os meses durante 1 ano
+Frequência
+Nota:
+Uma interface única para planear diferentes cenários. Aqui estão alguns exemplos
+Agendamento único
+Planear
+Os destinatários têm de ter endereços não utilizados suficientes para novos pagamentos agendados.
+Agendar Novo Pagamento
+Plugin de pagamento agendado Faça a gestão de pagamentos de forma eficiente, com confiança.
+O plugin de pagamento agendado integra-se perfeitamente no Bitcoin-Safe, permitindo-lhe agendar pagamentos recorrentes, gerir agendamentos de pagamento e ganhar controlo sobre os seus acordos de pagamento.
+Agendamentos: 1
+Agendamentos: 12
+Agendamentos: ∞
+Data de início
+Fonte de financiamento
+Total do financiamento:
+Concluído
+Eliminar
+Data de vencimento
+Duplicar Agendamento
+Editar destinatário
+Taxa de câmbio para o próximo pagamento
+Frequência
+ID
+Nunca
+Sem pagamentos
+Apenas uma vez
+Pagamentos
+Destinatário
+Pagamento agendado
+Selecionar todos os pagamentos
+Data de início
+coingecko 0:00 GMT
+em direto
+{index}. Tx
+Eliminar
+Eliminar o pagamento agendado?
+Por favor, selecione pelo menos um pagamento agendado para eliminar.
+Selecione pelo menos um pagamento agendado para pré-preencher o criador de transações.
+Todos
+Exportar Cópia de Segurança do Agendamento
+Importar Cópia de Segurança do Agendamento
+Mostrar Concluídos
+Mostrar Destinatários
+Adicionar
+Não é possível eliminar destinatários com pagamentos agendados ativos:
+Eliminar
+Eliminar os seguintes destinatários?
+Por favor, selecione exatamente um destinatário para editar.
+O nome do destinatário é obrigatório.
+Selecione pelo menos um destinatário para eliminar.
+Eliminar
+ID
+Nome
+Adicionar
+Todos os estados
+Concluído
+Personalizar selecionados
+Fixo
+Futuro
+Próximos 7 dias
+Em curso
+Único
+Em atraso
+Pagar próximo vencimento
+Pagar selecionados
+Hoje
+{label} a {exchange_rate}
+{number} de {total} para {label}
+{number}. de {label}
+{number}. pagamento
+Adicionar
+Introduza o código de emparelhamento de 6 dígitos mostrado no Trezor:
+Introduza o PIN usando a disposição do teclado do Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Emparelhar Trezor
+Desbloquear Trezor
+
+uk_UA
+
+Сьогодні в '{wallet_id}' настає строк виплати {count}.
+Сьогодні в '{wallet_id}' настає строк для {count} виплат.
+Додати позасмугову виплату
+Покриті виплати
+Покриті виплати не можуть перевищувати кількість відкритих повторень.
+Опис виплати
+Введіть адресу призначення
+Триває
+Необов’язкова інформація
+Необов’язкове посилання на транзакцію
+Будь ласка, вкажіть суму.
+Будь ласка, виберіть запланований платіж.
+Залишок загальної суми
+Запланований платіж
+Виберіть запланований платіж
+Сума в сатоші має покривати всі виконані виплати.
+Вибраний запланований платіж не має відкритих повторень.
+із 0 залишкових виплат
+із поточних платежів
+із {count} залишкових виплат
+Додати поза смугою
+Ідентичний платіж уже існує в історії.
+Видалити
+Виплати
+Пересканувати
+Переглянути транзакцію
+Редагувати одержувача
+Обмінний курс
+Ідентифікатор
+Перейти до запланованого платежу
+Індекс повторення
+Одержувач
+ID одержувача
+Розклад
+ID розкладу
+Цільова сума
+Переглянути транзакцію
+Усі
+- 1 адреса в рядку. - Переконайтеся, що адрес достатньо для запланованих платежів, які ви плануєте створити для цих одержувачів. - Ви також можете вставити список адрес, підписаний PGP. - Адреси, показані сірим, уже були використані.
+Одержувач з іменем "{name}" уже існує. Будь ласка, виберіть інше ім’я.
+Додайте відомості про одержувача. Наприклад, контактні дані, електронну адресу, ім’я в Signal, ...
+Введіть по одній адресі в кожному рядку або вставте підписане PGP-повідомлення з однією адресою в кожному рядку
+Введіть ім’я одержувача
+Ім’я
+Будь ласка, вкажіть ім’я одержувача.
+Будь ласка, вкажіть принаймні одну адресу для одержувача.
+Одержувач
+Зберегти одержувача
+Деякі адреси вже призначені іншим одержувачам:
+Деякі адреси недійсні для поточної мережі:
+{name}: {addresses}
+У день {day}
+У {ordinal}-й день
+У {ordinal} {weekday}
+У {ordinal} {weekday} місяця {month}
+{day} {month}
+Шаблон
+Дні тижня
+Додати адреси до одержувача
+Пакетна виплата: {details}
+Не вдалося експортувати заплановані платежі: {error}
+Не вдалося отримати курс CoinGecko на 0:00 GMT для '{label}' за {date}. Введіть курс {unit}/{bitcoin_symbol} вручну.
+Не вдалося прочитати файл імпорту: {error}
+Експортувати стан запланованих платежів
+Імпортувати стан запланованих платежів
+Імпортовано {payments} платежів, {recipients} одержувачів і {history} записів історії.
+Недійсний файл запланованих платежів: {error}
+Файли JSON (*.json);;Усі файли (*.*)
+Ручний обмінний курс
+Відсутній обмінний курс для запланованого платежу '{label}' у {unit}.
+Лише заплановані платежі без завершених виплат можна редагувати.
+Плануйте майбутні виплати, керуйте повторюваними одержувачами та швидко заповнюйте конструктор транзакцій.
+Одержувач {recipient} невідомий
+Розклад
+Заплановані платежі до сплати
+Заплановані платежі експортовано до {path}
+Вибрані заплановані платежі не мають залишкових повторень.
+У {recipient} не залишилося невикористаних адрес для цієї пакетної виплати. Додайте більше адрес цьому одержувачу, а потім спробуйте знову створити пакетну виплату.
+Сума має бути більшою за нуль.
+Копія {label}
+День
+Завершується після {count} платежів
+Кожні {interval} {unit}
+Що {unit}
+Години
+Хвилини
+Місяць
+Триває
+Будь ласка, виберіть або створіть одержувача перед плануванням.
+Будь ласка, виберіть категорію перед плануванням.
+Одержувач: {name}
+Зберегти зміни
+Розклад
+Починаючи з {date}
+У вибраного одержувача немає доступних адрес.
+Тиждень
+Рік
+у день {day}
+у {ordinal}-й день
+у {ordinal} {weekday}
+у {ordinal} {weekday} місяця {month}
+у {days}
+{day} {month}
+Створити нового одержувача
+Створити одержувача
+Валюта
+Введіть мітку для розкладу
+Фіксоване число
+Керувати одержувачами
+Кількість платежів
+Повторення
+Триває
+Лише один раз
+Джерело ціни
+Одержувач
+Повторювати кожні
+Запланована сума:
+Початок
+Загальна сума
+coingecko 0:00 GMT
+наживо
+Раз на два тижні
+Завершено
+Кожні 2 тижні безстроково
+Щомісяця
+Щомісяця протягом 1 року
+Частота
+Примітка:
+Один інтерфейс для планування різних сценаріїв. Ось кілька прикладів
+Одноразовий розклад
+Планувати
+Одержувачі повинні мати достатньо невикористаних адрес для нових запланованих платежів.
+Запланувати новий платіж
+Плагін запланованих платежів Керуйте платежами ефективно та впевнено.
+Плагін запланованих платежів бездоганно інтегрується з Bitcoin-Safe, даючи вам змогу планувати повторювані платежі, керувати графіками платежів і контролювати свої платіжні домовленості.
+Розклади: 1
+Розклади: 12
+Розклади: ∞
+Дата початку
+Джерело фінансування
+Загальна сума фінансування:
+Завершено
+Видалити
+Дата сплати
+Дублювати розклад
+Редагувати одержувача
+Обмінний курс для наступного платежу
+Частота
+ID
+Ніколи
+Немає виплат
+Лише один раз
+Виплати
+Одержувач
+Запланований платіж
+Вибрати всі виплати
+Дата початку
+coingecko 0:00 GMT
+наживо
+{index}. Транзакція
+Видалити
+Видалити платіж розкладу?
+Будь ласка, виберіть принаймні один запланований платіж для видалення.
+Виберіть принаймні один запланований платіж, щоб попередньо заповнити конструктор транзакцій.
+Усі
+Експортувати резервну копію розкладу
+Імпортувати резервну копію розкладу
+Показати завершені
+Показати одержувачів
+Додати
+Неможливо видалити одержувачів з активними запланованими платежами:
+Видалити
+Видалити таких одержувачів?
+Будь ласка, виберіть рівно одного одержувача для редагування.
+Ім’я одержувача є обов’язковим.
+Виберіть принаймні одного одержувача для видалення.
+Видалити
+ID
+Ім’я
+Додати
+Усі стани
+Завершено
+Налаштувати вибрані
+Фіксований
+Майбутні
+Наступні 7 днів
+Триває
+Одноразовий
+Прострочено
+Сплатити наступний строк
+Сплатити вибрані
+Сьогодні
+{label} за {exchange_rate}
+{number} із {total} для {label}
+{number}. з {label}
+{number}. виплата
+Додати
+Введіть 6-значний код сполучення, показаний на Trezor:
+Введіть PIN, використовуючи розкладку клавіатури Trezor (7 8 9 / 4 5 6 / 1 2 3):
+Сполучити Trezor
+Розблокувати Trezor
+
+pl_PL
+
+Dziś w '{wallet_id}' przypada termin wypłaty {count}.
+Dziś w '{wallet_id}' przypada termin {count} wypłat.
+Dodaj wypłatę poza harmonogramem
+Pokryte wypłaty
+Pokryte wypłaty nie mogą przekraczać liczby otwartych wystąpień.
+Opis wypłaty
+Wprowadź adres docelowy
+W toku
+Informacje opcjonalne
+Opcjonalne odniesienie do transakcji
+Podaj kwotę.
+Wybierz zaplanowaną płatność.
+Pozostała suma
+Zaplanowana płatność
+Wybierz zaplanowaną płatność
+Kwota w satoshi musi pokryć wszystkie zrealizowane wypłaty.
+Wybrana zaplanowana płatność nie ma otwartych wystąpień.
+z 0 pozostałych wypłat
+z płatności będących w toku
+z {count} pozostałych wypłat
+Dodaj poza harmonogramem
+Identyczna płatność już istnieje w historii.
+Usuń
+Wypłaty
+Przeskanuj ponownie
+Wyświetl transakcję
+Edytuj odbiorcę
+Kurs wymiany
+Identyfikator
+Przejdź do zaplanowanej płatności
+Indeks wystąpienia
+Odbiorca
+ID odbiorcy
+Harmonogram
+ID harmonogramu
+Kwota docelowa
+Wyświetl transakcję
+Wszystko
+- 1 adres w wierszu. - Upewnij się, że masz wystarczającą liczbę adresów dla zaplanowanych płatności, które chcesz utworzyć dla tych odbiorców. - Możesz też wkleić listę adresów podpisaną PGP. - Adresy pokazane na szaro zostały już użyte.
+Odbiorca o nazwie "{name}" już istnieje. Wybierz inną nazwę.
+Dodaj szczegóły dotyczące odbiorcy. Takie jak dane kontaktowe, adres e-mail, nazwa w Signal, ...
+Wprowadź jeden adres w każdym wierszu lub wklej podpisaną wiadomość PGP z jednym adresem w każdym wierszu
+Wprowadź nazwę odbiorcy
+Nazwa
+Podaj nazwę odbiorcy.
+Podaj co najmniej jeden adres dla odbiorcy.
+Odbiorca
+Zapisz odbiorcę
+Niektóre adresy są już przypisane do innych odbiorców:
+Niektóre adresy są nieprawidłowe dla bieżącej sieci:
+{name}: {addresses}
+W dniu {day}
+W {ordinal}. dniu
+W {ordinal}. {weekday}
+W {ordinal}. {weekday} miesiąca {month}
+{day} {month}
+Wzorzec
+Dni tygodnia
+Dodaj adresy do odbiorcy
+Wypłata zbiorcza: {details}
+Nie udało się wyeksportować zaplanowanych płatności: {error}
+Nie udało się pobrać kursu CoinGecko z godz. 0:00 GMT dla '{label}' na dzień {date}. Wprowadź ręcznie kurs {unit}/{bitcoin_symbol}.
+Nie udało się odczytać pliku importu: {error}
+Eksportuj stan zaplanowanych płatności
+Importuj stan zaplanowanych płatności
+Zaimportowano {payments} płatności, {recipients} odbiorców i {history} wpisów historii.
+Nieprawidłowy plik zaplanowanych płatności: {error}
+Pliki JSON (*.json);;Wszystkie pliki (*.*)
+Ręczny kurs wymiany
+Brak kursu wymiany dla zaplanowanej płatności '{label}' w {unit}.
+Można edytować tylko zaplanowane płatności bez zrealizowanych płatności.
+Planuj przyszłe płatności, zarządzaj cyklicznymi odbiorcami i szybko wypełniaj kreator transakcji.
+Nieznany odbiorca {recipient}
+Harmonogram
+Zaplanowane płatności do realizacji
+Zaplanowane płatności wyeksportowano do {path}
+Wybrane zaplanowane płatności nie mają pozostałych wystąpień.
+{recipient} nie ma już niewykorzystanych adresów dla tej wypłaty zbiorczej. Dodaj więcej adresów temu odbiorcy, a następnie spróbuj ponownie utworzyć wypłatę zbiorczą.
+Kwota musi być większa od zera.
+Kopia {label}
+Dzień
+Kończy się po {count} płatnościach
+Co {interval} {unit}
+Co {unit}
+Godziny
+Minuty
+Miesiąc
+W toku
+Przed planowaniem wybierz lub utwórz odbiorcę.
+Przed planowaniem wybierz kategorię.
+Odbiorca: {name}
+Zapisz zmiany
+Harmonogram
+Począwszy od {date}
+Wybrany odbiorca nie ma dostępnych adresów.
+Tydzień
+Rok
+w dniu {day}
+w {ordinal}. dniu
+w {ordinal}. {weekday}
+w {ordinal}. {weekday} miesiąca {month}
+w {days}
+{day} {month}
+Utwórz nowego odbiorcę
+Utwórz odbiorcę
+Waluta
+Wprowadź etykietę harmonogramu
+Stała liczba
+Zarządzaj odbiorcami
+Liczba płatności
+Wystąpienia
+W toku
+Tylko raz
+Źródło ceny
+Odbiorca
+Powtarzaj co
+Zaplanowana suma:
+Początek
+Kwota całkowita
+coingecko 0:00 GMT
+na żywo
+Co dwa tygodnie
+Gotowe
+Co 2 tygodnie bez końca
+Co miesiąc
+Co miesiąc przez 1 rok
+Częstotliwość
+Uwaga:
+Jeden interfejs do planowania różnych scenariuszy. Oto kilka przykładów
+Jednorazowy harmonogram
+Zaplanuj
+Odbiorcy muszą mieć wystarczającą liczbę niewykorzystanych adresów dla nowych zaplanowanych płatności.
+Zaplanuj nową płatność
+Wtyczka zaplanowanych płatności Zarządzaj płatnościami efektywnie i z pewnością.
+Wtyczka zaplanowanych płatności płynnie integruje się z Bitcoin-Safe, umożliwiając planowanie płatności cyklicznych, zarządzanie harmonogramami płatności i przejęcie kontroli nad ustaleniami płatniczymi.
+Harmonogramy: 1
+Harmonogramy: 12
+Harmonogramy: ∞
+Data rozpoczęcia
+Źródło finansowania
+Łączne finansowanie:
+Gotowe
+Usuń
+Termin płatności
+Duplikuj harmonogram
+Edytuj odbiorcę
+Kurs wymiany dla następnej płatności
+Częstotliwość
+ID
+Nigdy
+Brak wypłat
+Tylko raz
+Wypłaty
+Odbiorca
+Zaplanowana płatność
+Wybierz wszystkie wypłaty
+Data rozpoczęcia
+coingecko 0:00 GMT
+na żywo
+{index}. Tx
+Usuń
+Usunąć zaplanowaną płatność?
+Wybierz co najmniej jedną zaplanowaną płatność do usunięcia.
+Wybierz co najmniej jedną zaplanowaną płatność, aby wstępnie wypełnić kreator transakcji.
+Wszystko
+Eksportuj kopię zapasową harmonogramu
+Importuj kopię zapasową harmonogramu
+Pokaż ukończone
+Pokaż odbiorców
+Dodaj
+Nie można usunąć odbiorców z aktywnymi zaplanowanymi płatnościami:
+Usuń
+Usunąć następujących odbiorców?
+Wybierz dokładnie jednego odbiorcę do edycji.
+Nazwa odbiorcy jest wymagana.
+Wybierz co najmniej jednego odbiorcę do usunięcia.
+Usuń
+ID
+Nazwa
+Dodaj
+Wszystkie statusy
+Gotowe
+Dostosuj wybrane
+Stały
+Przyszłe
+Następne 7 dni
+W toku
+Jednorazowe
+Zaległe
+Zapłać następne należne
+Zapłać wybrane
+Dziś
+{label} po {exchange_rate}
+{number} z {total} do {label}
+{number}. z {label}
+{number}. wypłata
+Dodaj
+Wprowadź 6-cyfrowy kod parowania wyświetlany na Trezorze:
+Wprowadź PIN, używając układu klawiatury Trezora (7 8 9 / 4 5 6 / 1 2 3):
+Sparuj Trezor
+Odblokuj Trezor
