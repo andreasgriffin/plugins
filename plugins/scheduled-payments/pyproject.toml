@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "scheduled-payments"
-version = "1.0.0"
+version = "1.1.0"
 description = "Plan future payments, manage recurring recipients, and quickly prefill the transaction composer."
 authors = [
     "andreasgriffin <andreasgriffin@proton.me>",
