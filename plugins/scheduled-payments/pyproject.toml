@@ -11,7 +11,7 @@ schema_version = "1"
 display_name = "Schedule"
 plugin_api_version = "1"
 entrypoint = "scheduled_payments/plugin_bundle.py"
-bitcoin_safe_version = ">=0.0.0,<999.0.0"
+bitcoin_safe_version = ">=2.1.0,<3.0.0"
 provider = "Bitcoin Safe"
 
 [tool.bitcoin_safe.plugin.btcpay.client]

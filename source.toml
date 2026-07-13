@@ -3,13 +3,14 @@ source_id = "plugin-repository"
 display_name = "Plugin Repository"
 publisher_fingerprint = "2759AA7148568ECCB03B76301D82124B440F612D"
 source_serial = 12
+min_app_version = "2.1.0"
 
 [[plugins]]
 bundle_id = "notification-broadcaster"
-folder_hash = "45cab9e7fea686efa420a9a3d603c2504a76a98be043d1dc65a937033a461c4b"
+folder_hash = "5fddb6ac7146ec215f323f887039ee6e6f0482da95102f36ab4498c15a87b5d8"
 release_ref = "main"
 
 [[plugins]]
 bundle_id = "scheduled-payments"
-folder_hash = "2929483e60740abef25992c885a63c365ab480aca3dcbdb61e8af65c3a200b50"
+folder_hash = "bbec6e86a49728928d9bcf8c7c22a72f03a1d4485c836d9e7b0ba665ddf85230"
 release_ref = "main"
