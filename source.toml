@@ -12,5 +12,5 @@ release_ref = "main"
 
 [[plugins]]
 bundle_id = "scheduled-payments"
-folder_hash = "c73b76918583d4a486c2cebb66d3cb8ba4f0895caf95401bf70bd657b5cb9c25"
+folder_hash = "fed18d198d8a37fb8576738f2c2b222333d730e95540b640f4a53a6cda5e9b25"
 release_ref = "main"
