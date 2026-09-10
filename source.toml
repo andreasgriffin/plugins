@@ -2,15 +2,15 @@ schema_version = "1"
 source_id = "plugin-repository"
 display_name = "Plugin Repository"
 publisher_fingerprint = "2759AA7148568ECCB03B76301D82124B440F612D"
-source_serial = 12
-min_app_version = "2.1.0"
+source_serial = 13
+min_app_version = "2.1.4"
 
 [[plugins]]
 bundle_id = "notification-broadcaster"
-folder_hash = "a37643142a7b47704fb989b2c2aec51780e0d38f2729c7faa44de15d7115eb05"
+folder_hash = "62219b43d906dfdc28a36d3aad818e58ff503a9eae8d860266856dff42f79c61"
 release_ref = "main"
 
 [[plugins]]
 bundle_id = "scheduled-payments"
-folder_hash = "fed18d198d8a37fb8576738f2c2b222333d730e95540b640f4a53a6cda5e9b25"
+folder_hash = "89ae5de3007778512d75edc84bd20504eda89f83fe2984210be8868397b8277f"
 release_ref = "main"
