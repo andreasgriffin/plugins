@@ -7,10 +7,10 @@ min_app_version = "2.2.2"
 
 [[plugins]]
 bundle_id = "notification-broadcaster"
-folder_hash = "3f90dc6074e3fba014698a682257353017f4906acfa227a4ec7fbcd9e02740d8"
+folder_hash = "231323280662974c611052eeb91ff15b76db72204cb3cbc6d10504a5220fd437"
 release_ref = "main"
 
 [[plugins]]
 bundle_id = "scheduled-payments"
-folder_hash = "fcb6a1e6897e5f2d71a3baa4abc295207d9472e26bced8fdb09eb1f83c768ec4"
+folder_hash = "a7a488df0d0f204c69dbe777e669db62f7ba9f115d1038673fd8dd0ac8511be5"
 release_ref = "main"
